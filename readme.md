@@ -4,25 +4,25 @@ A curated list of awesome Japanese learning resources
 
 ## Contents
 
-- [Awesome Japanese](#awesome-japanese)
-    -[Beginner Guide](#beginner-guide)
-    -[Textbook](#textbook)
-    -[Course](#course)
-    -[Hiragana & Katakana]
-    -[Kanji](#kanji)
-    -[Vocabulary](#vocabulary)
-    -[Grammar](#grammar)
-    -[Reading](#reading)
-    -[Listening](#listening)
-    -[Podcast](#podcast)
-    -[Community](#community)
-    -[Dictionary]
-        -[Desktop]
-        -[Browser Extension]
-    -[Video](#video)
-        -[Lesson](#lesson)
-        -[News](#news)
-    -[Dictionary](#dictionary)
+* [Awesome Japanese](#awesome-japanese)
+    * [Beginner Guide](#beginner-guide)
+    * [Textbook](#textbook)
+    * [Course](#course)
+    * [Hiragana & Katakana]
+    * [Kanji](#kanji)
+    * [Vocabulary](#vocabulary)
+    * [Grammar](#grammar)
+    * [Reading](#reading)
+    * [Listening](#listening)
+    * [Podcast](#podcast)
+    * [Community](#community)
+    * [Dictionary]
+        * [Desktop]
+        * [Browser Extension]
+    * [Video](#video)
+        * [Lesson](#lesson)
+        * [News](#news)
+    * [Dictionary](#dictionary)
     
 ## Beginner Guide
 
@@ -111,7 +111,7 @@ The primary goals with this textbook are, to solidify the grammar, vocabulary an
 * [Game Grammar](https://www.youtube.com/channel/UC8UqIZlupjIQ3vxcAOEoNug) - Teach you Japanese by playing video games in 100% authentic Nihongo.
 * [JapanesePod101](https://www.youtube.com/channel/UC0ox9NuTHYeRys63yZpBFuA) - Popular Japanese podcast's YouTube channel.
 * [QVC Japan](http://qvc.jp/cont/live/Main?sc_initcmp=icpc_TOP_Left-Menu_005) - QVC Japan Shopping Channel Live Stream.
-### News
+* News
     * [BBC News in Japanese](https://www.youtube.com/channel/UCCcey5CP5GDZeom987gqTdg)
     * [Asahi News](https://www.youtube.com/user/ANNnewsCH)
     * [Asahi News Live](https://www.youtube.com/watch?v=Fu2etwHzcvw) 24/7 Asahi News Live stream.
