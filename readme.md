@@ -4,25 +4,25 @@ A curated list of awesome Japanese learning resources
 
 ## Contents
 
-* [Awesome Japanese](#awesome-japanese)
-    * [Beginner Guide](#beginner-guide)
-    * [Textbook](#textbook)
-    * [Course](#course)
-    * [Hiragana & Katakana]
-    * [Kanji](#kanji)
-    * [Vocabulary](#vocabulary)
-    * [Grammar](#grammar)
-    * [Reading](#reading)
-    * [Listening](#listening)
-    * [Podcast](#podcast)
-    * [Community](#community)
-    * [Dictionary]
-        * [Desktop]
-        * [Browser Extension]
-    * [Video](#video)
-        * [Lesson](#lesson)
-        * [News](#news)
-    * [Dictionary](#dictionary)
+- [Awesome Japanese](#awesome-japanese)
+    - [Beginner Guide](#beginner-guide)
+    - [Textbook](#textbook)
+    - [Course](#course)
+    - [Hiragana & Katakana]
+    - [Kanji](#kanji)
+    - [Vocabulary](#vocabulary)
+    - [Grammar](#grammar)
+    - [Reading](#reading)
+    - [Listening](#listening)
+    - [Podcast](#podcast)
+    - [Community](#community)
+    - [Dictionary]
+        - [Desktop]
+        - [Browser Extension]
+    - [Video](#video)
+        - [Lesson](#lesson)
+        - [News](#news)
+    - [Dictionary](#dictionary)
     
 ## Beginner Guide
 
