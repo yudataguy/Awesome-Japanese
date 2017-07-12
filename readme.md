@@ -95,7 +95,7 @@ The primary goals with this textbook are, to solidify the grammar, vocabulary an
 * Anki Deck 
 	* [Japanese Core 2000 Complete](https://ankiweb.net/shared/info/1723306405) - :card_index:Popular Anki Japanese Deck Core2k
 	* [Japanese Core 2000/6000](http://www.mediafire.com/file/ya4p7y9a3152h8e/Core+2k_6k+Optimized+Japanese+Vocabulary.apkg) - :card_index:Popular Anki Japanese Deck Core 2k/6k
-* [Memrise](https://www.memrise.com/) - Popular online/app flashcard platform.
+* [Memrise](https://www.memrise.com/) - Popular online/app flashcard platform.:iphone:
 
 ## Grammar
 
@@ -122,7 +122,7 @@ The primary goals with this textbook are, to solidify the grammar, vocabulary an
 	* [Learn Japanese Pod](https://learnjapanesepod.com/)
 	* [JapanesePod101](https://www.japanesepod101.com/)
 	* [News in Slow Japanese](http://newsinslowjapanese.com/)
-	* [NHK News Podcast](http://www.nhk.or.jp/podcasts/)
+	* [NHK News Podcast](http://www.nhk.or.jp/podcasts/) - :older_man:
 
 ## Community
 
@@ -177,7 +177,9 @@ The primary goals with this textbook are, to solidify the grammar, vocabulary an
 		* [Yomichan](https://chrome.google.com/webstore/detail/yomichan/ogmnaimimemjmbakcfefmnahgdfhfami) - Yomichan turns your browser into a tool for building Japanese language literacy by helping you to decipher texts which would be otherwise too difficult tackle.
 		* [rikaigu](https://chrome.google.com/webstore/detail/rikaigu/gmgccdlimakdipjjogccblkaoipdklcb) - Rikaikun enhanced. Translate Japanese by hovering over words.
 		* [IPA furigana](https://chrome.google.com/webstore/detail/ipa-furigana/jnnbgnfnncobhklficfkdnclohaklifi) - Looks up the readings for kanji words and inserts them as furigana. 
-
+	* Safari
+		* [Safarikai](https://ashchan.github.io/safarikai/) - Rikaichan's Safari extension version
+		
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
