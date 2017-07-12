@@ -158,17 +158,19 @@ The primary goals with this textbook are, to solidify the grammar, vocabulary an
     
 ## Dictionary
 
-* [Jisho](http://jisho.org/)
-* [Weblio](http://www.weblio.jp/) - :jp:
-* [Google Translate](https://translate.google.com/) - Support voice and image based translation :iphone:
-* [Houhou](http://houhou-srs.com/) - the dictionary doubles as a learning tool.:computer:
-
+* Web
+	* [Jisho](http://jisho.org/)
+	* [Weblio](http://www.weblio.jp/) - :jp:
+	* [Google Translate](https://translate.google.com/) - Support voice and image based translation, mobile app available, supports offline translation :iphone:
+* Software
+	* [Houhou](http://houhou-srs.com/) - the dictionary doubles as a learning tool.:computer:
+	* [Takoboto](https://play.google.com/store/apps/details?id=jp.takoboto) - Android Japanese dictionary app, also has web and computer based version.:iphone::computer:
+	* [imiwa?](http://www.imiwaapp.com/) - iOS Japanese dictionary app:iphone:
+	
 ## Software
 
-* Mobile App:iphone:
-	* [Human Japanese](http://www.humanjapanese.com) - Popular app/software based learning approach:iphone::computer:
-	* [Takoboto](https://play.google.com/store/apps/details?id=jp.takoboto) - Android Japanese dictionary app, also has web and computer based version.:computer:
-	* [imiwa?](http://www.imiwaapp.com/) - iOS Japanese dictionary app
+* Computer
+	* [Human Japanese](http://www.humanjapanese.com) - Popular Japanese learning program:iphone::computer:
 * Browser Extension:satellite:
 	* Firefox
 		* [rikaichan](https://addons.mozilla.org/en-US/firefox/addon/rikaichan/) - Japanese to English/German/French/Russian dictionary. Just hover the mouse on top of a word, and a popup appears.
