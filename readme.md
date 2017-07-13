@@ -25,7 +25,7 @@
 |:baby: beginner   	|:man: intermediate   	|:older_man: advanced   	|
 |---	|---	|---	|
 |:iphone: mobile app   	|:computer: computer software   	|:satellite: browser extension  	|
-|:jp: Japanese UI only 	|:japan: Japan IP restricted   	|:moneybag: paid content   	|
+|:jp: Japanese UI only 	|:japan: Japan IP restricted   	|:moneybag: costs money   	|
 |:warning: warning   	|:book: book   	|:card_index: Anki deck  	|
     
 ## Beginner Guide
