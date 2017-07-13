@@ -25,7 +25,7 @@
 |:baby: beginner   	|:man: intermediate   	|:older_man: advanced   	|
 |---	|---	|---	|
 |:iphone: mobile app   	|:computer: computer software   	|:satellite: browser extension  	|
-|:jp: Japanese only    	|:japan: Japan IP restricted   	|:moneybag: not free content   	|
+|:jp: Japanese UI only 	|:japan: Japan IP restricted   	|:moneybag: paid content   	|
 |:warning: warning   	|:book: book   	|:card_index: Anki deck  	|
     
 ## Beginner Guide
@@ -39,7 +39,7 @@
 
 ## Textbook
 
-*Textbook provides you with a structured learning material*
+*Textbook provides you with a structured learning material.*
 
 ### Genki:baby:
 
@@ -57,12 +57,12 @@ The primary goals with this textbook are, to solidify the grammar, vocabulary an
 [Official](http://tobiraweb.9640.jp/) | [Amazon]():moneybag:
 
 ## Course
-* [Easy Japanese](https://www.nhk.or.jp/lesson/english/index.html) - Made by NHK in multiple languages
-* [Erin's Challenge](https://www.erin.ne.jp/en/) - Video based Japanese lessons
+* [Easy Japanese](https://www.nhk.or.jp/lesson/english/index.html) - Made by NHK in multiple languages:baby:
+* [Erin's Challenge](https://www.erin.ne.jp/en/) - Video based Japanese lessons:man:
 
 ## Hiragana and Katakana
 
-*Alphabet of Japanese language
+*Alphabet of Japanese language.*
 * Hiragana
 	* [Tofugu for Hiragana](https://www.tofugu.com/japanese/learn-hiragana/)
 	* [Learn Hiragana in 1 Hour](https://youtu.be/6p9Il_j0zjc) - Video class.
@@ -85,16 +85,16 @@ The primary goals with this textbook are, to solidify the grammar, vocabulary an
 * Anki Deck
 	* [Kodansha kanji learner's course with vocabulary](https://ankiweb.net/shared/info/779483253) - :card_index:This deck is meant to be used together with the Kodansha Kanji Learner's Course book (KLC).
 	* [Official KanjiDamage deck](https://ankiweb.net/shared/info/748570187) - :card_index:This is the ultimate deck to learn Kanji with the KanjiDamage method.
-	* [All in One Kanji Deck (Heisig's RTK Order, 6th edition)](https://ankiweb.net/shared/info/1862058740) - :card_index:Based on Heisig's Remember the Kanji 6th ed. book
+	* [All in One Kanji Deck (Heisig's RTK Order, 6th ed.)](https://ankiweb.net/shared/info/1862058740) - :card_index:Based on Heisig's Remember the Kanji 6th ed. book
 
 ## Vocaulary
 
 * [Anki](https://apps.ankiweb.net/) - Popular flashcard based software.:iphone::computer:
 	* [Anki User Manual](https://apps.ankiweb.net/docs/manual.html)
     * [How to use Anki to Learn Japanese](https://youtu.be/dPVpsX9ZPWE) - Anki video tutorial.
-* Anki Deck 
-	* [Japanese Core 2000 Complete](https://ankiweb.net/shared/info/1723306405) - :card_index:Popular Anki Japanese Deck Core2k
-	* [Japanese Core 2000/6000](http://www.mediafire.com/file/ya4p7y9a3152h8e/Core+2k_6k+Optimized+Japanese+Vocabulary.apkg) - :card_index:Popular Anki Japanese Deck Core 2k/6k
+	* Anki Deck 
+		* [Japanese Core 2000 Complete](https://ankiweb.net/shared/info/1723306405) - :card_index:Popular Anki Japanese Deck Core2k
+		* [Japanese Core 2000/6000](http://www.mediafire.com/file/ya4p7y9a3152h8e/Core+2k_6k+Optimized+Japanese+Vocabulary.apkg) - :card_index:Popular Anki Japanese Deck Core 2k/6k
 * [Memrise](https://www.memrise.com/) - Popular online/app flashcard platform.:iphone:
 
 ## Grammar
@@ -107,12 +107,12 @@ The primary goals with this textbook are, to solidify the grammar, vocabulary an
 ## Reading
 
 * [NHK Easy News](http://www3.nhk.or.jp/news/easy/) - News for elementary, middle school, and foreigner with audio and video.:baby:
-* [Nippon Talk](http://www.nippontalk.com/en/) - Japanese texts with furigana and English translation.
-* [Japanese Folktales](http://www.e-hon.jp/ehon_jp/index1.htm) - Japanese folktales with drawing and audio
-* [Hukumusume Fairy Tale Collection](http://hukumusume.com/douwa/) - A website where you can read and hear traditional folk tales, legends and fairy stories - from Japan and all around the world - read aloud for you in Japanese.
-* [Kyoko Shinbun](http://kyoko-np.net/index.html) - Fake Japanese News(similar to The Onion):iphone::jp::older_man:
+* [Nippon Talk](http://www.nippontalk.com/en/) - Japanese texts with furigana and English translation.:warning:No longer updates
+* [Japanese Folktales](http://www.e-hon.jp/ehon_jp/index1.htm) - Japanese folktales with drawing and audio.:jp:
+* [Hukumusume Fairy Tale Collection](http://hukumusume.com/douwa/) - A website where you can read and hear traditional folk tales, legends and fairy stories - from Japan and all around the world - read aloud for you in Japanese.:jp:
+* [Kyoko Shinbun](http://kyoko-np.net/index.html) - Fake Japanese News(similar to The Onion), podcast available.:iphone::jp::older_man:
 * [用例.jp](http://yourei.jp/) - Search engine for Japanese sample sentences:jp:
-* [Japanese in Anime & Manga](http://anime-manga.jp/) - Learn Japanese from anime and manga 
+* [Japanese in Anime & Manga](http://anime-manga.jp/) - Learn Japanese from anime and manga. 
 
 ## Listening
 
@@ -122,16 +122,17 @@ The primary goals with this textbook are, to solidify the grammar, vocabulary an
 	* [Learn Japanese Pod](https://learnjapanesepod.com/)
 	* [JapanesePod101](https://www.japanesepod101.com/)
 	* [News in Slow Japanese](http://newsinslowjapanese.com/)
-	* [NHK News Podcast](http://www.nhk.or.jp/podcasts/) - :older_man:
+	* [NHK News Podcast](http://www.nhk.or.jp/podcasts/) - Three podcasts available: Japanese news, English news, Easy Japanese.:older_man:
 
 ## Community
 
-* [/r/learnjapanese](https://www.reddit.com/r/LearnJapanese/) - Learn Japanese subreddit:iphone:
-* [Kanji Koohii Forum](https://forum.koohii.com/) - Forum which covers all aspects of Japanese learning
+* [/r/learnjapanese](https://www.reddit.com/r/LearnJapanese/) - Learn Japanese subreddit.:iphone:
+* [Kanji Koohii Forum](https://forum.koohii.com/) - Forum which covers all aspects of Japanese learning.
 * [Lang-8](http://lang-8.com/) - A language learning platform where native speakers correct what you write.:iphone:
-* [Discord](https://discordapp.com/) - Popular chatroom platform:iphone::computer:
-	* [English-Japanese Language Exchange](https://discord.gg/NJJCYVD) - Highly active English/Japanese discord chat server
-	* [日本語と英語](https://discord.gg/0eIsYvFQul270V1L) - Another popular English/Japanese discord chat server
+* [Discord](https://discordapp.com/) - Popular chatroom platform.:iphone::computer:
+	* [English-Japanese Language Exchange](https://discord.gg/NJJCYVD) - Highly active English/Japanese discord chat server.
+	* [日本語と英語](https://discord.gg/0eIsYvFQul270V1L) - Another popular English/Japanese discord chat server.
+* [HelloTalk](https://www.hellotalk.com/) - Popular language exchange app.:iphone:
 
 ## Video
 
@@ -141,20 +142,20 @@ The primary goals with this textbook are, to solidify the grammar, vocabulary an
 	* [Game Grammar](https://www.youtube.com/channel/UC8UqIZlupjIQ3vxcAOEoNug) - Teach you Japanese by playing video games YouTube channel.
 	* [JapanesePod101](https://www.youtube.com/channel/UC0ox9NuTHYeRys63yZpBFuA) - Popular Japanese podcast's YouTube channel.
 * News
-    * [BBC News in Japanese](https://www.youtube.com/channel/UCCcey5CP5GDZeom987gqTdg) BBC News in Japanese YouTube channel
-    * [Asahi News](https://www.youtube.com/user/ANNnewsCH) - Asahi News YouTube channel
+    * [BBC News in Japanese](https://www.youtube.com/channel/UCCcey5CP5GDZeom987gqTdg) BBC News in Japanese YouTube channel.
+    * [Asahi News](https://www.youtube.com/user/ANNnewsCH) - Asahi News YouTube channel.
 	* [Asahi News Live](https://www.youtube.com/watch?v=Fu2etwHzcvw) - 24/7 Asahi News Live stream.
-	* [Fuji News Network](http://www.fnn-news.com/) - FNN live and vod
-	* [News24](http://www.news24.jp/) - News24 Channel live and vod 
+	* [Fuji News Network](http://www.fnn-news.com/) - FNN live and vod.
+	* [News24](http://www.news24.jp/) - News24 Channel live and vod.
 	* [Weather News Live](https://www.youtube.com/watch?v=kfTq_A9nBM0) - 24/7 Japanese Weather Channel Live stream.
 * Stream
 	* [QVC Japan](http://qvc.jp/cont/live/Main?sc_initcmp=icpc_TOP_Left-Menu_005) - QVC Japan Shopping Channel Live stream.:warning:Flash required
-	* [Keylabo](http://www.keylabo.com/watch-tv-online-for-free/) - Free Japanese TV Live stream :warning:some channels may not work
-	* [Abema TV](https://abema.tv/) - Live Japanese TV stream :iphone::japan:
-	* [GYAO!](https://gyao.yahoo.co.jp/) - Japanese TV programs on demand :iphone::japan:
-	* [FRESH!](https://freshlive.tv/) - Japanese streamer platform :iphone:
-	* [NicoNico](http://www.nicovideo.jp/) - Japanese streamer platform :iphone:
-	* [ARTV Japan](https://play.google.com/store/apps/details?id=artv.japan&hl=th) - Android Japan TV stream app:iphone:
+	* [Keylabo](http://www.keylabo.com/watch-tv-online-for-free/) - Free Japanese TV Live stream.:warning:some channels may not work
+	* [Abema TV](https://abema.tv/) - Live Japanese TV stream.:iphone::japan:
+	* [GYAO!](https://gyao.yahoo.co.jp/) - Japanese TV programs on demand.:iphone::japan:
+	* [FRESH!](https://freshlive.tv/) - Japanese streamer platform.:iphone:
+	* [NicoNico](http://www.nicovideo.jp/) - Japanese streamer platform.:iphone:
+	* [ARTV Japan](https://play.google.com/store/apps/details?id=artv.japan&hl=th) - Android Japan TV stream app.:iphone:
     
 ## Dictionary
 
@@ -170,7 +171,9 @@ The primary goals with this textbook are, to solidify the grammar, vocabulary an
 ## Software
 
 * Computer
-	* [Human Japanese](http://www.humanjapanese.com) - Popular Japanese learning program:iphone::computer:
+	* [Human Japanese](http://www.humanjapanese.com) - Popular Japanese learning program.:iphone::computer::moneybag:
+	* [Google Japanese Input](https://www.google.co.jp/ime/) - Google Japanese Input, available on windows, mac, and android.:computer::iphone:
+	* [How to Install Japanese Keyboard on Everything](https://www.tofugu.com/japanese/how-to-install-japanese-keyboard/) - Guide by Tofugu.
 * Browser Extension:satellite:
 	* Firefox
 		* [rikaichan](https://addons.mozilla.org/en-US/firefox/addon/rikaichan/) - Japanese to English/German/French/Russian dictionary. Just hover the mouse on top of a word, and a popup appears.
@@ -180,7 +183,7 @@ The primary goals with this textbook are, to solidify the grammar, vocabulary an
 		* [rikaigu](https://chrome.google.com/webstore/detail/rikaigu/gmgccdlimakdipjjogccblkaoipdklcb) - Rikaikun enhanced. Translate Japanese by hovering over words.
 		* [IPA furigana](https://chrome.google.com/webstore/detail/ipa-furigana/jnnbgnfnncobhklficfkdnclohaklifi) - Looks up the readings for kanji words and inserts them as furigana. 
 	* Safari
-		* [Safarikai](https://ashchan.github.io/safarikai/) - Rikaichan's Safari extension version
+		* [Safarikai](https://ashchan.github.io/safarikai/) - Rikaichan's Safari extension version.
 		
 ## Contribute
 
