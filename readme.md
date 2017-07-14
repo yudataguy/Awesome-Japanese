@@ -48,10 +48,8 @@ Description: Second edition of the most highly regarded teaching text book on th
 
 * [Official](http://genki.japantimes.co.jp/index_en)
 * Amazon:moneybag:
-	* [Genki 1 Textbook](http://amzn.to/2sWHdZH)
-	* [Genki 1 Workbook](http://amzn.to/2sWRsgR)
-	* [Genki 2 Textbook](http://amzn.to/2uqnJBh)
-	* [Genki 2 Workbook](http://amzn.to/2sX7RBQ)
+	* [Genki 1 Textbook](http://amzn.to/2sWHdZH) | [Genki 1 Workbook](http://amzn.to/2sWRsgR)
+	* [Genki 2 Textbook](http://amzn.to/2uqnJBh) | [Genki 2 Workbook](http://amzn.to/2sX7RBQ)
 	* [Genki Answer Key](http://amzn.to/2sX4ZF8)
 * Anki Deck:card_index:
 	* [Genki 1 & 2 ](https://ankiweb.net/shared/info/1132238466) - ALL the vocab from Genki 1 & 2 and more. :warning:Still updating
@@ -203,7 +201,6 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
+[![CC4](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-To the extent possible under law, Yu has waived all copyright and
-related or neighboring rights to this work.
