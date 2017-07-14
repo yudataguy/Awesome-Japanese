@@ -46,15 +46,26 @@
 Everyone's favorite Japanese textbook. Recommended for beginner. 
 Description: Second edition of the most highly regarded teaching text book on the Japanese language, covering speaking, listening, reading, and writing to cultivate overall language ability. Each lesson in the revised edition features a new section dubbed Culture Notes," and now includes the audio CD companion which is in mp3 format ready to install on any music player. In Japanese/English.
 
-[Official](http://genki.japantimes.co.jp/index_en) | [Amazon]():moneybag:
-* [Genki 1 & 2 ](https://ankiweb.net/shared/info/1132238466) - :card_index:ALL the vocab from Genki 1 & 2 and more. :warning:Still updating
+* [Official](http://genki.japantimes.co.jp/index_en)
+* Amazon:moneybag:
+	* [Genki 1 Textbook](http://amzn.to/2sWHdZH)
+	* [Genki 1 Workbook](http://amzn.to/2sWRsgR)
+	* [Genki 2 Textbook](http://amzn.to/2uqnJBh)
+	* [Genki 2 Workbook](http://amzn.to/2sX7RBQ)
+	* [Genki Answer Key](http://amzn.to/2sX4ZF8)
+* Anki Deck:card_index:
+	* [Genki 1 & 2 ](https://ankiweb.net/shared/info/1132238466) - ALL the vocab from Genki 1 & 2 and more. :warning:Still updating
 
 ### Tobira:man:
 
 The "Tobira" textbook combines the practice of all four language skills (reading, listening, writing, speaking) and is designed for use by students who have **completed a beginning Japanese textbook or, in terms of classroom time, somewhere from 250 to 300 hours of Japanese study**.
 The primary goals with this textbook are, to solidify the grammar, vocabulary and kanji foundation studied during the beginner level and to develop all 4 language skills. What makes this book unique is that you can learn Japanese using multimedia besides the textbook.
 
-[Official](http://tobiraweb.9640.jp/) | [Amazon]():moneybag:
+* [Official](http://tobiraweb.9640.jp/) - Unlock multimedia content and Anki deck with special code in the textbook.
+* Amazon:moneybag:
+	* [Tobira Textbook](http://amzn.to/2sX0KcF)
+	* [Tobira: Power Up Your Kanji](http://amzn.to/2sX31nV) - With it, students can study a total of 800 kanji-the 297 kanji generally introduced in beginning-level textbooks and an additional 503 kanji introduced in Tobira.
+	* [Tobira: Grammar Power](http://amzn.to/2ugA22i) - Japanese grammar skill build up book.
 
 ## Course
 * [Easy Japanese](https://www.nhk.or.jp/lesson/english/index.html) - Made by NHK in multiple languages:baby:
