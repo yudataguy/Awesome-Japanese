@@ -109,7 +109,7 @@ The primary goals with this textbook are, to solidify the grammar, vocabulary an
 
 ## Grammar
 
-* [Japanese Grammar Guide](http://www.guidetojapanese.org/learn/grammar) - By Tae Kim.
+* [Japanese Grammar Guide](http://www.guidetojapanese.org/learn/grammar) - By Tae Kim.:iphone:
 * [Visualize Japanese Grammar](https://www2.gwu.edu/~eall/vjg/vjghomepage/vjghome.htm) - links to 66 animations of various grammatical structures in Japanese and 12 downloadable appendices.
 * [JGram](http://www.jgram.org/) - The Japanese Grammar Database.
 * [Maggie Sensei](http://maggiesensei.com/) - Conversational Grammar
@@ -117,7 +117,6 @@ The primary goals with this textbook are, to solidify the grammar, vocabulary an
 ## Reading
 
 * [NHK Easy News](http://www3.nhk.or.jp/news/easy/) - News for elementary, middle school, and foreigner with audio and video.:baby:
-* [Nippon Talk](http://www.nippontalk.com/en/) - Japanese texts with furigana and English translation.:warning:No longer updates
 * [Japanese Folktales](http://www.e-hon.jp/ehon_jp/index1.htm) - Japanese folktales with drawing and audio.:jp:
 * [Hukumusume Fairy Tale Collection](http://hukumusume.com/douwa/) - A website where you can read and hear traditional folk tales, legends and fairy stories - from Japan and all around the world - read aloud for you in Japanese.:jp:
 * [Kyoko Shinbun](http://kyoko-np.net/index.html) - Fake Japanese News(similar to The Onion), podcast available.:iphone::jp::older_man:
@@ -132,7 +131,7 @@ The primary goals with this textbook are, to solidify the grammar, vocabulary an
 	* [Learn Japanese Pod](https://learnjapanesepod.com/)
 	* [JapanesePod101](https://www.japanesepod101.com/)
 	* [News in Slow Japanese](http://newsinslowjapanese.com/)
-	* [NHK News Podcast](http://www.nhk.or.jp/podcasts/) - Three podcasts available: Japanese news, English news, Easy Japanese.:older_man:
+	* [NHK News Podcast](http://www.nhk.or.jp/podcasts/) - Three podcasts available: Japanese news:older_man:, English news, and Easy Japanese.
 
 ## Community
 
