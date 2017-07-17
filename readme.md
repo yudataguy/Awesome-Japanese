@@ -113,7 +113,11 @@ The primary goals with this textbook are, to solidify the grammar, vocabulary an
 * [Visualize Japanese Grammar](https://www2.gwu.edu/~eall/vjg/vjghomepage/vjghome.htm) - links to 66 animations of various grammatical structures in Japanese and 12 downloadable appendices.
 * [JGram](http://www.jgram.org/) - The Japanese Grammar Database.
 * [Maggie Sensei](http://maggiesensei.com/) - Conversational Grammar
-
+* Book:book:
+	* [A Dictionary of Basic Japanese Grammar](https://www.amazon.com/Dictionary-Basic-Japanese-Grammar/dp/4789004546/) - Popular Japanese grammar dictionary series:baby:
+	* [A Dictionary of Intermediate Japanese Grammar](http://amzn.to/2txGg9H) - :man:
+	* [A Dictionary of Advanced Japanese Grammar](http://amzn.to/2u1pLVg) - :older_man:
+	
 ## Reading
 
 * [NHK Easy News](http://www3.nhk.or.jp/news/easy/) - News for elementary, middle school, and foreigner with audio and video.:baby:
@@ -171,7 +175,7 @@ The primary goals with this textbook are, to solidify the grammar, vocabulary an
 * Web
 	* [Jisho](http://jisho.org/)
 	* [Weblio](http://www.weblio.jp/) - :jp:
-	* [Google Translate](https://translate.google.com/) - Support voice and image based translation, mobile app available, supports offline translation :iphone:
+	* [Google Translate](https://translate.google.com/) - Supports voice and image translation, mobile app supports offline translation :iphone:
 * Software
 	* [Houhou](http://houhou-srs.com/) - the dictionary doubles as a learning tool.:computer:
 	* [Takoboto](https://play.google.com/store/apps/details?id=jp.takoboto) - Android Japanese dictionary app, also has web and computer based version.:iphone::computer:
