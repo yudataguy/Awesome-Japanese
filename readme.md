@@ -113,8 +113,8 @@ The primary goals with this textbook are, to solidify the grammar, vocabulary an
 * [Visualize Japanese Grammar](https://www2.gwu.edu/~eall/vjg/vjghomepage/vjghome.htm) - links to 66 animations of various grammatical structures in Japanese and 12 downloadable appendices.
 * [JGram](http://www.jgram.org/) - The Japanese Grammar Database.
 * [Maggie Sensei](http://maggiesensei.com/) - Conversational Grammar
-* Book:book::moneybag:
-	* [A Dictionary of Basic Japanese Grammar](https://www.amazon.com/Dictionary-Basic-Japanese-Grammar/dp/4789004546/) - Popular Japanese grammar dictionary series:baby:
+* :book:Amazon:moneybag:
+	* [A Dictionary of Basic Japanese Grammar](http://a.co/fMGHlG2) - Popular Japanese grammar dictionary series:baby:
 	* [A Dictionary of Intermediate Japanese Grammar](http://amzn.to/2txGg9H) - :man:
 	* [A Dictionary of Advanced Japanese Grammar](http://amzn.to/2u1pLVg) - :older_man:
 	
