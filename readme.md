@@ -53,6 +53,7 @@ Description: Second edition of the most highly regarded teaching text book on th
 	* [Genki Answer Key](http://amzn.to/2sX4ZF8)
 * Anki Deck:card_index:
 	* [Genki 1 & 2 ](https://ankiweb.net/shared/info/1132238466) - ALL the vocab from Genki 1 & 2 and more. :warning:Still updating
+* [Free digital download](https://drive.google.com/open?id=0B7RbJJM_m3GDUGw3VFlVWkd0bjA)
 
 ### Tobira:man:
 
@@ -64,6 +65,11 @@ The primary goals with this textbook are, to solidify the grammar, vocabulary an
 	* [Tobira Textbook](http://amzn.to/2sX0KcF)
 	* [Tobira: Power Up Your Kanji](http://amzn.to/2sX31nV) - With it, students can study a total of 800 kanji-the 297 kanji generally introduced in beginning-level textbooks and an additional 503 kanji introduced in Tobira.
 	* [Tobira: Grammar Power](http://amzn.to/2ugA22i) - Japanese grammar skill build up book.
+* [Free digital download](https://drive.google.com/open?id=0B7RbJJM_m3GDd2VvRUN6aFZDVkU)
+
+### Other textbooks
+
+[Click here to view Ryry013's Google Drive folder](https://drive.google.com/open?id=0B7RbJJM_m3GDWTBVRk5mcm9YMEU), which has links to other textbooks such as Japanese for Busy People, Japanese - The Manga Way, and An Integrated Approach to Intermediate Japanese.  Additionally, there's some reading resources such as Yotsubato.
 
 ## Course
 * [Easy Japanese](https://www.nhk.or.jp/lesson/english/index.html) - Made by NHK in multiple languages:baby:
