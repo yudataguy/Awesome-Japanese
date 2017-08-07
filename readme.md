@@ -43,8 +43,8 @@
 
 ### Genki:baby:
 
-Everyone's favorite Japanese textbook. Recommended for beginner. 
-Description: Second edition of the most highly regarded teaching text book on the Japanese language, covering speaking, listening, reading, and writing to cultivate overall language ability. Each lesson in the revised edition features a new section dubbed Culture Notes," and now includes the audio CD companion which is in mp3 format ready to install on any music player. In Japanese/English.
+Everyone's favorite Japanese textbook. Recommended for beginners. 
+Description: The second edition of the most highly regarded teaching textbook on the Japanese language, covering speaking, listening, reading, and writing to cultivate overall language ability. Each lesson in the revised edition features a new section dubbed "Culture Notes", and now includes the audio CD companion which is in mp3 format ready to install on any music player. In Japanese/English.
 
 * [Official](http://genki.japantimes.co.jp/index_en)
 * Amazon:moneybag:
@@ -56,8 +56,8 @@ Description: Second edition of the most highly regarded teaching text book on th
 
 ### Tobira:man:
 
-The "Tobira" textbook combines the practice of all four language skills (reading, listening, writing, speaking) and is designed for use by students who have **completed a beginning Japanese textbook or, in terms of classroom time, somewhere from 250 to 300 hours of Japanese study**.
-The primary goals with this textbook are, to solidify the grammar, vocabulary and kanji foundation studied during the beginner level and to develop all 4 language skills. What makes this book unique is that you can learn Japanese using multimedia besides the textbook.
+The "Tobira" textbook combines the practice of all four language skills (reading, listening, writing, speaking) and is designed for use by students who have **completed a beginner level Japanese textbook or, in terms of classroom time, has completed somewhere between 250 to 300 hours of Japanese study**.
+The primary goals of this textbook are to solidify the grammar, vocabulary and kanji foundation studied during the beginner level and to develop all 4 language skills. What makes this book unique is that you can learn Japanese using multimedia besides the textbook.
 
 * [Official](http://tobiraweb.9640.jp/) - Unlock multimedia content and Anki deck with special code in the textbook.
 * Amazon:moneybag:
@@ -120,9 +120,9 @@ The primary goals with this textbook are, to solidify the grammar, vocabulary an
 	
 ## Reading
 
-* [NHK Easy News](http://www3.nhk.or.jp/news/easy/) - News for elementary, middle school, and foreigner with audio and video.:baby:
-* [Japanese Folktales](http://www.e-hon.jp/ehon_jp/index1.htm) - Japanese folktales with drawing and audio.:jp:
-* [Hukumusume Fairy Tale Collection](http://hukumusume.com/douwa/) - A website where you can read and hear traditional folk tales, legends and fairy stories - from Japan and all around the world - read aloud for you in Japanese.:jp:
+* [NHK Easy News](http://www3.nhk.or.jp/news/easy/) - News for elementary, middle school, and foreigners with audio and video.:baby:
+* [Japanese Folktales](http://www.e-hon.jp/ehon_jp/index1.htm) - Japanese folktales with drawings and audio.:jp:
+* [Hukumusume Fairy Tale Collection](http://hukumusume.com/douwa/) - A website where you can read and hear traditional folk tales, legends and fairy tales - from Japan and all around the world - read aloud for you in Japanese.:jp:
 * [Kyoko Shinbun](http://kyoko-np.net/index.html) - Fake Japanese News(similar to The Onion), podcast available.:iphone::jp::older_man:
 * [用例.jp](http://yourei.jp/) - Search engine for Japanese sample sentences:jp:
 * [Japanese in Anime & Manga](http://anime-manga.jp/) - Learn Japanese from anime and manga. 
