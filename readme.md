@@ -102,9 +102,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 * [Anki](https://apps.ankiweb.net/) - Popular flashcard based software.:iphone::computer:
 	* [Anki User Manual](https://apps.ankiweb.net/docs/manual.html)
     * [How to use Anki to Learn Japanese](https://youtu.be/dPVpsX9ZPWE) - Anki video tutorial.
-	* Anki Deck 
-		* [Japanese Core 2000 Complete](https://ankiweb.net/shared/info/1723306405) - :card_index:Popular Anki Japanese Deck Core2k
-		* [Japanese Core 2000/6000](http://www.mediafire.com/file/ya4p7y9a3152h8e/Core+2k_6k+Optimized+Japanese+Vocabulary.apkg) - :card_index:Popular Anki Japanese Deck Core 2k/6k
+	* Anki Deck [Japanese Core 2000/6000](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit) - :card_index:Popular Anki Japanese Deck Core 2k/6k
 * [Memrise](https://www.memrise.com/) - Popular online/app flashcard platform.:iphone:
 
 ## Grammar
