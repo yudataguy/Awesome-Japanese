@@ -105,11 +105,13 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	* Anki Deck 
 		* [Japanese Core 2000 Complete](https://ankiweb.net/shared/info/1723306405) - :card_index:Popular Anki Japanese Deck Core2k
 		* [Japanese Core 2000/6000](http://www.mediafire.com/file/ya4p7y9a3152h8e/Core+2k_6k+Optimized+Japanese+Vocabulary.apkg) - :card_index:Popular Anki Japanese Deck Core 2k/6k
+		* [Nayr's Core 5000](https://www.reddit.com/r/LearnJapanese/comments/4itr0d/updated_nayrs_core_5k_anki_deck/) designed around an i+1 approach where learners are exposed to more than they know.
 * [Memrise](https://www.memrise.com/) - Popular online/app flashcard platform.:iphone:
 
 ## Grammar
 
 * [Japanese Grammar Guide](http://www.guidetojapanese.org/learn/grammar) - By Tae Kim.:iphone:
+  * [Supplement Grammar List](http://aryailia.blogspot.my/2017/05/supplements-to-tae-kims-guide-to.html) by Aryailia (Araia) to the Japanese Grammar Guide. Targeted towards intermediate and advanced learners.
 * [Visualize Japanese Grammar](https://www2.gwu.edu/~eall/vjg/vjghomepage/vjghome.htm) - links to 66 animations of various grammatical structures in Japanese and 12 downloadable appendices.
 * [JGram](http://www.jgram.org/) - The Japanese Grammar Database.
 * [Maggie Sensei](http://maggiesensei.com/) - Conversational Grammar
