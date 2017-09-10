@@ -110,6 +110,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 ## Grammar
 
 * [Japanese Grammar Guide](http://www.guidetojapanese.org/learn/grammar) - By Tae Kim.:iphone:
+  * [Supplement Grammar List](http://aryailia.blogspot.my/2017/05/supplements-to-tae-kims-guide-to.html) by Aryailia (Araia) to the Japanese Grammar Guide. Targeted towards intermediate and advanced learners.
 * [Visualize Japanese Grammar](https://www2.gwu.edu/~eall/vjg/vjghomepage/vjghome.htm) - links to 66 animations of various grammatical structures in Japanese and 12 downloadable appendices.
 * [JGram](http://www.jgram.org/) - The Japanese Grammar Database.
 * [Maggie Sensei](http://maggiesensei.com/) - Conversational Grammar
