@@ -105,6 +105,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	* Anki Deck 
 		* [Japanese Core 2000 Complete](https://ankiweb.net/shared/info/1723306405) - :card_index:Popular Anki Japanese Deck Core2k
 		* [Japanese Core 2000/6000](http://www.mediafire.com/file/ya4p7y9a3152h8e/Core+2k_6k+Optimized+Japanese+Vocabulary.apkg) - :card_index:Popular Anki Japanese Deck Core 2k/6k
+		* [Nayr's Core 5000](https://www.reddit.com/r/LearnJapanese/comments/4itr0d/updated_nayrs_core_5k_anki_deck/) designed around an i+1 approach where learners are exposed to more than they know.
 * [Memrise](https://www.memrise.com/) - Popular online/app flashcard platform.:iphone:
 
 ## Grammar
