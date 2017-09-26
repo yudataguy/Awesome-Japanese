@@ -39,7 +39,7 @@
 
 ## Textbook
 
-*Textbook provides you with a structured learning material.*
+*Textbooks provides you with a structured learning material.*
 
 ### Genki:baby:
 
@@ -64,6 +64,11 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	* [Tobira Textbook](http://amzn.to/2sX0KcF)
 	* [Tobira: Power Up Your Kanji](http://amzn.to/2sX31nV) - With it, students can study a total of 800 kanji-the 297 kanji generally introduced in beginning-level textbooks and an additional 503 kanji introduced in Tobira.
 	* [Tobira: Grammar Power](http://amzn.to/2ugA22i) - Japanese grammar skill build up book.
+	
+### Other textbooks
+
+[Click here to view the server's Google Drive folder](https://drive.google.com/open?id=0B7RbJJM_m3GDWTBVRk5mcm9YMEU), which has links to other textbooks such as Japanese for Busy People, Japanese - The Manga Way, and An Integrated Approach to Intermediate Japanese.  Additionally, there's some reading resources such as Yotsubato, and some listening material.
+
 
 ## Course
 * [Easy Japanese](https://www.nhk.or.jp/lesson/english/index.html) - Made by NHK in multiple languages:baby:
