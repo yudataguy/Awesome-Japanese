@@ -39,7 +39,7 @@
 
 ## Textbook
 
-*Textbook provides you with a structured learning material.*
+*Textbooks provides you with a structured learning material.*
 
 ### Genki:baby:
 
@@ -65,11 +65,11 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	* [Tobira Textbook](http://amzn.to/2sX0KcF)
 	* [Tobira: Power Up Your Kanji](http://amzn.to/2sX31nV) - With it, students can study a total of 800 kanji-the 297 kanji generally introduced in beginning-level textbooks and an additional 503 kanji introduced in Tobira.
 	* [Tobira: Grammar Power](http://amzn.to/2ugA22i) - Japanese grammar skill build up book.
-* [Google drive download](https://drive.google.com/open?id=0B7RbJJM_m3GDd2VvRUN6aFZDVkU)
-
+	
 ### Other textbooks
 
-[Click here to view Ryry013's Google Drive folder](https://drive.google.com/open?id=0B7RbJJM_m3GDWTBVRk5mcm9YMEU), which has links to other textbooks such as Japanese for Busy People, Japanese - The Manga Way, and An Integrated Approach to Intermediate Japanese.  Additionally, there's some reading resources such as Yotsubato.
+[Click here to view the server's Google Drive folder](https://drive.google.com/open?id=0B7RbJJM_m3GDWTBVRk5mcm9YMEU), which has links to other textbooks such as Japanese for Busy People, Japanese - The Manga Way, and An Integrated Approach to Intermediate Japanese.  Additionally, there's some reading resources such as Yotsubato, and some listening material.
+
 
 ## Course
 * [Easy Japanese](https://www.nhk.or.jp/lesson/english/index.html) - Made by NHK in multiple languages:baby:
@@ -107,13 +107,15 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 
 * [Anki](https://apps.ankiweb.net/) - Popular flashcard based software.:iphone::computer:
 	* [Anki User Manual](https://apps.ankiweb.net/docs/manual.html)
-    * [How to use Anki to Learn Japanese](https://youtu.be/dPVpsX9ZPWE) - Anki video tutorial.
-	* [Anki Deck: Japanese Core 2000/6000](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit) - :card_index:Popular Anki Japanese Deck Core 2k/6k
+  * [How to use Anki to Learn Japanese](https://youtu.be/dPVpsX9ZPWE) - Anki video tutorial.
+  * [Nayr's Core 5000](https://www.reddit.com/r/LearnJapanese/comments/4itr0d/updated_nayrs_core_5k_anki_deck/) designed around an i+1 approach where learners are exposed to more than they know.
+  * [Anki Deck: Japanese Core 2000/6000](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit) - :card_index:Popular Anki Japanese Deck Core 2k/6k
 * [Memrise](https://www.memrise.com/) - Popular online/app flashcard platform.:iphone:
 
 ## Grammar
 
 * [Japanese Grammar Guide](http://www.guidetojapanese.org/learn/grammar) - By Tae Kim.:iphone:
+  * [Supplement Grammar List](http://aryailia.blogspot.my/2017/05/supplements-to-tae-kims-guide-to.html) by Araia to the Japanese Grammar Guide. Targeted towards intermediate and advanced learners.
 * [Visualize Japanese Grammar](https://www2.gwu.edu/~eall/vjg/vjghomepage/vjghome.htm) - links to 66 animations of various grammatical structures in Japanese and 12 downloadable appendices.
 * [JGram](http://www.jgram.org/) - The Japanese Grammar Database.
 * [Maggie Sensei](http://maggiesensei.com/) - Conversational Grammar
@@ -166,13 +168,14 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	* [News24](http://www.news24.jp/) - News24 Channel live and vod.
 	* [Weather News Live](https://www.youtube.com/watch?v=kfTq_A9nBM0) - 24/7 Japanese Weather Channel Live stream.
 * Stream
-	* [QVC Japan](http://qvc.jp/cont/live/Main?sc_initcmp=icpc_TOP_Left-Menu_005) - QVC Japan Shopping Channel Live stream.:warning:Flash required
+	* [QVC Japan](http://qvc.jp/cont/live/Main?sc_initcmp=icpc_TOP_Left-Menu_005) - QVC Japan Shopping Channel Live stream. :warning:Flash required.
 	* [Keylabo](http://www.keylabo.com/watch-tv-online-for-free/) - Free Japanese TV Live stream.:warning:some channels may not work
 	* [Abema TV](https://abema.tv/) - Live Japanese TV stream.:iphone::japan:
 	* [GYAO!](https://gyao.yahoo.co.jp/) - Japanese TV programs on demand.:iphone::japan:
 	* [FRESH!](https://freshlive.tv/) - Japanese streamer platform.:iphone:
 	* [NicoNico](http://www.nicovideo.jp/) - Japanese streamer platform.:iphone:
 	* [ARTV Japan](https://play.google.com/store/apps/details?id=artv.japan&hl=th) - Android Japan TV stream app.:iphone:
+	* [La Taverne de Moe](http://latavernedemoe.fr/menu/) - Japanese TV Live stream website. :warning:Flash required.
     
 ## Dictionary
 
