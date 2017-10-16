@@ -68,7 +68,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	
 ### Other textbooks
 
-[Click here to view the server's Google Drive folder](https://drive.google.com/open?id=0B7RbJJM_m3GDWTBVRk5mcm9YMEU), which has links to other textbooks such as Japanese for Busy People, Japanese - The Manga Way, and An Integrated Approach to Intermediate Japanese.  Additionally, there's some reading resources such as Yotsubato, and some listening material.
+[Click here to view the server's Google Drive folder](https://drive.google.com/open?id=0B7RbJJM_m3GDWTBVRk5mcm9YMEU), which has download links to Genki, Tobira, and other textbooks such as Japanese for Busy People, Japanese - The Manga Way, and An Integrated Approach to Intermediate Japanese.  Additionally, there's some reading resources such as Yotsubato, and some listening material.
 
 
 ## Course
@@ -151,6 +151,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 * [Discord](https://discordapp.com/) - Popular chatroom platform.:iphone::computer:
 	* [English-Japanese Language Exchange](https://discord.gg/NJJCYVD) - Highly active English/Japanese discord chat server.
 	* [日本語と英語](https://discord.gg/0eIsYvFQul270V1L) - Another popular English/Japanese discord chat server.
+	* [Reddit Masterlist](https://www.reddit.com/r/languagelearning/comments/5m5426/discord_language_learning_servers_masterlist/) A list on Reddit of all the language Discord servers.  Scroll down to the East Asian Languages section for Japanese servers.
 * [HelloTalk](https://www.hellotalk.com/) - Popular language exchange app.:iphone:
 
 ## Video
