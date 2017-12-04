@@ -132,6 +132,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 * [Kyoko Shinbun](http://kyoko-np.net/index.html) - Fake Japanese News(similar to The Onion), podcast available.:iphone::jp::older_man:
 * [用例.jp](http://yourei.jp/) - Search engine for Japanese sample sentences:jp:
 * [Japanese in Anime & Manga](http://anime-manga.jp/) - Learn Japanese from anime and manga. 
+* [Keio University Reading Materials Bank](http://language.tiu.ac.jp/materials/jpn/index.html) - The site is mostly in Japanese, but follow the 1-stars for the easiest reading materials. It's great because there is an English glossary integrated into the articles.
 
 ## Listening
 
