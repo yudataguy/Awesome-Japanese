@@ -74,7 +74,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 ## Course
 * [Easy Japanese](https://www.nhk.or.jp/lesson/english/index.html) - Made by NHK in multiple languages:baby:
 * [Erin's Challenge](https://www.erin.ne.jp/en/) - Video based Japanese lessons:man:
-* [LingoDeer](https://www.lingodeer.com/) - A new learning app for Japanese very similar to Duolingo, but made with a focus on East Asian languages, so it is much better than duolingo.:iphone:
+* [LingoDeer](https://www.lingodeer.com/) - A new learning app for Japanese very similar to Duolingo, but made with a focus on East Asian languages, so it is much better than Duolingo.:iphone:
 
 ## Hiragana and Katakana
 
