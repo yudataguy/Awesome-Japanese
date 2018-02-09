@@ -32,7 +32,7 @@
 
 *If you are a beginner, please read these guides first*
 
-* [Starter's Guide](https://www.reddit.com/r/LearnJapanese/wiki/index/startersguide) - from /r/learnjapanese subReddit.
+* [Starter's Guide](https://www.reddit.com/r/LearnJapanese/wiki/index/startersguide) - from /r/learnjapanese subreddit.
 * [Japanese Walkthrough](http://japaneselevelup.com/japanese-quest-walkthrough/) - A visual learning guide.
 * [Nukemarine's Suggested Guide for Beginners](https://forum.koohii.com/thread-5110.html) - A roadmap aimed at people involved in a career where one can only spare 1 to 2 hours a day for study.
 * [Complete Guide to Japanese](http://www.guidetojapanese.org/learn/complete) - By Tae Kim.
@@ -74,6 +74,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 ## Course
 * [Easy Japanese](https://www.nhk.or.jp/lesson/english/index.html) - Made by NHK in multiple languages:baby:
 * [Erin's Challenge](https://www.erin.ne.jp/en/) - Video based Japanese lessons:man:
+* [LingoDeer](https://www.lingodeer.com/) - A new learning app for Japanese very similar to Duolingo, but made with a focus on East Asian languages, so it is much better than duolingo.:iphone:
 
 ## Hiragana and Katakana
 
@@ -114,8 +115,9 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 
 ## Grammar
 
-* [Japanese Grammar Guide](http://www.guidetojapanese.org/learn/grammar) - By Tae Kim.:iphone:
+* [Japanese Grammar Guide](http://www.guidetojapanese.org/learn/grammar) - By Tae Kim.  A complete guide to Japanese grammar from knowing nothing to advanced topics.:iphone:
   * [Supplement Grammar List](http://aryailia.blogspot.my/2017/05/supplements-to-tae-kims-guide-to.html) by Araia to the Japanese Grammar Guide. Targeted towards intermediate and advanced learners.
+* [Imabi](http://www.imabi.net/) - A grammar website like Tae Kim, but made by a linguist.  Has many great, in-depth explanations, but some may find them almost too in-depth.
 * [Visualize Japanese Grammar](https://www2.gwu.edu/~eall/vjg/vjghomepage/vjghome.htm) - links to 66 animations of various grammatical structures in Japanese and 12 downloadable appendices.
 * [JGram](http://www.jgram.org/) - The Japanese Grammar Database.
 * [Maggie Sensei](http://maggiesensei.com/) - Conversational Grammar
@@ -194,6 +196,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 
 * Computer
 	* [Human Japanese](http://www.humanjapanese.com) - Popular Japanese learning program.:iphone::computer::moneybag:
+	* [LingoDeer](https://www.lingodeer.com/) - A new learning app for Japanese very similar to Duolingo, but made with a focus on East Asian languages, so it is much better than duolingo.:iphone:
 	* [Google Japanese Input](https://www.google.co.jp/ime/) - Google Japanese Input, available on windows, mac, and android.:computer::iphone:
 	* [How to Install Japanese Keyboard on Everything](https://www.tofugu.com/japanese/how-to-install-japanese-keyboard/) - Guide by Tofugu.
 * Browser Extension:satellite:
