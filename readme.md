@@ -33,6 +33,7 @@
 *If you are a beginner, please read these guides first*
 
 * [Starter's Guide](https://www.reddit.com/r/LearnJapanese/wiki/index/startersguide) - from /r/learnjapanese subreddit.
+* [DJT guide](https://djtguide.neocities.org/guide.html) - 
 * [Japanese Walkthrough](http://japaneselevelup.com/japanese-quest-walkthrough/) - A visual learning guide.
 * [Nukemarine's Suggested Guide for Beginners](https://forum.koohii.com/thread-5110.html) - A roadmap aimed at people involved in a career where one can only spare 1 to 2 hours a day for study.
 * [Complete Guide to Japanese](http://www.guidetojapanese.org/learn/complete) - By Tae Kim.
@@ -100,6 +101,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 * [Kanji Damage](http://www.kanjidamage.com/introduction) - A Kanji learning method.
 * [Wakikani](https://www.wanikani.com/) - Kanji learning platform:moneybag:
 * Anki Deck
+	* [DJT Anki Guide](https://djtguide.neocities.org/anki.html) - A guide for downloading/customizing Anki with a link to the popular 6k/2k deck
 	* [Kodansha kanji learner's course with vocabulary](https://ankiweb.net/shared/info/779483253) - :card_index:This deck is meant to be used together with the Kodansha Kanji Learner's Course book (KLC).
 	* [Official KanjiDamage deck](https://ankiweb.net/shared/info/748570187) - :card_index:This is the ultimate deck to learn Kanji with the KanjiDamage method.
 	* [All in One Kanji Deck (Heisig's RTK Order, 6th ed.)](https://ankiweb.net/shared/info/1862058740) - :card_index:Based on Heisig's Remember the Kanji 6th ed. book
@@ -110,7 +112,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	* [Anki User Manual](https://apps.ankiweb.net/docs/manual.html)
   * [How to use Anki to Learn Japanese](https://youtu.be/dPVpsX9ZPWE) - Anki video tutorial.
   * [Nayr's Core 5000](https://www.reddit.com/r/LearnJapanese/comments/4itr0d/updated_nayrs_core_5k_anki_deck/) designed around an i+1 approach where learners are exposed to more than they know.
-  * [Anki Deck: Japanese Core 2000/6000](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit) - :card_index:Popular Anki Japanese Deck Core 2k/6k
+  * [Anki Deck: Japanese Core 2000/6000](https://djtguide.neocities.org/anki.html) - :card_index:Popular Anki Japanese Deck Core 2k/6k
 * [Memrise](https://www.memrise.com/) - Popular online/app flashcard platform.:iphone:
 
 ## Grammar
