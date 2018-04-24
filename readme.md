@@ -1,6 +1,6 @@
 # Awesome Japanese [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of Japanese language learning resources.  90% of the work for this was done by yudataguy, so credit to him.
+> A curated list of Japanese language learning resources.  99% of the work for this was [done by yudataguy](https://github.com/yudataguy/Awesome-Japanese), so literally all credit to him.
 
 
 ## Contents
@@ -30,13 +30,25 @@
     
 ## Beginner Guide
 
-*If you are a beginner, please read these guides first*
+**__New to Japanese?__** Start here!
 
-* [Starter's Guide](https://www.reddit.com/r/LearnJapanese/wiki/index/startersguide) - from /r/learnjapanese subreddit.
-* [DJT guide](https://djtguide.neocities.org/guide.html) - 
-* [Japanese Walkthrough](http://japaneselevelup.com/japanese-quest-walkthrough/) - A visual learning guide.
-* [Nukemarine's Suggested Guide for Beginners](https://forum.koohii.com/thread-5110.html) - A roadmap aimed at people involved in a career where one can only spare 1 to 2 hours a day for study.
-* [Complete Guide to Japanese](http://www.guidetojapanese.org/learn/complete) - By Tae Kim.
+1. All beginners should read one of the below guides (one of the top two are the best in my personal opinion).  
+
+	* [Starter's Guide](https://www.reddit.com/r/LearnJapanese/wiki/index/startersguide) - from /r/learnjapanese subreddit.
+	* [DJT guide](https://djtguide.neocities.org/guide.html) - A well-written guide
+	* [Japanese Walkthrough](http://japaneselevelup.com/japanese-quest-walkthrough/) - A visual learning guide.
+	* [Nukemarine's Suggested Guide for Beginners](https://forum.koohii.com/thread-5110.html) - A roadmap aimed at people involved in a career where one can only spare 1 to 2 hours a day for study.
+	* [Grammar Guide to Japanese](http://www.guidetojapanese.org/learn/grammar) - By Tae Kim (there also exists the "Complete Guide to Japanese" by Tae Kim, this is a work in progress/not yet complete).
+
+2. A summary of the guides is basically this:  first, learn hiragana and katakana using the links in [the section further down this page](https://github.com/ryry013/Awesome-Japanese/blob/master/readme.md#hiragana-and-katakana).  The Tofugu links are good.
+
+3. Next is grammar/vocabulary.  You can either use a structured textbook or a more free-form online grammar guide like Tae-Kim.  Either one works, try one or both and stick with the one you like the best.  
+
+	For vocabulary, three nice options are [Wanikani](https://www.wanikani.com/), [Memrise](https://www.memrise.com/), or [Anki](https://djtguide.neocities.org/anki.html).  If you go with the Anki route, consider [using this deck](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit), which is the same as the deck in the above link, but with the front and back flipped around to display sentences on the front rather than single words, as this will force you to learn words in context.
+
+	For translating, avoid using Google Translate.  Instead, one of these websites: [Jisho.org: Japanese Dictionary](http://jisho.org/) or [Tangorin Japanese Dictionary](http://tangorin.com/)
+
+4. That's it.  There are many, many paths to learning Japanese.  The most important thing is to choose the one you enjoy.  If you don't enjoy your study, you won't succeed, so keep searching until you find the resource or study method that you enjoy.  Look through all the resources below, ask someone if you need help, and good luck.
 
 ## Textbook
 
