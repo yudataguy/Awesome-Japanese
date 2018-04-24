@@ -34,11 +34,11 @@
 
 1. All beginners should read one of the below guides (one of the top two are the best in my personal opinion).  
 
->> * [Starter's Guide](https://www.reddit.com/r/LearnJapanese/wiki/index/startersguide) - from /r/learnjapanese subreddit.
->> * [DJT guide](https://djtguide.neocities.org/guide.html) - 
->> * [Japanese Walkthrough](http://japaneselevelup.com/japanese-quest-walkthrough/) - A visual learning guide.
->> * [Nukemarine's Suggested Guide for Beginners](https://forum.koohii.com/thread-5110.html) - A roadmap aimed at people involved in a career where one can only spare 1 to 2 hours a day for study.
->> * [Grammar Guide to Japanese](http://www.guidetojapanese.org/learn/grammar) - By Tae Kim (there also exists the "Complete Guide to Japanese" by Tae Kim, this is a work in progress/not yet complete).
+	* [Starter's Guide](https://www.reddit.com/r/LearnJapanese/wiki/index/startersguide) - from /r/learnjapanese subreddit.
+	* [DJT guide](https://djtguide.neocities.org/guide.html) - A well-written guide
+	* [Japanese Walkthrough](http://japaneselevelup.com/japanese-quest-walkthrough/) - A visual learning guide.
+	* [Nukemarine's Suggested Guide for Beginners](https://forum.koohii.com/thread-5110.html) - A roadmap aimed at people involved in a career where one can only spare 1 to 2 hours a day for study.
+	* [Grammar Guide to Japanese](http://www.guidetojapanese.org/learn/grammar) - By Tae Kim (there also exists the "Complete Guide to Japanese" by Tae Kim, this is a work in progress/not yet complete).
 
 2. A summary of the guides is basically this:  first, learn hiragana and katakana using the links in [the section further down this page](https://github.com/ryry013/Awesome-Japanese/blob/master/readme.md#hiragana-and-katakana).  The Tofugu links are good.
 
