@@ -75,6 +75,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 ## Course
 * [Easy Japanese](https://www.nhk.or.jp/lesson/english/index.html) - Made by NHK in multiple languages:baby:
 * [Erin's Challenge](https://www.erin.ne.jp/en/) - Video based Japanese lessons:man:
+* [Dogen's Japanese Phonetics](https://www.patreon.com/posts/16489306) - A course that covers many different aspects of Japanese phonetics, like pitch accent and vowel placement :moneybag:
 
 ## Hiragana and Katakana
 
