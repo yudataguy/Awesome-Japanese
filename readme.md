@@ -105,7 +105,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	* [Official KanjiDamage deck](https://ankiweb.net/shared/info/748570187) - :card_index:This is the ultimate deck to learn Kanji with the KanjiDamage method.
 	* [All in One Kanji Deck (Heisig's RTK Order, 6th ed.)](https://ankiweb.net/shared/info/1862058740) - :card_index:Based on Heisig's Remember the Kanji 6th ed. book
 
-## Vocaulary
+## Vocabulary
 
 * [Anki](https://apps.ankiweb.net/) - Popular flashcard based software.:iphone::computer:
 	* [Anki User Manual](https://apps.ankiweb.net/docs/manual.html)
