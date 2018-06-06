@@ -33,6 +33,7 @@
 *If you are a beginner, please read these guides first*
 
 * [Starter's Guide](https://www.reddit.com/r/LearnJapanese/wiki/index/startersguide) - from /r/learnjapanese subReddit.
+* [All Japanese All The Time (Overview/Timeline)](https://www.youtube.com/watch?v=9PdPOxiWWuU) - for people willing to completely immerse themselves in Japanese.
 * [Japanese Walkthrough](http://japaneselevelup.com/japanese-quest-walkthrough/) - A visual learning guide.
 * [Nukemarine's Suggested Guide for Beginners](https://forum.koohii.com/thread-5110.html) - A roadmap aimed at people involved in a career where one can only spare 1 to 2 hours a day for study.
 * [Complete Guide to Japanese](http://www.guidetojapanese.org/learn/complete) - By Tae Kim.
@@ -74,6 +75,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 ## Course
 * [Easy Japanese](https://www.nhk.or.jp/lesson/english/index.html) - Made by NHK in multiple languages:baby:
 * [Erin's Challenge](https://www.erin.ne.jp/en/) - Video based Japanese lessons:man:
+* [Dogen's Japanese Phonetics](https://www.patreon.com/posts/16489306) - A course that covers many different aspects of Japanese phonetics, like pitch accent and vowel placement :moneybag:
 
 ## Hiragana and Katakana
 
@@ -103,7 +105,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	* [Official KanjiDamage deck](https://ankiweb.net/shared/info/748570187) - :card_index:This is the ultimate deck to learn Kanji with the KanjiDamage method.
 	* [All in One Kanji Deck (Heisig's RTK Order, 6th ed.)](https://ankiweb.net/shared/info/1862058740) - :card_index:Based on Heisig's Remember the Kanji 6th ed. book
 
-## Vocaulary
+## Vocabulary
 
 * [Anki](https://apps.ankiweb.net/) - Popular flashcard based software.:iphone::computer:
 	* [Anki User Manual](https://apps.ankiweb.net/docs/manual.html)
@@ -151,6 +153,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 * [Discord](https://discordapp.com/) - Popular chatroom platform.:iphone::computer:
 	* [English-Japanese Language Exchange](https://discord.gg/NJJCYVD) - Highly active English/Japanese discord chat server.
 	* [日本語と英語](https://discord.gg/0eIsYvFQul270V1L) - Another popular English/Japanese discord chat server.
+	* [Matt VS Japan](https://www.patreon.com/mattvsjapan/) - A community of people using the "All Japanese All The Time" method :moneybag:
 * [HelloTalk](https://www.hellotalk.com/) - Popular language exchange app.:iphone:
 
 ## Video
