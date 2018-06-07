@@ -36,6 +36,7 @@
 
 	* [Starter's Guide](https://www.reddit.com/r/LearnJapanese/wiki/index/startersguide) - from /r/learnjapanese subreddit.
 	* [DJT guide](https://djtguide.neocities.org/guide.html) - A well-written guide
+	* [All Japanese All The Time (Overview/Timeline)](https://www.youtube.com/watch?v=9PdPOxiWWuU) - For people willing to completely immerse themselves in Japanese.
 	* [Japanese Walkthrough](http://japaneselevelup.com/japanese-quest-walkthrough/) - A visual learning guide.
 	* [Nukemarine's Suggested Guide for Beginners](https://forum.koohii.com/thread-5110.html) - A roadmap aimed at people involved in a career where one can only spare 1 to 2 hours a day for study.
 	* [Grammar Guide to Japanese](http://www.guidetojapanese.org/learn/grammar) - By Tae Kim (there also exists the "Complete Guide to Japanese" by Tae Kim, this is a work in progress/not yet complete).
@@ -149,6 +150,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 * [用例.jp](http://yourei.jp/) - Search engine for Japanese sample sentences:jp:
 * [Japanese in Anime & Manga](http://anime-manga.jp/) - Learn Japanese from anime and manga. 
 * [Keio University Reading Materials Bank](http://language.tiu.ac.jp/materials/jpn/index.html) - The site is mostly in Japanese, but follow the 1-stars for the easiest reading materials. It's great because there is an English glossary integrated into the articles.
+* [Satori Reader](https://www.satorireader.com/) - Japanese reading and listening practice :moneybag:
 
 ## Listening
 
@@ -159,6 +161,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	* [JapanesePod101](https://www.japanesepod101.com/)
 	* [News in Slow Japanese](http://newsinslowjapanese.com/)
 	* [NHK News Podcast](http://www.nhk.or.jp/podcasts/) - Three podcasts available: Japanese news:older_man:, English news, and Easy Japanese.
+	* [Bilingual News](http://bilingualnews.libsyn.com/) - Free Bilingual English and Japanese news podcast. Casual and unedited colloquial language learning experience through a weekly review of relevant news topics.
 
 ## Community
 
@@ -175,8 +178,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 
 * YouTube
 	* [Nihongo no Mori](https://www.youtube.com/channel/UCVx6RFaEAg46xfAsD2zz16w) - JLPT test-oriented YouTube channel.
-	* [Dogen](https://www.youtube.com/channel/UCSX0NhNdBA-ZnEFkYFzdw4A) - Japanese phonetic lessons YouTube channel.
-		* [Main content of the phonetic lessons are here](https://www.patreon.com/dogen/overview) :moneybag:
+	* [Dogen](https://www.patreon.com/dogen/overview) A course that covers many different aspects of Japanese phonetics, like pitch accent and vowel placement :moneybag:
 	* [Game Grammar](https://www.youtube.com/channel/UC8UqIZlupjIQ3vxcAOEoNug) - Teach you Japanese by playing video games YouTube channel.
 	* [JapanesePod101](https://www.youtube.com/channel/UC0ox9NuTHYeRys63yZpBFuA) - Popular Japanese podcast's YouTube channel.
 * News
