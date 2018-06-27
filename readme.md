@@ -161,7 +161,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	* [Game Grammar](https://www.youtube.com/channel/UC8UqIZlupjIQ3vxcAOEoNug) - Teach you Japanese by playing video games YouTube channel.
 	* [JapanesePod101](https://www.youtube.com/channel/UC0ox9NuTHYeRys63yZpBFuA) - Popular Japanese podcast's YouTube channel.
 * News
-    * [BBC News in Japanese](https://www.youtube.com/channel/UCCcey5CP5GDZeom987gqTdg) BBC News in Japanese YouTube channel.
+    * [BBC News in Japanese](https://www.youtube.com/channel/UCCcey5CP5GDZeom987gqTdg) BBC News in Japanese langauge YouTube channel.
     * [Asahi News](https://www.youtube.com/user/ANNnewsCH) - Asahi News YouTube channel.
 	* [Asahi News Live](https://www.youtube.com/watch?v=Fu2etwHzcvw) - 24/7 Asahi News Live stream.
 	* [Fuji News Network](http://www.fnn-news.com/) - FNN live and vod.
@@ -169,13 +169,11 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	* [Weather News Live](https://www.youtube.com/watch?v=kfTq_A9nBM0) - 24/7 Japanese Weather Channel Live stream.
 * Stream
 	* [QVC Japan](http://qvc.jp/cont/live/Main?sc_initcmp=icpc_TOP_Left-Menu_005) - QVC Japan Shopping Channel Live stream. :warning:Flash required.
-	* [Keylabo](http://www.keylabo.com/watch-tv-online-for-free/) - Free Japanese TV Live stream.:warning:some channels may not work
+	* [Keylabo](http://www.keylabo.com/watch-tv-online-for-free/) - Free Japanese TV Live stream.:warning:some channels may not work, 3rd party streaming website.
 	* [Abema TV](https://abema.tv/) - Live Japanese TV stream.:iphone::japan:
 	* [GYAO!](https://gyao.yahoo.co.jp/) - Japanese TV programs on demand.:iphone::japan:
 	* [FRESH!](https://freshlive.tv/) - Japanese streamer platform.:iphone:
 	* [NicoNico](http://www.nicovideo.jp/) - Japanese streamer platform.:iphone:
-	* [ARTV Japan](https://play.google.com/store/apps/details?id=artv.japan&hl=th) - Android Japan TV stream app.:iphone:
-	* [La Taverne de Moe](http://latavernedemoe.fr/menu/) - Japanese TV Live stream website. :warning:Flash required.
     
 ## Dictionary
 
@@ -196,7 +194,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	* [How to Install Japanese Keyboard on Everything](https://www.tofugu.com/japanese/how-to-install-japanese-keyboard/) - Guide by Tofugu.
 * Browser Extension:satellite:
 	* Firefox
-		* [rikaichan](https://addons.mozilla.org/en-US/firefox/addon/rikaichan/) - Japanese to English/German/French/Russian dictionary. Just hover the mouse on top of a word, and a popup appears.
+		* [Rikaichamp](https://addons.mozilla.org/en-US/firefox/addon/rikaichamp/) - Japanese to English/German/French/Russian dictionary. Just hover the mouse on top of a word, and a popup appears. This add-on is more competible with latest Firefox version and comes with dictionaries files. 
 		* [Furigana Inserter](https://addons.mozilla.org/firefox/addon/7913) - Allows you to insert furigana into a Japanese text.
 	* Chrome
 		* [Yomichan](https://chrome.google.com/webstore/detail/yomichan/ogmnaimimemjmbakcfefmnahgdfhfami) - Yomichan turns your browser into a tool for building Japanese language literacy by helping you to decipher texts which would be otherwise too difficult tackle.
