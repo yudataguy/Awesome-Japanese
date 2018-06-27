@@ -52,8 +52,8 @@ Description: The second edition of the most highly regarded teaching textbook on
 	* [Genki 2 Textbook](http://amzn.to/2uqnJBh) | [Genki 2 Workbook](http://amzn.to/2sX7RBQ)
 	* [Genki Answer Key](http://amzn.to/2sX4ZF8)
 * Anki Deck:card_index:
-	* [Genki 1 & 2 ](https://ankiweb.net/shared/info/1132238466) - ALL the vocab from Genki 1 & 2 and more. :warning:Still updating
-* [Google drive download](https://drive.google.com/open?id=0B7RbJJM_m3GDUGw3VFlVWkd0bjA)
+	* [Genki 1 & 2 ](https://ankiweb.net/shared/info/1132238466) - ALL the vocab from Genki 1 & 2 and more. :warning:Still updating.
+* [Google Drive](https://drive.google.com/open?id=0B7RbJJM_m3GDUGw3VFlVWkd0bjA)
 
 ### Tobira:man:
 
@@ -68,12 +68,12 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	
 ### Other textbooks
 
-[Click here to view the server's Google Drive folder](https://drive.google.com/open?id=0B7RbJJM_m3GDWTBVRk5mcm9YMEU), which has links to other textbooks such as Japanese for Busy People, Japanese - The Manga Way, and An Integrated Approach to Intermediate Japanese.  Additionally, there's some reading resources such as Yotsubato, and some listening material.
+[Google Drive](https://drive.google.com/open?id=0B7RbJJM_m3GDWTBVRk5mcm9YMEU), which has links to other textbooks such as Japanese for Busy People, Japanese - The Manga Way, and An Integrated Approach to Intermediate Japanese.  Additionally, there's some reading resources such as Yotsubato, and some listening material.
 
 
 ## Course
-* [Easy Japanese](https://www.nhk.or.jp/lesson/english/index.html) - Made by NHK in multiple languages:baby:
-* [Erin's Challenge](https://www.erin.ne.jp/en/) - Video based Japanese lessons:man:
+* [Easy Japanese](https://www.nhk.or.jp/lesson/english/index.html) - Made by NHK in multiple languages.:baby:
+* [Erin's Challenge](https://www.erin.ne.jp/en/) - Video based Japanese lessons.:man:
 
 ## Hiragana and Katakana
 
@@ -86,7 +86,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	* [Listening Game for Hiragana](http://www.digitaldialects.com/Japanese/Hiragana.htm) - Flash based Hiragana game.
 * Katakana
 	* [Tofugu for Katakana](https://www.tofugu.com/japanese/learn-katakana/)
-	* [Learn Katakana in 1 Hour](https://youtu.be/s6DKRgtVLGA) - Video class.
+	* [Learn Katakana in 1 Hour](https://youtu.be/s6DKRgtVLGA) - Video lesson.
 	* [Listening Game for Katakana](http://www.digitaldialects.com/Japanese/Katakana.htm) - Flash based Katakana game.
 	* [Katakana Practice Sheet](http://japanese-lesson.com/resources/pdf/characters/katakana_writing_practice_sheets.pdf) - Print and practice.
 * Anki Deck
@@ -97,11 +97,11 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 * [Hacking Kanji](https://nihongoshark.com/learn-kanji/) - Guide: 2,200 Kanji in 97 Days.
 * [Kanji Koohii](https://kanji.koohii.com/) - Help you complete the kanji learning method called Remembering the Kanji.
 * [Kanji Damage](http://www.kanjidamage.com/introduction) - A Kanji learning method.
-* [Wakikani](https://www.wanikani.com/) - Kanji learning platform:moneybag:
+* [Wakikani](https://www.wanikani.com/) - Kanji learning platform.:moneybag:
 * Anki Deck
 	* [Kodansha kanji learner's course with vocabulary](https://ankiweb.net/shared/info/779483253) - :card_index:This deck is meant to be used together with the Kodansha Kanji Learner's Course book (KLC).
 	* [Official KanjiDamage deck](https://ankiweb.net/shared/info/748570187) - :card_index:This is the ultimate deck to learn Kanji with the KanjiDamage method.
-	* [All in One Kanji Deck (Heisig's RTK Order, 6th ed.)](https://ankiweb.net/shared/info/1862058740) - :card_index:Based on Heisig's Remember the Kanji 6th ed. book
+	* [All in One Kanji Deck (Heisig's RTK Order, 6th ed.)](https://ankiweb.net/shared/info/1862058740) - :card_index:Based on Heisig's Remember the Kanji 6th ed. book.
 
 ## Vocaulary
 
@@ -109,7 +109,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	* [Anki User Manual](https://apps.ankiweb.net/docs/manual.html)
   * [How to use Anki to Learn Japanese](https://youtu.be/dPVpsX9ZPWE) - Anki video tutorial.
   * [Nayr's Core 5000](https://www.reddit.com/r/LearnJapanese/comments/4itr0d/updated_nayrs_core_5k_anki_deck/) designed around an i+1 approach where learners are exposed to more than they know.
-  * [Anki Deck: Japanese Core 2000/6000](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit) - :card_index:Popular Anki Japanese Deck Core 2k/6k
+  * [Anki Deck: Japanese Core 2000/6000](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit) - :card_index:Popular Anki Japanese Deck Core 2k/6k.
 * [Memrise](https://www.memrise.com/) - Popular online/app flashcard platform.:iphone:
 
 ## Grammar
@@ -118,9 +118,9 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
   * [Supplement Grammar List](http://aryailia.blogspot.my/2017/05/supplements-to-tae-kims-guide-to.html) by Araia to the Japanese Grammar Guide. Targeted towards intermediate and advanced learners.
 * [Visualize Japanese Grammar](https://www2.gwu.edu/~eall/vjg/vjghomepage/vjghome.htm) - links to 66 animations of various grammatical structures in Japanese and 12 downloadable appendices.
 * [JGram](http://www.jgram.org/) - The Japanese Grammar Database.
-* [Maggie Sensei](http://maggiesensei.com/) - Conversational Grammar
+* [Maggie Sensei](http://maggiesensei.com/) - Conversational Grammar.
 * :book:Amazon:moneybag:
-	* [A Dictionary of Basic Japanese Grammar](http://a.co/fMGHlG2) - Popular Japanese grammar dictionary series:baby:
+	* [A Dictionary of Basic Japanese Grammar](http://a.co/fMGHlG2) - Popular Japanese grammar dictionary series.:baby:
 	* [A Dictionary of Intermediate Japanese Grammar](http://amzn.to/2txGg9H) - :man:
 	* [A Dictionary of Advanced Japanese Grammar](http://amzn.to/2u1pLVg) - :older_man:
 	
@@ -130,7 +130,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 * [Japanese Folktales](http://www.e-hon.jp/ehon_jp/index1.htm) - Japanese folktales with drawings and audio.:jp:
 * [Hukumusume Fairy Tale Collection](http://hukumusume.com/douwa/) - A website where you can read and hear traditional folk tales, legends and fairy tales - from Japan and all around the world - read aloud for you in Japanese.:jp:
 * [Kyoko Shinbun](http://kyoko-np.net/index.html) - Fake Japanese News(similar to The Onion), podcast available.:iphone::jp::older_man:
-* [用例.jp](http://yourei.jp/) - Search engine for Japanese sample sentences:jp:
+* [用例.jp](http://yourei.jp/) - Search engine for Japanese sample sentences.:jp:
 * [Japanese in Anime & Manga](http://anime-manga.jp/) - Learn Japanese from anime and manga. 
 
 ## Listening
@@ -178,13 +178,13 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 ## Dictionary
 
 * Web
-	* [Jisho](http://jisho.org/) - Gold standard online Japanese dictionary platform
+	* [Jisho](http://jisho.org/) - Gold standard online Japanese dictionary platform.
 	* [Weblio](http://www.weblio.jp/) - :jp:
-	* [Google Translate](https://translate.google.com/) - Supports voice and image translation, mobile app supports offline translation :iphone:
+	* [Google Translate](https://translate.google.com/) - Supports voice and image translation, mobile app supports offline translation.:iphone:
 * Software
 	* [Houhou](http://houhou-srs.com/) - the dictionary doubles as a learning tool.:computer:
 	* [Takoboto](https://play.google.com/store/apps/details?id=jp.takoboto) - Android Japanese dictionary app, also has web and computer based version.:iphone::computer:
-	* [imiwa?](http://www.imiwaapp.com/) - iOS Japanese dictionary app:iphone:
+	* [imiwa?](http://www.imiwaapp.com/) - iOS Japanese dictionary app.:iphone:
 	
 ## Software
 
