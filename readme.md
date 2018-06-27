@@ -68,7 +68,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	
 ### Other textbooks
 
-[Google Drive](https://drive.google.com/open?id=0B7RbJJM_m3GDWTBVRk5mcm9YMEU), which has links to other textbooks such as Japanese for Busy People, Japanese - The Manga Way, and An Integrated Approach to Intermediate Japanese.  Additionally, there's some reading resources such as Yotsubato, and some listening material.
+[Google Drive](https://drive.google.com/open?id=0B7RbJJM_m3GDWTBVRk5mcm9YMEU) - contains links to other textbooks such as Japanese for Busy People, Japanese - The Manga Way, and An Integrated Approach to Intermediate Japanese.  Additionally, there's some reading resources such as Yotsubato, and some listening material.
 
 
 ## Course
@@ -81,7 +81,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 
 * Hiragana
 	* [Tofugu for Hiragana](https://www.tofugu.com/japanese/learn-hiragana/)
-	* [Learn Hiragana in 1 Hour](https://youtu.be/6p9Il_j0zjc) - Video class.
+	* [Learn Hiragana in 1 Hour](https://youtu.be/6p9Il_j0zjc) - Video lesson.
 	* [Hiragana Practice Sheet](http://japanese-lesson.com/resources/pdf/characters/hiragana_writing_practice_sheets.pdf) - Print and practice.
 	* [Listening Game for Hiragana](http://www.digitaldialects.com/Japanese/Hiragana.htm) - Flash based Hiragana game.
 * Katakana
