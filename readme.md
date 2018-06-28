@@ -142,6 +142,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	* [JapanesePod101](https://www.japanesepod101.com/)
 	* [News in Slow Japanese](http://newsinslowjapanese.com/)
 	* [NHK News Podcast](http://www.nhk.or.jp/podcasts/) - Three podcasts available: Japanese news:older_man:, English news, and Easy Japanese.
+	* [Bilingual News](http://bilingualnews.libsyn.com/) - Free Bilingual English and Japanese news podcast. Casual and unedited colloquial language learning experience through a weekly review of relevant news topics! Join us and improve your Japanese language ability!
 
 ## Community
 
