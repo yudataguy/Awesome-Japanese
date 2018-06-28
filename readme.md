@@ -171,7 +171,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	* [Weather News Live](https://www.youtube.com/watch?v=kfTq_A9nBM0) - 24/7 Japanese Weather Channel Live stream.
 * Stream
 	* [QVC Japan](http://qvc.jp/cont/live/Main?sc_initcmp=icpc_TOP_Left-Menu_005) - QVC Japan Shopping Channel Live stream. :warning:Flash required.
-	* [Keylabo](http://www.keylabo.com/watch-tv-online-for-free/) - Free Japanese TV Live stream.:warning:some channels may not work, 3rd party streaming website.
+	* [Keylabo](http://www.keylabo.com/watch-tv-online-for-free/) - Free Japanese TV Live stream listing.:warning:Some channels may not work, and 3rd party streaming service.
 	* [Abema TV](https://abema.tv/) - Live Japanese TV stream.:iphone::japan:
 	* [GYAO!](https://gyao.yahoo.co.jp/) - Japanese TV programs on demand.:iphone::japan:
 	* [FRESH!](https://freshlive.tv/) - Japanese streamer platform.:iphone:
