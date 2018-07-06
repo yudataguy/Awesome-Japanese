@@ -163,7 +163,6 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 
 ## Listening
 
-* [Listen Together: The Songs of Japan](http://nihon-no-uta.jp/) - A website where you can search and listen to Japanese songs according to your preferences and level of Japanese.
 * [mykikitori](http://mykikitori.com/index.html) - Practice your Japanese learning skill.
 * Podcast
 	* [Learn Japanese Pod](https://learnjapanesepod.com/)
@@ -189,8 +188,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 * YouTube
 	* [Nihongo no Mori](https://www.youtube.com/channel/UCVx6RFaEAg46xfAsD2zz16w) - JLPT test-oriented YouTube channel.
 	* [Dogen](https://www.youtube.com/channel/UCSX0NhNdBA-ZnEFkYFzdw4A) - Japanese phonetic lessons YouTube channel. 
-		* [Dogen Patreon](https://www.patreon.com/dogen) - Dogen's phonetic lessons on Patreon.:moneybag:
-	* [Dogen](https://www.patreon.com/dogen/overview) A course that covers many different aspects of Japanese phonetics, like pitch accent and vowel placement :moneybag:
+		* [Dogen's Patreon Lessons](https://www.patreon.com/dogen/overview) - A course that covers many different aspects of Japanese phonetics, like pitch accent and vowel placement.:moneybag:
 	* [Game Grammar](https://www.youtube.com/channel/UC8UqIZlupjIQ3vxcAOEoNug) - Teach you Japanese by playing video games YouTube channel.
 	* [JapanesePod101](https://www.youtube.com/channel/UC0ox9NuTHYeRys63yZpBFuA) - Popular Japanese podcast's YouTube channel.
 * News
