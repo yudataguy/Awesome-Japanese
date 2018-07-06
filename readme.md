@@ -83,15 +83,10 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 
 [Google Drive](https://drive.google.com/open?id=0B7RbJJM_m3GDWTBVRk5mcm9YMEU) - contains links to other textbooks such as Japanese for Busy People, Japanese - The Manga Way, and An Integrated Approach to Intermediate Japanese.  Additionally, there's some reading resources such as Yotsubato, and some listening material.
 
-
-## Course
-* [Easy Japanese](https://www.nhk.or.jp/lesson/english/index.html) - Made by NHK in multiple languages.:baby:
-* [Erin's Challenge](https://www.erin.ne.jp/en/) - Video based Japanese lessons.:man:
-
 ## Course
 * [Easy Japanese](https://www.nhk.or.jp/lesson/english/index.html) - Made by NHK in multiple languages:baby:
 * [Erin's Challenge](https://www.erin.ne.jp/en/) - Video based Japanese lessons:man:
-* [LingoDeer](https://www.lingodeer.com/) - A new learning app for Japanese very similar to Duolingo, but made with a focus on East Asian languages, so it is much better than Duolingo.:iphone:
+* [LingoDeer](https://www.lingodeer.com/) - Japanese course on a new learning app similar to Duolingo, but made with a focus on East Asian languages.:iphone:
 
 ## Hiragana and Katakana
 
@@ -215,7 +210,6 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 
 * Computer
 	* [Human Japanese](http://www.humanjapanese.com) - Popular Japanese learning program.:iphone::computer::moneybag:
-	* [LingoDeer](https://www.lingodeer.com/) - A new learning app for Japanese very similar to Duolingo, but made with a focus on East Asian languages, so it is much better than duolingo.:iphone:
 	* [Google Japanese Input](https://www.google.co.jp/ime/) - Google Japanese Input, available on windows, mac, and android.:computer::iphone:
 	* [How to Install Japanese Keyboard on Everything](https://www.tofugu.com/japanese/how-to-install-japanese-keyboard/) - Guide by Tofugu.
 * Browser Extension:satellite:
