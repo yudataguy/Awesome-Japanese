@@ -1,6 +1,6 @@
 # Awesome Japanese [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of Japanese language learning resources
+> A curated list of Japanese language learning resources.  99% of the work for this was [done by yudataguy](https://github.com/yudataguy/Awesome-Japanese), so literally all credit to him.
 
 
 ## Contents
@@ -30,12 +30,26 @@
     
 ## Beginner Guide
 
-*If you are a beginner, please read these guides first*
+**__New to Japanese?__** Start here!
 
-* [Starter's Guide](https://www.reddit.com/r/LearnJapanese/wiki/index/startersguide) - from /r/learnjapanese subReddit.
-* [Japanese Walkthrough](http://japaneselevelup.com/japanese-quest-walkthrough/) - A visual learning guide.
-* [Nukemarine's Suggested Guide for Beginners](https://forum.koohii.com/thread-5110.html) - A roadmap aimed at people involved in a career where one can only spare 1 to 2 hours a day for study.
-* [Complete Guide to Japanese](http://www.guidetojapanese.org/learn/complete) - By Tae Kim.
+1. All beginners should read one of the below guides (one of the top two are the best in my personal opinion).  
+
+	* [Starter's Guide](https://www.reddit.com/r/LearnJapanese/wiki/index/startersguide) - from /r/learnjapanese subreddit.
+	* [DJT guide](https://djtguide.neocities.org/guide.html) - A well-written guide
+	* [All Japanese All The Time (Overview/Timeline)](https://www.youtube.com/watch?v=9PdPOxiWWuU) - For people willing to completely immerse themselves in Japanese.
+	* [Japanese Walkthrough](http://japaneselevelup.com/japanese-quest-walkthrough/) - A visual learning guide.
+	* [Nukemarine's Suggested Guide for Beginners](https://forum.koohii.com/thread-5110.html) - A roadmap aimed at people involved in a career where one can only spare 1 to 2 hours a day for study.
+	* [Grammar Guide to Japanese](http://www.guidetojapanese.org/learn/grammar) - By Tae Kim (there also exists the "Complete Guide to Japanese" by Tae Kim, this is a work in progress/not yet complete).
+
+2. A summary of the guides is basically this:  first, learn hiragana and katakana using the links in [the section further down this page](https://github.com/ryry013/Awesome-Japanese/blob/master/readme.md#hiragana-and-katakana).  The Tofugu links are good.
+
+3. Next is grammar/vocabulary.  You can either use a structured textbook or a more free-form online grammar guide like Tae-Kim.  Either one works, try one or both and stick with the one you like the best.  
+
+	For vocabulary, three nice options are [Wanikani](https://www.wanikani.com/), [Memrise](https://www.memrise.com/), or [Anki](https://djtguide.neocities.org/anki.html).  If you go with the Anki route, consider [using this deck](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit), which is the same as the deck in the above link, but with the front and back flipped around to display sentences on the front rather than single words, as this will force you to learn words in context.
+
+	For translating, avoid using Google Translate.  Instead, one of these websites: [Jisho.org: Japanese Dictionary](http://jisho.org/) or [Tangorin Japanese Dictionary](http://tangorin.com/)
+
+4. That's it.  There are many, many paths to learning Japanese.  The most important thing is to choose the one you enjoy.  If you don't enjoy your study, you won't succeed, so keep searching until you find the resource or study method that you enjoy.  Look through all the resources below, ask someone if you need help, and good luck.
 
 ## Textbook
 
@@ -74,6 +88,13 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 ## Course
 * [Easy Japanese](https://www.nhk.or.jp/lesson/english/index.html) - Made by NHK in multiple languages.:baby:
 * [Erin's Challenge](https://www.erin.ne.jp/en/) - Video based Japanese lessons.:man:
+[Click here to view the server's Google Drive folder](https://drive.google.com/open?id=0B7RbJJM_m3GDWTBVRk5mcm9YMEU), which has download links to Genki, Tobira, and other textbooks such as Japanese for Busy People, Japanese - The Manga Way, and An Integrated Approach to Intermediate Japanese.  Additionally, there's some reading resources such as Yotsubato, and some listening material.
+
+
+## Course
+* [Easy Japanese](https://www.nhk.or.jp/lesson/english/index.html) - Made by NHK in multiple languages:baby:
+* [Erin's Challenge](https://www.erin.ne.jp/en/) - Video based Japanese lessons:man:
+* [LingoDeer](https://www.lingodeer.com/) - A new learning app for Japanese very similar to Duolingo, but made with a focus on East Asian languages, so it is much better than Duolingo.:iphone:
 
 ## Hiragana and Katakana
 
@@ -98,7 +119,9 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 * [Kanji Koohii](https://kanji.koohii.com/) - Help you complete the kanji learning method called Remembering the Kanji.
 * [Kanji Damage](http://www.kanjidamage.com/introduction) - A Kanji learning method.
 * [Wakikani](https://www.wanikani.com/) - Kanji learning platform.:moneybag:
+* [Wanikani](https://www.wanikani.com/) - Kanji learning platform:moneybag:
 * Anki Deck
+	* [DJT Anki Guide](https://djtguide.neocities.org/anki.html) - A guide for downloading/customizing Anki with a link to the popular 6k/2k deck
 	* [Kodansha kanji learner's course with vocabulary](https://ankiweb.net/shared/info/779483253) - :card_index:This deck is meant to be used together with the Kodansha Kanji Learner's Course book (KLC).
 	* [Official KanjiDamage deck](https://ankiweb.net/shared/info/748570187) - :card_index:This is the ultimate deck to learn Kanji with the KanjiDamage method.
 	* [All in One Kanji Deck (Heisig's RTK Order, 6th ed.)](https://ankiweb.net/shared/info/1862058740) - :card_index:Based on Heisig's Remember the Kanji 6th ed. book.
@@ -110,12 +133,14 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
   * [How to use Anki to Learn Japanese](https://youtu.be/dPVpsX9ZPWE) - Anki video tutorial.
   * [Nayr's Core 5000](https://www.reddit.com/r/LearnJapanese/comments/4itr0d/updated_nayrs_core_5k_anki_deck/) designed around an i+1 approach where learners are exposed to more than they know.
   * [Anki Deck: Japanese Core 2000/6000](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit) - :card_index:Popular Anki Japanese Deck Core 2k/6k.
+  * [Anki Deck: Japanese Core 2000/6000](https://djtguide.neocities.org/anki.html) - :card_index:Popular Anki Japanese Deck Core 2k/6k
 * [Memrise](https://www.memrise.com/) - Popular online/app flashcard platform.:iphone:
 
 ## Grammar
 
-* [Japanese Grammar Guide](http://www.guidetojapanese.org/learn/grammar) - By Tae Kim.:iphone:
+* [Japanese Grammar Guide](http://www.guidetojapanese.org/learn/grammar) - By Tae Kim.  A complete guide to Japanese grammar from knowing nothing to advanced topics.:iphone:
   * [Supplement Grammar List](http://aryailia.blogspot.my/2017/05/supplements-to-tae-kims-guide-to.html) by Araia to the Japanese Grammar Guide. Targeted towards intermediate and advanced learners.
+* [Imabi](http://www.imabi.net/) - A grammar website like Tae Kim, but made by a linguist.  Has many great, in-depth explanations, but some may find them almost too in-depth.
 * [Visualize Japanese Grammar](https://www2.gwu.edu/~eall/vjg/vjghomepage/vjghome.htm) - links to 66 animations of various grammatical structures in Japanese and 12 downloadable appendices.
 * [JGram](http://www.jgram.org/) - The Japanese Grammar Database.
 * [Maggie Sensei](http://maggiesensei.com/) - Conversational Grammar.
@@ -133,6 +158,8 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 * [用例.jp](http://yourei.jp/) - Search engine for Japanese sample sentences.:jp:
 * [Japanese in Anime & Manga](http://anime-manga.jp/) - Learn Japanese from anime and manga. 
 * [Satori Reader](https://www.satorireader.com/) - Japanese reading and listening practice, first two chapters of each article is free.:moneybag: 
+* [Keio University Reading Materials Bank](http://language.tiu.ac.jp/materials/jpn/index.html) - The site is mostly in Japanese, but follow the 1-stars for the easiest reading materials. It's great because there is an English glossary integrated into the articles.
+* [Satori Reader](https://www.satorireader.com/) - Japanese reading and listening practice :moneybag:
 
 ## Listening
 
@@ -144,6 +171,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	* [News in Slow Japanese](http://newsinslowjapanese.com/)
 	* [NHK News Podcast](http://www.nhk.or.jp/podcasts/) - Three podcasts available: Japanese news:older_man:, English news, and Easy Japanese.
 	* [Bilingual News](http://bilingualnews.libsyn.com/) - Bilingual English and Japanese news podcast. Casual and unedited colloquial language learning experience through a weekly review of relevant news topics.:older_man:
+	* [Bilingual News](http://bilingualnews.libsyn.com/) - Free Bilingual English and Japanese news podcast. Casual and unedited colloquial language learning experience through a weekly review of relevant news topics.
 
 ## Community
 
@@ -153,6 +181,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 * [Discord](https://discordapp.com/) - Popular chatroom platform.:iphone::computer:
 	* [English-Japanese Language Exchange](https://discord.gg/NJJCYVD) - Highly active English/Japanese discord chat server.
 	* [日本語と英語](https://discord.gg/0eIsYvFQul270V1L) - Another popular English/Japanese discord chat server.
+	* [Reddit Masterlist](https://www.reddit.com/r/languagelearning/comments/5m5426/discord_language_learning_servers_masterlist/) A list on Reddit of all the language Discord servers.  Scroll down to the East Asian Languages section for Japanese servers.
 * [HelloTalk](https://www.hellotalk.com/) - Popular language exchange app.:iphone:
 
 ## Video
@@ -161,6 +190,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	* [Nihongo no Mori](https://www.youtube.com/channel/UCVx6RFaEAg46xfAsD2zz16w) - JLPT test-oriented YouTube channel.
 	* [Dogen](https://www.youtube.com/channel/UCSX0NhNdBA-ZnEFkYFzdw4A) - Japanese phonetic lessons YouTube channel. 
 		* [Dogen Patreon](https://www.patreon.com/dogen) - Dogen's phonetic lessons on Patreon.:moneybag:
+	* [Dogen](https://www.patreon.com/dogen/overview) A course that covers many different aspects of Japanese phonetics, like pitch accent and vowel placement :moneybag:
 	* [Game Grammar](https://www.youtube.com/channel/UC8UqIZlupjIQ3vxcAOEoNug) - Teach you Japanese by playing video games YouTube channel.
 	* [JapanesePod101](https://www.youtube.com/channel/UC0ox9NuTHYeRys63yZpBFuA) - Popular Japanese podcast's YouTube channel.
 * News
@@ -193,6 +223,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 
 * Computer
 	* [Human Japanese](http://www.humanjapanese.com) - Popular Japanese learning program.:iphone::computer::moneybag:
+	* [LingoDeer](https://www.lingodeer.com/) - A new learning app for Japanese very similar to Duolingo, but made with a focus on East Asian languages, so it is much better than duolingo.:iphone:
 	* [Google Japanese Input](https://www.google.co.jp/ime/) - Google Japanese Input, available on windows, mac, and android.:computer::iphone:
 	* [How to Install Japanese Keyboard on Everything](https://www.tofugu.com/japanese/how-to-install-japanese-keyboard/) - Guide by Tofugu.
 * Browser Extension:satellite:
