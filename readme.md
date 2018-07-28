@@ -194,6 +194,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	* [GYAO!](https://gyao.yahoo.co.jp/) - Japanese TV programs on demand.:iphone::japan:
 	* [FRESH!](https://freshlive.tv/) - Japanese streamer platform.:iphone:
 	* [NicoNico](http://www.nicovideo.jp/) - Japanese streamer platform.:iphone:
+	* [DaiWEEB](https://www.daiweeb.org/) - Japanese anime with both Japanese and English subtitles.
     
 ## Dictionary
 
