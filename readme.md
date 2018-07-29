@@ -155,9 +155,9 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 
 * [mykikitori](http://mykikitori.com/index.html) - Practice your Japanese learning skill.
 * Podcast
-	* [Learn Japanese Pod](https://learnjapanesepod.com/)
-	* [JapanesePod101](https://www.japanesepod101.com/)
-	* [News in Slow Japanese](http://newsinslowjapanese.com/)
+	* [Learn Japanese Pod](https://learnjapanesepod.com/) - Japanese language learning podcast.
+	* [JapanesePod101](https://www.japanesepod101.com/) - Japanese language learning podcast with multiple levels and web platform.
+	* [News in Slow Japanese](http://newsinslowjapanese.com/) - Listen Japanese News in slow speed.:moneybag:
 	* [NHK News Podcast](http://www.nhk.or.jp/podcasts/) - Three podcasts available: Japanese news:older_man:, English news, and Easy Japanese.
 	* [Bilingual News](http://bilingualnews.libsyn.com/) - Bilingual English and Japanese news podcast. Casual and unedited colloquial language learning experience through a weekly review of relevant news topics.:older_man:
 
@@ -200,7 +200,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 
 * Web
 	* [Jisho](http://jisho.org/) - Gold standard online Japanese dictionary platform.
-	* [Weblio](http://www.weblio.jp/) - :jp:
+	* [Weblio](http://www.weblio.jp/) - Japan popular dictionary website without en<->jp, jp<->jp, and more.:jp:
 	* [Google Translate](https://translate.google.com/) - Supports voice and image translation, mobile app supports offline translation.:iphone:
 * Software
 	* [Houhou](http://houhou-srs.com/) - the dictionary doubles as a learning tool.:computer:
