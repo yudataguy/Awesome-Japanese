@@ -153,6 +153,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 
 ## Listening
 
+* [SuperNative](https://supernative.tv/) - Trains you to hear, read, and speak Japanese using over 10,000 bite-sized clips from TV and movies.
 * [mykikitori](http://mykikitori.com/index.html) - Practice your Japanese learning skill.
 * Podcast
 	* [Learn Japanese Pod](https://learnjapanesepod.com/) - Japanese language learning podcast.
