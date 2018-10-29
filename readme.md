@@ -208,7 +208,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	* [Houhou](http://houhou-srs.com/) - the dictionary doubles as a learning tool.:computer:
 	* [Takoboto](https://play.google.com/store/apps/details?id=jp.takoboto) - Android Japanese dictionary app, also has web and computer based version.:iphone::computer:
 	* [imiwa?](http://www.imiwaapp.com/) - iOS Japanese dictionary app.:iphone:
-	
+	* [Tagaini Jisho](https://www.tagaini.net/) - Open-source Japanese dictionary and kanji lookup tool for Windows, MacOS X and Linux.
 ## Software
 
 * Computer
