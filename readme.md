@@ -122,9 +122,9 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 * [Anki](https://apps.ankiweb.net/) - Popular flashcard based software.:iphone::computer:
 	* [Anki User Manual](https://apps.ankiweb.net/docs/manual.html)
   * [How to use Anki to Learn Japanese](https://youtu.be/dPVpsX9ZPWE) - Anki video tutorial.
-  * [Nayr's Core 5000](https://www.reddit.com/r/LearnJapanese/comments/4itr0d/updated_nayrs_core_5k_anki_deck/) designed around an i+1 approach where learners are exposed to more than they know.
-  * [Anki Deck: Japanese Core 2000/6000](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit) - :card_index:Popular Anki Japanese Deck Core 2k/6k.
-  * [Anki Deck: Japanese Core 2000/6000](https://djtguide.neocities.org/anki.html) - :card_index:Popular Anki Japanese Deck Core 2k/6k
+  * [Nayr's Core 5000](https://www.reddit.com/r/LearnJapanese/comments/4itr0d/updated_nayrs_core_5k_anki_deck/) - :card_index:Designed around an i+1 approach where learners are exposed to more than they know.
+  * [Japanese Core 2000/6000 A](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit) | [B](https://djtguide.neocities.org/anki.html) - :card_index:Popular Anki Japanese Deck Core 2k/6k
+  * [Japanese 10K WK Breakdown](https://mega.nz/#!AdRjlZoL!FZoz3f3jq4oFUvwa59-AN3yKuQn-mFuIgNDftHtJ8n0) - :card_index:Core 10K vocabularies, broken down by WaniKani kanji.
 * [Memrise](https://www.memrise.com/) - Popular online/app flashcard platform.:iphone:
 
 ## Grammar
@@ -139,6 +139,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	* [A Dictionary of Basic Japanese Grammar](http://a.co/fMGHlG2) - Popular Japanese grammar dictionary series.:baby:
 	* [A Dictionary of Intermediate Japanese Grammar](http://amzn.to/2txGg9H) - :man:
 	* [A Dictionary of Advanced Japanese Grammar](http://amzn.to/2u1pLVg) - :older_man:
+* [Dictionary of Japanese Grammar](https://dojgdeck.neocities.org/) - :card_index:The DoJG deck allows you to review the contents of the Dictionary of Japanese Grammar through Anki
 	
 ## Reading
 
