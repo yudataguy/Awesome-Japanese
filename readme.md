@@ -40,7 +40,7 @@
 	* [Nukemarine's Suggested Guide for Beginners](https://forum.koohii.com/thread-5110.html) - A roadmap aimed at people involved in a career where one can only spare 1 to 2 hours a day for study.
 	* [Grammar Guide to Japanese](http://www.guidetojapanese.org/learn/grammar) - By Tae Kim (there also exists the "Complete Guide to Japanese" by Tae Kim, this is a work in progress/not yet complete).
 
-2. A summary of the guides is basically this:  first, learn hiragana and katakana using the links in [the section](#hiragana-and-katakana) further down this page.  The Tofugu links is a good starting place.
+2. A summary of the guides is basically this:  first, learn hiragana and katakana using the links in [Hiragana/Katkana](#hiragana-and-katakana) section further down this page.  The Tofugu links is a good starting place.
 
 3. Next is grammar/vocabulary.  You can either use a structured textbook or a more free-form online grammar guide like Tae-Kim.  Either one works, try one or both and stick with the one you like the best.  
 
