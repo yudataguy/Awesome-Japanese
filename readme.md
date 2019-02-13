@@ -80,7 +80,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	
 ### Other textbooks
 
-[Google Drive A](https://drive.google.com/open?id=0B7RbJJM_m3GDWTBVRk5mcm9YMEU) | [Google Drive B](https://drive.google.com/open?id=0B7RbJJM_m3GDUGw3VFlVWkd0bjA) - contains links to many textbooks such as Japanese for Busy People, Japanese - The Manga Way, and An Integrated Approach to Intermediate Japanese. Additionally, there's some reading resources such as Yotsubato, and some listening material.
+[Google Drive A](https://drive.google.com/open?id=0B7RbJJM_m3GDWTBVRk5mcm9YMEU) | [B](https://drive.google.com/open?id=0B7RbJJM_m3GDUGw3VFlVWkd0bjA) - contains links to many textbooks such as Japanese for Busy People, Japanese - The Manga Way, and An Integrated Approach to Intermediate Japanese. Additionally, there's some reading resources such as Yotsubato, and some listening material.
 
 ## Course
 * [Easy Japanese](https://www.nhk.or.jp/lesson/english/index.html) - Made by NHK in multiple languages:baby:
