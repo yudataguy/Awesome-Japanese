@@ -185,7 +185,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 * News
 	* [BBC News in Japanese](https://www.youtube.com/channel/UCCcey5CP5GDZeom987gqTdg) BBC News in Japanese langauge YouTube channel.
 	* [Asahi News](https://www.youtube.com/user/ANNnewsCH) - Asahi News YouTube channel.
-	* [Asahi News Live](https://www.youtube.com/watch?v=Fu2etwHzcvw) - 24/7 Asahi News Live Youtube stream.
+	* [Asahi News Live](https://www.youtube.com/watch?v=Fu2etwHzcvw) - 24/7 Asahi News Live YouTube stream.
 	* [Fuji News Network](http://www.fnn-news.com/) - FNN live and vod.
 	* [News24](http://www.news24.jp/) - News24 Channel live and vod.
 	* [Weather News Live](https://www.youtube.com/watch?v=kfTq_A9nBM0) - 24/7 Japanese Weather Channel Live stream.
