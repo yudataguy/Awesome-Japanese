@@ -92,15 +92,18 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 *Alphabet of Japanese language.*
 
 * Hiragana
-	* [Tofugu for Hiragana](https://www.tofugu.com/japanese/learn-hiragana/)
-	* [Learn Hiragana in 1 Hour](https://youtu.be/6p9Il_j0zjc) - Video lesson.
+	* [Tofugu for Hiragana](https://www.tofugu.com/japanese/learn-hiragana/) - Hiragana lesson.
+	* [Learn Hiragana in 1 Hour](https://youtu.be/6p9Il_j0zjc) - Hiragana video lesson.
 	* [Hiragana Practice Sheet](http://japanese-lesson.com/resources/pdf/characters/hiragana_writing_practice_sheets.pdf) - Print and practice.
 	* [Listening Game for Hiragana](http://www.digitaldialects.com/Japanese/Hiragana.htm) - Flash based Hiragana game.
 * Katakana
-	* [Tofugu for Katakana](https://www.tofugu.com/japanese/learn-katakana/)
-	* [Learn Katakana in 1 Hour](https://youtu.be/s6DKRgtVLGA) - Video lesson.
+	* [Tofugu for Katakana](https://www.tofugu.com/japanese/learn-katakana/) - Katakana lesson.
+	* [Learn Katakana in 1 Hour](https://youtu.be/s6DKRgtVLGA) - Katakana video lesson.
 	* [Listening Game for Katakana](http://www.digitaldialects.com/Japanese/Katakana.htm) - Flash based Katakana game.
 	* [Katakana Practice Sheet](http://japanese-lesson.com/resources/pdf/characters/katakana_writing_practice_sheets.pdf) - Print and practice.
+* App
+	* [Hiragana and Katakana](https://itunes.apple.com/us/app/hiragana-and-katakana-complete-basics-of-japanese/id385817288?mt=8) - iOS Hiragana and Katakana learning app:iphone:
+	* [Kana Dojo](https://play.google.com/store/apps/details?id=com.fastbreakapps.kanadojo&hl=en) - Android Hiragana and Katakana learning app:iphone:
 * Anki Deck
 	* [Hiragana + Katakana w/ Audio & Stroke Order](https://ankiweb.net/shared/info/1632090287) - :card_index:
 	
