@@ -31,7 +31,7 @@
 
 **__New to Japanese?__** Start here!
 
-1. All beginners should read one of the below guides (one of the top two are the best in my personal opinion).  
+1. All beginners should start with one of the guides below (one of the top two are the best in my personal opinion).  
 
 	* [Starter's Guide](https://www.reddit.com/r/LearnJapanese/wiki/index/startersguide) - from /r/learnjapanese subreddit.
 	* [DJT guide](https://djtguide.neocities.org/guide.html) - A well-written guide
@@ -40,13 +40,13 @@
 	* [Nukemarine's Suggested Guide for Beginners](https://forum.koohii.com/thread-5110.html) - A roadmap aimed at people involved in a career where one can only spare 1 to 2 hours a day for study.
 	* [Grammar Guide to Japanese](http://www.guidetojapanese.org/learn/grammar) - By Tae Kim (there also exists the "Complete Guide to Japanese" by Tae Kim, this is a work in progress/not yet complete).
 
-2. A summary of the guides is basically this:  first, learn hiragana and katakana using the links in [the section further down this page](#hiragana-and-katakana).  The Tofugu links are good.
+2. A summary of the guides is basically this:  first, learn hiragana and katakana using the links in [the section](#hiragana-and-katakana) further down this page.  The Tofugu links is a good starting place.
 
 3. Next is grammar/vocabulary.  You can either use a structured textbook or a more free-form online grammar guide like Tae-Kim.  Either one works, try one or both and stick with the one you like the best.  
 
 	For vocabulary, three nice options are [Wanikani](https://www.wanikani.com/), [Memrise](https://www.memrise.com/), or [Anki](https://djtguide.neocities.org/anki.html).  If you go with the Anki route, consider [using this deck](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit), which is the same as the deck in the above link, but with the front and back flipped around to display sentences on the front rather than single words, as this will force you to learn words in context.
 
-	For translating, avoid using Google Translate.  Instead, one of these websites: [Jisho.org: Japanese Dictionary](http://jisho.org/) or [Tangorin Japanese Dictionary](http://tangorin.com/)
+	For translation, try to avoid Google Translate.  Instead pick another one from the [Dictionary](#dictionary) list.
 
 4. That's it.  There are many, many paths to learning Japanese.  The most important thing is to choose the one you enjoy.  If you don't enjoy your study, you won't succeed, so keep searching until you find the resource or study method that you enjoy.  Look through all the resources below, ask someone if you need help, and good luck.
 
@@ -57,7 +57,7 @@
 ### Genki:baby:
 
 Everyone's favorite Japanese textbook. Recommended for beginners. 
-Description: The second edition of the most highly regarded teaching textbook on the Japanese language, covering speaking, listening, reading, and writing to cultivate overall language ability. Each lesson in the revised edition features a new section dubbed "Culture Notes", and now includes the audio CD companion which is in mp3 format ready to install on any music player. In Japanese/English.
+*Description*: The second edition of the most highly regarded teaching textbook on the Japanese language, covering speaking, listening, reading, and writing to cultivate overall language ability. Each lesson in the revised edition features a new section dubbed "Culture Notes", and now includes the audio CD companion which is in mp3 format ready to install on any music player. In Japanese/English.
 
 * [Official](http://genki.japantimes.co.jp/index_en)
 * Amazon:moneybag:
@@ -66,11 +66,10 @@ Description: The second edition of the most highly regarded teaching textbook on
 	* [Genki Answer Key](http://amzn.to/2sX4ZF8)
 * Anki Deck:card_index:
 	* [Genki 1 & 2 ](https://ankiweb.net/shared/info/1132238466) - ALL the vocab from Genki 1 & 2 and more. :warning:Still updating.
-* [Google Drive](https://drive.google.com/open?id=0B7RbJJM_m3GDUGw3VFlVWkd0bjA)
 
 ### Tobira:man:
 
-The "Tobira" textbook combines the practice of all four language skills (reading, listening, writing, speaking) and is designed for use by students who have **completed a beginner level Japanese textbook or, in terms of classroom time, has completed somewhere between 250 to 300 hours of Japanese study**.
+The "Tobira" textbook combines the practice of all four language skills (reading, listening, writing, speaking) and is designed for use by students who have **completed a beginner level Japanese textbook, or in terms of classroom time, have taken somewhere between 250 to 300 hours of Japanese study**.
 The primary goals of this textbook are to solidify the grammar, vocabulary and kanji foundation studied during the beginner level and to develop all 4 language skills. What makes this book unique is that you can learn Japanese using multimedia besides the textbook.
 
 * [Official](http://tobiraweb.9640.jp/) - Unlock multimedia content and Anki deck with special code in the textbook.
@@ -81,7 +80,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	
 ### Other textbooks
 
-[Google Drive](https://drive.google.com/open?id=0B7RbJJM_m3GDWTBVRk5mcm9YMEU) - contains links to other textbooks such as Japanese for Busy People, Japanese - The Manga Way, and An Integrated Approach to Intermediate Japanese.  Additionally, there's some reading resources such as Yotsubato, and some listening material.
+[Google Drive A](https://drive.google.com/open?id=0B7RbJJM_m3GDWTBVRk5mcm9YMEU) | [Google Drive B](https://drive.google.com/open?id=0B7RbJJM_m3GDUGw3VFlVWkd0bjA) - contains links to many textbooks such as Japanese for Busy People, Japanese - The Manga Way, and An Integrated Approach to Intermediate Japanese. Additionally, there's some reading resources such as Yotsubato, and some listening material.
 
 ## Course
 * [Easy Japanese](https://www.nhk.or.jp/lesson/english/index.html) - Made by NHK in multiple languages:baby:
@@ -203,6 +202,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 
 * Web
 	* [Jisho](http://jisho.org/) - Gold standard online Japanese dictionary platform.
+	* [Tangorin Japanese Dictionary](http://tangorin.com/) - Tangorin is an online Japanese-English dictionary with example sentences and many features to help you learn the Japanese language.
 	* [Weblio](http://www.weblio.jp/) - Japan popular dictionary website without en<->jp, jp<->jp, and more.:jp:
 	* [Google Translate](https://translate.google.com/) - Supports voice and image translation, mobile app supports offline translation.:iphone:
 * Software
