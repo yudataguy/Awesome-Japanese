@@ -84,6 +84,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 
 ## Course
 * [Easy Japanese](https://www.nhk.or.jp/lesson/english/index.html) - Made by NHK in multiple languages:baby:
+* [Elon.io](https://elon.io) - Free course including grammar and vocabulary, and reading and writing exercises(also for kanji). Uses an intelligent spaced repetition system.:baby::man:
 * [Erin's Challenge](https://www.erin.ne.jp/en/) - Video based Japanese lessons:man:
 * [LingoDeer](https://www.lingodeer.com/) - Japanese course on a new learning app similar to Duolingo, but made with a focus on East Asian languages.:iphone:
 
