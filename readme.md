@@ -113,6 +113,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 * [Kanji Koohii](https://kanji.koohii.com/) - Help you complete the kanji learning method called Remembering the Kanji.
 * [Kanji Damage](http://www.kanjidamage.com/introduction) - A Kanji learning method.
 * [Wakikani](https://www.wanikani.com/) - Kanji learning platform.:moneybag:
+* [Kanji Tree](https://play.google.com/store/apps/details?id=com.asji.kanjitree&hl=en) - A Kanji learning app for the meaning, reading and writing
 * Anki Deck
 	* [DJT Anki Guide](https://djtguide.neocities.org/anki.html) - A guide for downloading/customizing Anki with a link to the popular 6k/2k deck
 	* [Kodansha kanji learner's course with vocabulary](https://ankiweb.net/shared/info/779483253) - :card_index:This deck is meant to be used together with the Kodansha Kanji Learner's Course book (KLC).
@@ -153,6 +154,8 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 * [Japanese in Anime & Manga](http://anime-manga.jp/) - Learn Japanese from anime and manga. 
 * [Satori Reader](https://www.satorireader.com/) - Japanese reading and listening practice, first two chapters of each article is free.:moneybag: 
 * [Keio University Reading Materials Bank](http://language.tiu.ac.jp/materials/jpn/index.html) - The site is mostly in Japanese, but follow the 1-stars for the easiest reading materials. It's great because there is an English glossary integrated into the articles.
+* [lhscan](https://lhscan.net) - Website with a lot of japanese manga
+* [BilingualManga](https://bilingualmanga.com/) - Website with manga that can be switched from japanese to english
 
 ## Listening
 
@@ -185,6 +188,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 		* [Dogen's Patreon Lessons](https://www.patreon.com/dogen/overview) - A course that covers many different aspects of Japanese phonetics, like pitch accent and vowel placement.:moneybag:
 	* [Game Grammar](https://www.youtube.com/channel/UC8UqIZlupjIQ3vxcAOEoNug) - Teach you Japanese by playing video games YouTube channel.
 	* [JapanesePod101](https://www.youtube.com/channel/UC0ox9NuTHYeRys63yZpBFuA) - Popular Japanese podcast's YouTube channel.
+	* [Japanese Ammo with Misa](https://www.youtube.com/channel/UCBSyd8tXJoEJKIXfrwkPdbA) - A YouTube channel with a lot of japanese lessons
 * News
 	* [BBC News in Japanese](https://www.youtube.com/channel/UCCcey5CP5GDZeom987gqTdg) BBC News in Japanese langauge YouTube channel.
 	* [Asahi News](https://www.youtube.com/user/ANNnewsCH) - Asahi News YouTube channel.
