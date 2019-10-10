@@ -104,7 +104,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 * App
 	* [Hiragana and Katakana](https://itunes.apple.com/us/app/hiragana-and-katakana-complete-basics-of-japanese/id385817288?mt=8) - iOS Hiragana and Katakana learning app:iphone:
 	* [Kana Dojo](https://play.google.com/store/apps/details?id=com.fastbreakapps.kanadojo&hl=en) - Android Hiragana and Katakana learning app:iphone:
-	* [Kana Town](https://play.google.com/store/apps/details?id=fr.koridev.kanatown&hl=en) - SRS based Hiragana and Katakana learning app
+	* [Kana Town](https://play.google.com/store/apps/details?id=fr.koridev.kanatown&hl=en) - SRS based Hiragana and Katakana learning app:iphone
 * Anki Deck
 	* [Hiragana + Katakana w/ Audio & Stroke Order](https://ankiweb.net/shared/info/1632090287) - :card_index:
 	
@@ -114,7 +114,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 * [Kanji Koohii](https://kanji.koohii.com/) - Help you complete the kanji learning method called Remembering the Kanji.
 * [Kanji Damage](http://www.kanjidamage.com/introduction) - A Kanji learning method.
 * [Wakikani](https://www.wanikani.com/) - Kanji learning platform.:moneybag:
-* [Kanji Tree](https://play.google.com/store/apps/details?id=com.asji.kanjitree&hl=en) - A Kanji learning app for the meaning, reading and writing
+* [Kanji Tree](https://play.google.com/store/apps/details?id=com.asji.kanjitree&hl=en) - A Kanji learning app for the meaning, reading and writing:iphone:
 * Anki Deck
 	* [DJT Anki Guide](https://djtguide.neocities.org/anki.html) - A guide for downloading/customizing Anki with a link to the popular 6k/2k deck
 	* [Kodansha kanji learner's course with vocabulary](https://ankiweb.net/shared/info/779483253) - :card_index:This deck is meant to be used together with the Kodansha Kanji Learner's Course book (KLC).
