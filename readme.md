@@ -104,7 +104,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 * App
 	* [Hiragana and Katakana](https://itunes.apple.com/us/app/hiragana-and-katakana-complete-basics-of-japanese/id385817288?mt=8) - iOS Hiragana and Katakana learning app:iphone:
 	* [Kana Dojo](https://play.google.com/store/apps/details?id=com.fastbreakapps.kanadojo&hl=en) - Android Hiragana and Katakana learning app:iphone:
-	* [Kana Town](https://play.google.com/store/apps/details?id=fr.koridev.kanatown&hl=en) - SRS based Hiragana and Katakana learning app:iphone
+	* [Kana Town](https://play.google.com/store/apps/details?id=fr.koridev.kanatown&hl=en) - SRS based Hiragana and Katakana learning app:iphone:
 * Anki Deck
 	* [Hiragana + Katakana w/ Audio & Stroke Order](https://ankiweb.net/shared/info/1632090287) - :card_index:
 	
