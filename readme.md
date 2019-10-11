@@ -156,6 +156,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 * [Satori Reader](https://www.satorireader.com/) - Japanese reading and listening practice, first two chapters of each article is free.:moneybag: 
 * [Keio University Reading Materials Bank](http://language.tiu.ac.jp/materials/jpn/index.html) - The site is mostly in Japanese, but follow the 1-stars for the easiest reading materials. It's great because there is an English glossary integrated into the articles.
 * [lhscan](https://lhscan.net) - Website with a lot of japanese manga
+	* [lhscan App](https://play.google.com/store/apps/details?id=com.bakanime.lhscan&hl=en) :iphone: Beta :warning:
 * [BilingualManga](https://bilingualmanga.com/) - Website with manga that can be switched from japanese to english
 
 ## Listening
