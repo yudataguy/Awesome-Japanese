@@ -186,7 +186,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	* [Game Grammar](https://www.youtube.com/channel/UC8UqIZlupjIQ3vxcAOEoNug) - Teach you Japanese by playing video games YouTube channel.
 	* [JapanesePod101](https://www.youtube.com/channel/UC0ox9NuTHYeRys63yZpBFuA) - Popular Japanese podcast's YouTube channel.
 * News
-	* [BBC News in Japanese](https://www.youtube.com/channel/UCCcey5CP5GDZeom987gqTdg) BBC News in Japanese langauge YouTube channel.
+	* [BBC News in Japanese](https://www.youtube.com/channel/UCCcey5CP5GDZeom987gqTdg) BBC News in Japanese language YouTube channel.
 	* [Asahi News](https://www.youtube.com/user/ANNnewsCH) - Asahi News YouTube channel.
 	* [Asahi News Live](https://www.youtube.com/watch?v=Fu2etwHzcvw) - 24/7 Asahi News Live YouTube stream.
 	* [Fuji News Network](http://www.fnn-news.com/) - FNN live and vod.
@@ -221,7 +221,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	* [How to Install Japanese Keyboard on Everything](https://www.tofugu.com/japanese/how-to-install-japanese-keyboard/) - Guide by Tofugu.
 * Browser Extension:satellite:
 	* Firefox
-		* [Rikaichamp](https://addons.mozilla.org/en-US/firefox/addon/rikaichamp/) - Japanese to English/German/French/Russian dictionary. Just hover the mouse on top of a word, and a popup appears. This add-on is more competible with latest Firefox version and comes with dictionaries files. 
+		* [Rikaichamp](https://addons.mozilla.org/en-US/firefox/addon/rikaichamp/) - Japanese to English/German/French/Russian dictionary. Just hover the mouse on top of a word, and a popup appears. This add-on is more compatible with latest Firefox version and comes with dictionaries files. 
 	* Chrome
 		* [Yomichan](https://chrome.google.com/webstore/detail/yomichan/ogmnaimimemjmbakcfefmnahgdfhfami) - Yomichan turns your browser into a tool for building Japanese language literacy by helping you to decipher texts which would be otherwise too difficult tackle.
 		* [rikaigu](https://chrome.google.com/webstore/detail/rikaigu/gmgccdlimakdipjjogccblkaoipdklcb) - Rikaikun enhanced. Translate Japanese by hovering over words.
