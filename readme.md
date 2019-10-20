@@ -166,6 +166,10 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	* [NHK News Podcast](http://www.nhk.or.jp/podcasts/) - Three podcasts available: Japanese news:older_man:, English news, and Easy Japanese.
 	* [Bilingual News](http://bilingualnews.libsyn.com/) - Bilingual English and Japanese news podcast. Casual and unedited colloquial language learning experience through a weekly review of relevant news topics.:older_man:
 
+## Speaking
+
+* [Online Japanese Accent Dictionary](http://www.gavo.t.u-tokyo.ac.jp/ojad/) - Learn the correct accent to properly pronounce Japanese words. Lists of words are categorized by textbook.
+
 ## Community
 
 * [/r/learnjapanese](https://www.reddit.com/r/LearnJapanese/) - Learn Japanese subreddit.:iphone:
