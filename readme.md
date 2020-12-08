@@ -84,7 +84,9 @@ Similarly to Tobira, Minna no Nihongo is intended for intermediate-level student
 
 * [Official](https://www.3anet.co.jp/en/)
 * Amazon:moneybag:
-	* [Minna no Nihongo II](https://www.amazon.com/Minna-Nihongo-II-Main-Textbook/dp/4883196461/ref=sr_1_3?qid=1570542542&refinements=p_27%3A3A+Network&s=books&sr=1-3&text=3A+Network) | [Minna no Nihongo II Workbook](https://www.amazon.com/Nihongo-Shokyu-Workbook-Hyojun-Mondaishu/dp/4883196631/ref=sr_1_10?qid=1570542542&refinements=p_27%3A3A+Network&s=books&sr=1-10&text=3A+Network)	
+	* [Minna no Nihongo II](https://www.amazon.com/Minna-Nihongo-II-Main-Textbook/dp/4883196461/) | [Minna no Nihongo II Workbook](https://www.amazon.com/Nihongo-Shokyu-Workbook-Hyojun-Mondaishu/dp/4883196631/)
+	
+	https://www.amazon.com/Minna-Nihongo-II-Main-Textbook/dp/4883196461/
 	
 ### Other textbooks
 
