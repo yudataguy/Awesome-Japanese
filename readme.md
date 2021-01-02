@@ -1,6 +1,6 @@
 # Awesome Japanese [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of Japanese language learning resources. 
+> A curated list of Japanese language learning resources.
 
 ## Contents
 
@@ -18,7 +18,7 @@
     - [Video](#video)
     - [Dictionary](#dictionary)
 	- [Software](#software)
-	
+
 ## Emoji Description
 
 |:baby: beginner   	|:man: intermediate   	|:older_man: advanced   	|
@@ -26,7 +26,7 @@
 |:iphone: mobile app   	|:computer: computer software   	|:satellite: browser extension  	|
 |:jp: Japanese UI only 	|:japan: Japan IP restricted   	|:moneybag: costs money   	|
 |:warning: warning   	|:book: book   	|:card_index: Anki deck  	|
-    
+
 ## Beginner Guide
 
 **__New to Japanese?__** Start here!
@@ -55,7 +55,7 @@
 
 ### Genki:baby:
 
-Everyone's favorite Japanese textbook. Recommended for beginners. 
+Everyone's favorite Japanese textbook. Recommended for beginners.
 *Description*: The second edition of the most highly regarded teaching textbook on the Japanese language, covering speaking, listening, reading, and writing to cultivate overall language ability. Each lesson in the revised edition features a new section dubbed "Culture Notes", and now includes the audio CD companion which is in mp3 format ready to install on any music player. In Japanese/English.
 
 * [Official](http://genki.japantimes.co.jp/index_en)
@@ -65,7 +65,7 @@ Everyone's favorite Japanese textbook. Recommended for beginners.
 	* [Genki Answer Key](http://amzn.to/2sX4ZF8)
 * Anki Deck:card_index:
 	* [Genki 1 & 2 ](https://ankiweb.net/shared/info/1132238466) - ALL the vocab from Genki 1 & 2 and more. :warning:Still updating.
-* [Unofficial](https://sethclydesdale.github.io/genki-study-resources/) - Study tool.	
+* [Unofficial](https://sethclydesdale.github.io/genki-study-resources/) - Study tool.
 
 ### Tobira:man:
 
@@ -77,7 +77,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	* [Tobira Textbook](http://amzn.to/2sX0KcF)
 	* [Tobira: Power Up Your Kanji](http://amzn.to/2sX31nV) - With it, students can study a total of 800 kanji-the 297 kanji generally introduced in beginning-level textbooks and an additional 503 kanji introduced in Tobira.
 	* [Tobira: Grammar Power](http://amzn.to/2ugA22i) - Japanese grammar skill build up book.
-	
+
 ### Other textbooks
 
 [Google Drive A](https://drive.google.com/open?id=0B7RbJJM_m3GDWTBVRk5mcm9YMEU) | [B](https://drive.google.com/open?id=0B7RbJJM_m3GDUGw3VFlVWkd0bjA) - contains links to many textbooks such as Japanese for Busy People, Japanese - The Manga Way, and An Integrated Approach to Intermediate Japanese. Additionally, there's some reading resources such as Yotsubato, and some listening material.
@@ -86,6 +86,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 * [Easy Japanese](https://www.nhk.or.jp/lesson/english/index.html) - Made by NHK in multiple languages:baby:
 * [Erin's Challenge](https://www.erin.ne.jp/en/) - Video based Japanese lessons:man:
 * [LingoDeer](https://www.lingodeer.com/) - Japanese course on a new learning app similar to Duolingo, but made with a focus on East Asian languages.:iphone:
+* [NHK高校講座 / NHK High School Course](https://www.nhk.or.jp/kokokoza/) - Video or audio of high school course made by NHK.Easy to study the basic glossaries of different field.:man:
 
 ## Hiragana and Katakana
 
@@ -106,7 +107,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	* [Kana Dojo](https://play.google.com/store/apps/details?id=com.fastbreakapps.kanadojo&hl=en) - Android Hiragana and Katakana learning app:iphone:
 * Anki Deck
 	* [Hiragana + Katakana w/ Audio & Stroke Order](https://ankiweb.net/shared/info/1632090287) - :card_index:
-	
+
 ## Kanji
 
 * [Hacking Kanji](https://nihongoshark.com/learn-kanji/) - Guide: 2,200 Kanji in 97 Days.
@@ -118,7 +119,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	* [Kodansha kanji learner's course with vocabulary](https://ankiweb.net/shared/info/779483253) - :card_index:This deck is meant to be used together with the Kodansha Kanji Learner's Course book (KLC).
 	* [Official KanjiDamage deck](https://ankiweb.net/shared/info/748570187) - :card_index:This is the ultimate deck to learn Kanji with the KanjiDamage method.
 	* [All in One Kanji Deck (Heisig's RTK Order, 6th ed.)](https://ankiweb.net/shared/info/1862058740) - :card_index:Based on Heisig's Remember the Kanji 6th ed. book.
-* [Kanji alive](https://app.kanjialive.com) - Kanji study tool created by the University of Chicago. 
+* [Kanji alive](https://app.kanjialive.com) - Kanji study tool created by the University of Chicago.
 
 ## Vocabulary
 
@@ -143,7 +144,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	* [A Dictionary of Intermediate Japanese Grammar](http://amzn.to/2txGg9H) - :man:
 	* [A Dictionary of Advanced Japanese Grammar](http://amzn.to/2u1pLVg) - :older_man:
 * [Dictionary of Japanese Grammar](https://dojgdeck.neocities.org/) - :card_index:The DoJG deck allows you to review the contents of the Dictionary of Japanese Grammar through Anki.
-	
+
 ## Reading
 
 * [NHK Easy News](http://www3.nhk.or.jp/news/easy/) - News for elementary, middle school, and foreigners with audio and video.:baby:
@@ -151,8 +152,8 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 * [Hukumusume Fairy Tale Collection](http://hukumusume.com/douwa/) - A website where you can read and hear traditional folk tales, legends and fairy tales - from Japan and all around the world - read aloud for you in Japanese.:jp:
 * [Kyoko Shinbun](http://kyoko-np.net/index.html) - Fake Japanese News(similar to The Onion), podcast available.:iphone::jp::older_man:
 * [用例.jp](http://yourei.jp/) - Search engine for Japanese sample sentences.:jp:
-* [Japanese in Anime & Manga](http://anime-manga.jp/) - Learn Japanese from anime and manga. 
-* [Satori Reader](https://www.satorireader.com/) - Japanese reading and listening practice, first two chapters of each article is free.:moneybag: 
+* [Japanese in Anime & Manga](http://anime-manga.jp/) - Learn Japanese from anime and manga.
+* [Satori Reader](https://www.satorireader.com/) - Japanese reading and listening practice, first two chapters of each article is free.:moneybag:
 * [Keio University Reading Materials Bank](http://language.tiu.ac.jp/materials/jpn/index.html) - The site is mostly in Japanese, but follow the 1-stars for the easiest reading materials. It's great because there is an English glossary integrated into the articles.
 
 ## Listening
@@ -186,7 +187,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 
 * YouTube
 	* [Nihongo no Mori](https://www.youtube.com/channel/UCVx6RFaEAg46xfAsD2zz16w) - JLPT test-oriented YouTube channel.
-	* [Dogen](https://www.youtube.com/channel/UCSX0NhNdBA-ZnEFkYFzdw4A) - Japanese phonetic lessons YouTube channel. 
+	* [Dogen](https://www.youtube.com/channel/UCSX0NhNdBA-ZnEFkYFzdw4A) - Japanese phonetic lessons YouTube channel.
 		* [Dogen's Patreon Lessons](https://www.patreon.com/dogen/overview) - A course that covers many different aspects of Japanese phonetics, like pitch accent and vowel placement.:moneybag:
 	* [Game Grammar](https://www.youtube.com/channel/UC8UqIZlupjIQ3vxcAOEoNug) - Teach you Japanese by playing video games YouTube channel.
 	* [JapanesePod101](https://www.youtube.com/channel/UC0ox9NuTHYeRys63yZpBFuA) - Popular Japanese podcast's YouTube channel.
@@ -205,7 +206,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	* [FRESH!](https://freshlive.tv/) - Japanese streamer platform.:iphone:
 	* [NicoNico](http://www.nicovideo.jp/) - Japanese streamer platform.:iphone:
 	* [DaiWEEB](https://www.daiweeb.org/) - Japanese anime with both Japanese and English subtitles.
-    
+
 ## Dictionary
 
 * Web
@@ -213,6 +214,8 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	* [Tangorin Japanese Dictionary](http://tangorin.com/) - Tangorin is an online Japanese-English dictionary with example sentences and many features to help you learn the Japanese language.
 	* [Weblio](http://www.weblio.jp/) - Japan popular dictionary website without en<->jp, jp<->jp, and more.:jp:
 	* [Google Translate](https://translate.google.com/) - Supports voice and image translation, mobile app supports offline translation.:iphone:
+  * [語源由来辞典 / Gogen Yurai jiten](http://gogen-allguide.com/) - Etymology of Japanese.:man:
+  * [Goo辞書 / Goo Dictionary](https://dictionary.goo.ne.jp/) - Online Japanese dictionry.:jp:
 * Software
 	* [Houhou](http://houhou-srs.com/) - The dictionary doubles as a learning tool.:computer:
 	* [Takoboto](https://play.google.com/store/apps/details?id=jp.takoboto) - Android Japanese dictionary app, also has web and computer based version.:iphone::computer:
@@ -226,15 +229,15 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	* [How to Install Japanese Keyboard on Everything](https://www.tofugu.com/japanese/how-to-install-japanese-keyboard/) - Guide by Tofugu.
 * Browser Extension:satellite:
 	* Firefox
-		* [Rikaichamp](https://addons.mozilla.org/en-US/firefox/addon/rikaichamp/) - Japanese to English/German/French/Russian dictionary. Just hover the mouse on top of a word, and a popup appears. This add-on is more compatible with latest Firefox version and comes with dictionaries files. 
+		* [Rikaichamp](https://addons.mozilla.org/en-US/firefox/addon/rikaichamp/) - Japanese to English/German/French/Russian dictionary. Just hover the mouse on top of a word, and a popup appears. This add-on is more compatible with latest Firefox version and comes with dictionaries files.
 	* Chrome
 		* [Yomichan](https://chrome.google.com/webstore/detail/yomichan/ogmnaimimemjmbakcfefmnahgdfhfami) - Yomichan turns your browser into a tool for building Japanese language literacy by helping you to decipher texts which would be otherwise too difficult to tackle.
 		* [rikaigu](https://chrome.google.com/webstore/detail/rikaigu/gmgccdlimakdipjjogccblkaoipdklcb) - Rikaikun enhanced. Translate Japanese by hovering over words.
-		* [IPA furigana](https://chrome.google.com/webstore/detail/ipa-furigana/jnnbgnfnncobhklficfkdnclohaklifi) - Looks up the readings for kanji words and inserts them as Furigana. 
+		* [IPA furigana](https://chrome.google.com/webstore/detail/ipa-furigana/jnnbgnfnncobhklficfkdnclohaklifi) - Looks up the readings for kanji words and inserts them as Furigana.
 		* [ReadNihon](https://chrome.google.com/webstore/detail/readnihon/gpbdeemekjaigcjldahhmckkfbkmebfd) - ReadNihon generates website Furigana by JLPT level. It also allows you to save known words that are ignored from Furigana conversion.
 	* Safari
 		* [Safarikai](https://ashchan.github.io/safarikai/) - Rikaichan's Safari extension version.
-		
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
