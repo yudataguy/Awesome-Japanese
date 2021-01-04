@@ -198,6 +198,8 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	* [Fuji News Network](http://www.fnn-news.com/) - FNN live and vod.
 	* [News24](http://www.news24.jp/) - News24 Channel live and vod.
 	* [Weather News Live](https://www.youtube.com/watch?v=kfTq_A9nBM0) - 24/7 Japanese Weather Channel Live stream.
+  * [NIKKEI News](https://www.youtube.com/user/TouchTheNIKKEI) - NIKKEI News Youtube channel.
+  * [Yomiuri News](https://www.youtube.com/user/YomiuriShimbun) - Yomiuri News Youtube channel.
 * Stream
 	* [QVC Japan](http://qvc.jp/cont/live/Main?sc_initcmp=icpc_TOP_Left-Menu_005) - QVC Japan Shopping Channel Live stream. :warning:Flash required.
 	* [Keylabo](http://www.keylabo.com/watch-tv-online-for-free/) - Free Japanese TV Live stream listing.:warning:Some channels may not work, and 3rd party streaming service.
