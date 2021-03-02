@@ -201,7 +201,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
   * [NIKKEI News](https://www.youtube.com/user/TouchTheNIKKEI) - NIKKEI News Youtube channel.
   * [Yomiuri News](https://www.youtube.com/user/YomiuriShimbun) - Yomiuri News Youtube channel.
 * Stream
-	* [QVC Japan](http://qvc.jp/cont/live/Main?sc_initcmp=icpc_TOP_Left-Menu_005) - QVC Japan Shopping Channel Live stream. :warning:Flash required.
+	* [QVC Japan](http://qvc.jp/cont/live/Main?sc_initcmp=icpc_TOP_Left-Menu_005) - QVC Japan Shopping Channel Live stream.
 	* [Keylabo](http://www.keylabo.com/watch-tv-online-for-free/) - Free Japanese TV Live stream listing.:warning:Some channels may not work, and 3rd party streaming service.
 	* [Abema TV](https://abema.tv/) - Live Japanese TV stream.:iphone::japan:
 	* [GYAO!](https://gyao.yahoo.co.jp/) - Japanese TV programs on demand.:iphone::japan:
