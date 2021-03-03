@@ -120,6 +120,8 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	* [Official KanjiDamage deck](https://ankiweb.net/shared/info/748570187) - :card_index:This is the ultimate deck to learn Kanji with the KanjiDamage method.
 	* [All in One Kanji Deck (Heisig's RTK Order, 6th ed.)](https://ankiweb.net/shared/info/1862058740) - :card_index:Based on Heisig's Remember the Kanji 6th ed. book.
 * [Kanji alive](https://app.kanjialive.com) - Kanji study tool created by the University of Chicago.
+* [Kanjipedia](https://www.kanjipedia.jp/) - Kanji search site operated by the Japan Kanji Aptitude Testing Foundation.🇯🇵
+* [Kakijun](https://kakijun.jp/) - Help you find the stroke order of a kanji.🇯🇵
 
 ## Vocabulary
 
