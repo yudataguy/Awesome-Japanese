@@ -31,7 +31,7 @@
 
 **__New to Japanese?__** Start here!
 
-1. All beginners should start with one of the guides below (the top two are the best in my personal opinion).  
+1. All beginners should start with one of the guides below (the top two are the best in my personal opinion).
 
 	* [Starter's Guide](https://www.reddit.com/r/LearnJapanese/wiki/index/startersguide) - From /r/learnjapanese subreddit.
 	* [DJT guide](https://djtguide.neocities.org/guide.html) - A well-written guide.
@@ -41,7 +41,7 @@
 
 2. A summary of the guides is basically this:  first, learn hiragana and katakana using the links in [Hiragana/Katkana](#hiragana-and-katakana) section further down this page.  The Tofugu links is a good starting place.
 
-3. Next is grammar/vocabulary.  You can either use a structured textbook or a more free-form online grammar guide like Tae Kim.  Either one works, try one or both and stick with the one you like the best.  
+3. Next is grammar/vocabulary.  You can either use a structured textbook or a more free-form online grammar guide like Tae Kim.  Either one works, try one or both and stick with the one you like the best.
 
 	For vocabulary, three nice options are [Wanikani](https://www.wanikani.com/), [Memrise](https://www.memrise.com/), and [Anki](https://djtguide.neocities.org/anki.html).  If you go with the Anki route, consider [using this deck](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit), which is the same as the deck in the above link, but with the front and back flipped around to display sentences on the front rather than single words, as this will force you to learn words in context.
 
@@ -87,6 +87,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 * [Erin's Challenge](https://www.erin.ne.jp/en/) - Video based Japanese lessons:man:
 * [LingoDeer](https://www.lingodeer.com/) - Japanese course on a new learning app similar to Duolingo, but made with a focus on East Asian languages.:iphone:
 * [NHK高校講座 / NHK High School Course](https://www.nhk.or.jp/kokokoza/) - Video or audio of high school course made by NHK.Easy to study the basic glossaries of different field.:man:
+* [JA Sensei](https://play.google.com/store/apps/details?id=com.japanactivator.android.jasensei) - _Comprehensive_ Japanese language learning app. Includes Lessons, Kana/Kanji, Audio, Radicals, Vocab, Aural Comprehension, Phrasebook, Culturebook, Grammar, Verbs, Counters, Particles, Numbers, Adjectives. Android-only. [Companion website here](https://www.japan-activator.com/) :iphone: :moneybag:
 
 ## Hiragana and Katakana
 
