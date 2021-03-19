@@ -150,6 +150,9 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 ## Reading
 
 * [NHK Easy News](http://www3.nhk.or.jp/news/easy/) - News for elementary, middle school, and foreigners with audio and video.:baby:
+* [読み物いっぱい](http://www17408ui.sakura.ne.jp/tatsum/project/Yomimono/Yomimono-ippai/index.html) - Reading materials for elementary learners.👶
+* [Tadoku](https://tadoku.org/japanese/en/free-books-en/) - Illustrated books for elementary learners. Some books require purchase. 👶:moneybag:
+* [青空文庫](https://www.aozora.gr.jp) - A Japanese digital library encompasses several thousands of works of Japanese-language fiction and non-fiction.👴
 * [Japanese Folktales](http://www.e-hon.jp/ehon_jp/index1.htm) - Japanese folktales with drawings and audio.:jp:
 * [Hukumusume Fairy Tale Collection](http://hukumusume.com/douwa/) - A website where you can read and hear traditional folk tales, legends and fairy tales - from Japan and all around the world - read aloud for you in Japanese.:jp:
 * [Kyoko Shinbun](http://kyoko-np.net/index.html) - Fake Japanese News(similar to The Onion), podcast available.:iphone::jp::older_man:
