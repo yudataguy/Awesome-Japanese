@@ -78,6 +78,14 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	* [Tobira: Power Up Your Kanji](http://amzn.to/2sX31nV) - With it, students can study a total of 800 kanji-the 297 kanji generally introduced in beginning-level textbooks and an additional 503 kanji introduced in Tobira.
 	* [Tobira: Grammar Power](http://amzn.to/2ugA22i) - Japanese grammar skill build up book.
 
+### Minna no Nihongo:man:
+
+Similarly to Tobira, Minna no Nihongo is intended for intermediate-level students.
+
+* [Official](https://www.3anet.co.jp/en/)
+* Amazon:moneybag:
+	* [Minna no Nihongo II](https://www.amazon.com/Minna-Nihongo-II-Main-Textbook/dp/4883196461/) | [Minna no Nihongo II Workbook](https://www.amazon.com/Nihongo-Shokyu-Workbook-Hyojun-Mondaishu/dp/4883196631/)
+  
 ### Other textbooks
 
 [Google Drive A](https://drive.google.com/open?id=0B7RbJJM_m3GDWTBVRk5mcm9YMEU) | [B](https://drive.google.com/open?id=0B7RbJJM_m3GDUGw3VFlVWkd0bjA) - contains links to many textbooks such as Japanese for Busy People, Japanese - The Manga Way, and An Integrated Approach to Intermediate Japanese. Additionally, there's some reading resources such as Yotsubato, and some listening material.
