@@ -168,6 +168,7 @@ Similarly to Tobira, Minna no Nihongo is intended for intermediate-level student
 * [Japanese in Anime & Manga](http://anime-manga.jp/) - Learn Japanese from anime and manga.
 * [Satori Reader](https://www.satorireader.com/) - Japanese reading and listening practice, first two chapters of each article is free.:moneybag:
 * [Keio University Reading Materials Bank](http://language.tiu.ac.jp/materials/jpn/index.html) - The site is mostly in Japanese, but follow the 1-stars for the easiest reading materials. It's great because there is an English glossary integrated into the articles.
+* [Japanese IO](https://www.japanese.io) - Learn Japanese through fun and easy reading practice. 👴
 
 ## Listening
 
