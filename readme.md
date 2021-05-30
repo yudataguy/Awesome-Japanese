@@ -19,13 +19,23 @@
     - [Dictionary](#dictionary)
 	- [Software](#software)
 
-## Emoji Description
+## How To Use These Resources
 
-|:baby: beginner   	|:man: intermediate   	|:older_man: advanced   	|
-|---	|---	|---	|
-|:iphone: mobile app   	|:computer: computer software   	|:satellite: browser extension  	|
-|:jp: Japanese UI only 	|:japan: Japan IP restricted   	|:moneybag: costs money   	|
-|:warning: warning   	|:book: book   	|:card_index: Anki deck  	|
+Indicator | Description
+---	|---
+|:baby: | beginner   	
+|:man: | intermediate   	
+|:older_man: | advanced  
+|:iphone: | mobile app   	
+|:computer: | computer software   	
+|:satellite: | browser extension
+|:jp: | Japanese UI only 	
+|:japan: | Japan IP restricted   	
+|:moneybag: | costs money
+|:warning: | warning
+|:book: | book
+|:card_index: | Anki deck
+
 
 ## Beginner Guide
 
