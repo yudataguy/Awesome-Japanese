@@ -131,7 +131,7 @@ Similarly to Tobira, Minna no Nihongo is intended for intermediate-level student
 * [Hacking Kanji](https://nihongoshark.com/learn-kanji/) - Guide: 2,200 Kanji in 97 Days.
 * [Kanji Koohii](https://kanji.koohii.com/) - Help you complete the kanji learning method called Remembering the Kanji.
 * [Kanji Damage](http://www.kanjidamage.com/introduction) - A Kanji learning method.
-* [Wakikani](https://www.wanikani.com/) - Kanji learning platform.:moneybag:
+* [Wanikani](https://www.wanikani.com/) - Kanji learning platform.:moneybag:
 * Anki Deck
 	* [DJT Anki Guide](https://djtguide.neocities.org/anki.html) - A guide for downloading/customizing Anki with a link to the popular 6k/2k deck
 	* [Kodansha kanji learner's course with vocabulary](https://ankiweb.net/shared/info/779483253) - :card_index:This deck is meant to be used together with the Kodansha Kanji Learner's Course book (KLC).
