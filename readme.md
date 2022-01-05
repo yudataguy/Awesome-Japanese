@@ -62,7 +62,7 @@ For translation, try to avoid Google Translate. Instead pick another one from th
 
 _Textbooks provide you with structured learning material._
 
-### Genki:baby
+### Genki:baby:
 
 Everyone's favorite Japanese textbook. Recommended for beginners.
 _Description_: The second edition of the most highly regarded teaching textbook on the Japanese language, covering speaking, listening, reading, and writing to cultivate overall language ability. Each lesson in the revised edition features a new section dubbed "Culture Notes", and now includes the audio CD companion which is in mp3 format ready to install on any music player. In Japanese/English.
@@ -76,7 +76,7 @@ _Description_: The second edition of the most highly regarded teaching textbook 
   - [Genki 1 & 2](https://ankiweb.net/shared/info/1132238466) - ALL the vocab from Genki 1 & 2 and more. :warning:Still updating.
 - [Unofficial](https://sethclydesdale.github.io/genki-study-resources/) - Study tool.
 
-### Tobira:man
+### Tobira:man:
 
 The "Tobira" textbook combines the practice of all four language skills (reading, listening, writing, speaking) and is designed for use by students who have **completed a beginner level Japanese textbook, or in terms of classroom time, have taken somewhere between 250 to 300 hours of Japanese study**.
 The primary goals of this textbook are to solidify the grammar, vocabulary and kanji foundation studied during the beginner level and to develop all 4 language skills. What makes this book unique is that you can learn Japanese using multimedia besides the textbook.
@@ -87,7 +87,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
   - [Tobira: Power Up Your Kanji](http://amzn.to/2sX31nV) - With it, students can study a total of 800 kanji-the 297 kanji generally introduced in beginning-level textbooks and an additional 503 kanji introduced in Tobira.
   - [Tobira: Grammar Power](http://amzn.to/2ugA22i) - Japanese grammar skill build up book.
 
-### Minna no Nihongo:man
+### Minna no Nihongo:man:
 
 Similarly to Tobira, Minna no Nihongo is intended for intermediate-level students.
 
