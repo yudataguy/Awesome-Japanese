@@ -142,6 +142,7 @@ _Alphabet of Japanese language._
 - [Kanji alive](https://app.kanjialive.com) - Kanji study tool created by the University of Chicago.
 - [Kanjipedia](https://www.kanjipedia.jp/) - Kanji search site operated by the Japan Kanji Aptitude Testing Foundation.🇯🇵
 - [Kakijun](https://kakijun.jp/) - Help you find the stroke order of a kanji.🇯🇵
+- [Kanji Explorer](https://github.com/ibz/kanjiexplorer.com) Navigate kanji using radicals
 
 ## Vocabulary
 
