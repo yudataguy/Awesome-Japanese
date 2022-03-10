@@ -125,6 +125,7 @@ _Alphabet of Japanese language._
 - App
   - [Hiragana and Katakana](https://itunes.apple.com/us/app/hiragana-and-katakana-complete-basics-of-japanese/id385817288?mt=8) - iOS Hiragana and Katakana learning app:iphone:
   - [Kana Dojo](https://play.google.com/store/apps/details?id=com.fastbreakapps.kanadojo&hl=en) - Android Hiragana and Katakana learning app:iphone:
+  - [Kakugo](https://play.google.com/store/apps/details?id=org.kaqui) - Open-source android hiragana, katakana and kanji learning app:iphone:
 - Anki Deck
   - [Hiragana + Katakana w/ Audio & Stroke Order](https://ankiweb.net/shared/info/1632090287) - :card_index:
 
