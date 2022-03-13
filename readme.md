@@ -142,6 +142,7 @@ _Alphabet of Japanese language._
 - [Kanjipedia](https://www.kanjipedia.jp/) - Kanji search site operated by the Japan Kanji Aptitude Testing Foundation.🇯🇵
 - [Kakijun](https://kakijun.jp/) - Help you find the stroke order of a kanji.🇯🇵
 - [Kanji Explorer](https://kanjiexplorer.com) - Navigate kanji using radicals
+- [Kakugo](https://play.google.com/store/apps/details?id=org.kaqui) - Android hiragana, katakana and kanji learning app:iphone:
 
 ## Vocabulary
 
