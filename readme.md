@@ -253,6 +253,7 @@ _Alphabet of Japanese language._
   - [Takoboto](https://play.google.com/store/apps/details?id=jp.takoboto) - Android Japanese dictionary app, also has web and computer based version.:iphone::computer:
   - [imiwa?](http://www.imiwaapp.com/) - iOS Japanese dictionary app.:iphone:
   - [Tagaini Jisho](https://www.tagaini.net/) - Open-source Japanese dictionary and kanji lookup tool for Windows, MacOS X and Linux.
+  - [Jiten](https://play.google.com/store/apps/details?id=dev.obfusk.jiten) - Android Japanese dictionary and kanji lookup app, also has web version.:iphone:
 
 ## Software
 
