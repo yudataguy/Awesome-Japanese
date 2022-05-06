@@ -254,6 +254,8 @@ _Alphabet of Japanese language._
   - [imiwa?](http://www.imiwaapp.com/) - iOS Japanese dictionary app.:iphone:
   - [Tagaini Jisho](https://www.tagaini.net/) - Open-source Japanese dictionary and kanji lookup tool for Windows, MacOS X and Linux.
   - [Jiten](https://play.google.com/store/apps/details?id=dev.obfusk.jiten) - Android Japanese dictionary and kanji lookup app, also has web version.:iphone:
+  - [Japanese](https://apps.apple.com/it/app/japanese/id290664053) - Dictionary, stroke order and flashcards for iOS
+  - [Midori (Japanese Dictionary)](https://apps.apple.com/it/app/midori-japanese-dictionary/id385231773) - Dictionary, stroke order and flashcards for iOS
 
 ## Software
 
@@ -271,6 +273,12 @@ _Alphabet of Japanese language._
     - [ReadNihon](https://chrome.google.com/webstore/detail/readnihon/gpbdeemekjaigcjldahhmckkfbkmebfd) - ReadNihon generates website Furigana by JLPT level. It also allows you to save known words that are ignored from Furigana conversion.
   - Safari
     - [Safarikai](https://ashchan.github.io/safarikai/) - Rikaichan's Safari extension version.
+
+- iOS and iPadOS
+  - Safari Extensions
+    - [Toucan - Language Learning](https://apps.apple.com/it/app/toucan-language-learning/id1562755912) - When you visit a website, Toucan automatically translates certain words and phrases on the page into the language you're trying to learn.
+  - Apps
+    - [Drops: Language learning app](https://apps.apple.com/it/app/drops-language-learning-app/id939540371) - 5 minutes/day free flashcards-based app separated by categories.
 
 ## Contribute
 
