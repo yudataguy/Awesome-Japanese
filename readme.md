@@ -44,7 +44,6 @@
 
 - [Starter's Guide](https://www.reddit.com/r/LearnJapanese/wiki/index/startersguide) - From /r/learnjapanese subreddit.
 - [DJT guide](https://djtguide.neocities.org/guide.html) - A well-written guide.
-- [All Japanese All The Time (Overview/Timeline)](https://www.youtube.com/watch?v=9PdPOxiWWuU) - For people willing to completely immerse themselves in Japanese.
 - [Japanese Walkthrough](http://japaneselevelup.com/japanese-quest-walkthrough/) - A visual learning guide.
 - [Grammar Guide to Japanese](http://www.guidetojapanese.org/learn/grammar) - By Tae Kim (there also exists the "Complete Guide to Japanese" by Tae Kim, this is a work in progress/not yet complete).
 
