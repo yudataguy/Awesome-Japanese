@@ -218,6 +218,7 @@ _Alphabet of Japanese language._
     - [Dogen's Patreon Lessons](https://www.patreon.com/dogen/overview) - A course that covers many different aspects of Japanese phonetics, like pitch accent and vowel placement.:moneybag:
   - [Game Grammar](https://www.youtube.com/channel/UC8UqIZlupjIQ3vxcAOEoNug) - Teach you Japanese by playing video games YouTube channel.
   - [JapanesePod101](https://www.youtube.com/channel/UC0ox9NuTHYeRys63yZpBFuA) - Popular Japanese podcast's YouTube channel.
+  - [Japanese Ammo with Misa](https://www.youtube.com/c/JapaneseAmmowithMisa) - Grammar & vocabulary lessons YouTube channel.
 - News
   - [BBC News in Japanese](https://www.youtube.com/channel/UCCcey5CP5GDZeom987gqTdg) BBC News in Japanese language YouTube channel.
   - [Asahi News](https://www.youtube.com/user/ANNnewsCH) - Asahi News YouTube channel.
