@@ -189,6 +189,7 @@ _Alphabet of Japanese language._
 - [Delvin](http://delvinlanguage.com) - Practice Japanese listening and reading with authentic Japanese video.
 - [mykikitori](http://mykikitori.com/index.html) - Practice your Japanese learning skill.
 - Podcast
+  - [Podcast Ranking](https://podcastranking.jp/) - Japanese Podcast ranking website, discover Japanese language podcasts.
   - [Learn Japanese Pod](https://learnjapanesepod.com/) - Japanese language learning podcast.
   - [JapanesePod101](https://www.japanesepod101.com/) - Japanese language learning podcast with multiple levels and web platform.
   - [News in Slow Japanese](http://newsinslowjapanese.com/) - Listen to Japanese News in slow speed.:moneybag:
