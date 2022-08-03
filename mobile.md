@@ -54,7 +54,7 @@
 
 - [Japanese](https://www.japaneseapp.com/) - Japanese dictionary. :apple: :robot:
 - [Akebi](https://play.google.com/store/apps/details?id=com.craxic.akebifree) - Japanese dictionary, support export word to Anki. :robot:
-- [Takoboto] - Japanese dictionary. :robot:
+- [Takoboto](https://play.google.com/store/apps/details?id=jp.takoboto&hl=en_US&gl=US) - Japanese dictionary. :robot:
 
 ## Language Exchange
 
