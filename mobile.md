@@ -20,12 +20,9 @@
 
 | Indicator   | Description         |
 | ----------- | ------------------- |
-| :baby:      | beginner            |
-| :man:       | intermediate        |
-| :older_man: | advanced            |
 | :apple:     | Apple iOS iPhone    |
 | :robot:     | Android             |
-| :moneybag:  | not free            |
+| :moneybag:  | Paid Feature(s)     |
 | :japan:     | Japan IP restricted |
 | :jp:        | Japanese interface  |
 
