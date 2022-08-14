@@ -9,6 +9,10 @@
   - [Japanese Alphabet: Hiragana & Katakana](#japanese-alphabet)
   - [Kanji](#kanji)
   - [Vocabulary](#vocabulary)
+<<<<<<< HEAD
+=======
+  - [Grammar](#grammar)
+>>>>>>> cf79980919ed1fe4bea2b76c08fdb81c9854a7e4
   - [Reading](#reading)
   - [Listening](#listening)
   - [Speaking](#speaking)
@@ -19,12 +23,18 @@
 
 | Indicator   | Description         |
 | ----------- | ------------------- |
+<<<<<<< HEAD
 | :baby:      | beginner            |
 | :man:       | intermediate        |
 | :older_man: | advanced            |
 | :apple:     | Apple iOS iPhone    |
 | :robot:     | Android             |
 | :moneybag:  | not free            |
+=======
+| :apple:     | Apple iOS iPhone    |
+| :robot:     | Android             |
+| :moneybag:  | Paid Feature(s)     |
+>>>>>>> cf79980919ed1fe4bea2b76c08fdb81c9854a7e4
 | :japan:     | Japan IP restricted |
 | :jp:        | Japanese interface  |
 
@@ -48,6 +58,10 @@
 - [Anki](https://apps.ankiweb.net/) - Japanese vocabulary learning app. :apple: :robot:
 - [Memrise](https://www.memrise.com/) - Community driven Japanese vocabulary learning app. :apple: :robot:
 
+## Grammar
+
+- [Bunpro](https://bunpro.jp/) - Grammar learning web app. Mobile apps in open alpha testing, which can be accessed [here](https://bunpro.jp/apps). :moneybag: :apple: :robot:
+
 ## Reading
 
 ## Listening
@@ -58,7 +72,7 @@
 
 - [Japanese](https://www.japaneseapp.com/) - Japanese dictionary. :apple: :robot:
 - [Akebi](https://play.google.com/store/apps/details?id=com.craxic.akebifree) - Japanese dictionary, support export word to Anki. :robot:
-- [Takoboto] - Japanese dictionary. :robot:
+- [Takoboto](https://play.google.com/store/apps/details?id=jp.takoboto&hl=en_US&gl=US) - Japanese dictionary. :robot:
 
 ## Language Exchange
 

@@ -2,6 +2,8 @@
 
 > A curated list of Japanese language learning resources.
 
+Update: mobile alpha version is now available, [mobile.md](./mobile.md), I'd like to have community input on selecting the best mobile resources for each category. Please see *Issues* section for more information.
+
 ## Contents
 
 - [Awesome Japanese](#awesome-japanese)
