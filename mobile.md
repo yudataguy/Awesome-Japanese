@@ -9,10 +9,7 @@
   - [Japanese Alphabet: Hiragana & Katakana](#japanese-alphabet)
   - [Kanji](#kanji)
   - [Vocabulary](#vocabulary)
-<<<<<<< HEAD
-=======
   - [Grammar](#grammar)
->>>>>>> cf79980919ed1fe4bea2b76c08fdb81c9854a7e4
   - [Reading](#reading)
   - [Listening](#listening)
   - [Speaking](#speaking)
@@ -23,18 +20,9 @@
 
 | Indicator   | Description         |
 | ----------- | ------------------- |
-<<<<<<< HEAD
-| :baby:      | beginner            |
-| :man:       | intermediate        |
-| :older_man: | advanced            |
-| :apple:     | Apple iOS iPhone    |
-| :robot:     | Android             |
-| :moneybag:  | not free            |
-=======
 | :apple:     | Apple iOS iPhone    |
 | :robot:     | Android             |
 | :moneybag:  | Paid Feature(s)     |
->>>>>>> cf79980919ed1fe4bea2b76c08fdb81c9854a7e4
 | :japan:     | Japan IP restricted |
 | :jp:        | Japanese interface  |
 
