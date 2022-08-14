@@ -48,6 +48,7 @@
 
 ## Grammar
 
+- [Tae Kim's Guide to Learning Japanese](https://guidetojapanese.org/learn/grammar) - This guide was created as a resource for those who want to learn Japanese grammar in a rational, intuitive way that makes sense in Japanese. The explanations are focused on how to make sense of the grammar not from English but from a Japanese point of view. :apple: :robot:
 - [Bunpro](https://bunpro.jp/) - Grammar learning web app. Mobile apps in open alpha testing, which can be accessed [here](https://bunpro.jp/apps). :moneybag: :apple: :robot:
 
 ## Reading
