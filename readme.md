@@ -245,6 +245,7 @@ _Alphabet of Japanese language._
 - Web
 
   - [Jisho](http://jisho.org/) - Gold standard online Japanese dictionary platform.
+  - [Jotoba](https://jotoba.de/) - Great alternative to jisho.org with improved radical search and more.
   - [Tangorin Japanese Dictionary](http://tangorin.com/) - Tangorin is an online Japanese-English dictionary with example sentences and many features to help you learn the Japanese language.
   - [Weblio](http://www.weblio.jp/) - Japan popular dictionary website without en<->jp, jp<->jp, and more.:jp:
   - [Google Translate](https://translate.google.com/) - Supports voice and image translation, mobile app supports offline translation.:iphone:
