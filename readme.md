@@ -108,6 +108,7 @@ Similarly to Tobira, Minna no Nihongo is intended for intermediate-level student
 - [LingoDeer](https://www.lingodeer.com/) - Japanese course on a new learning app similar to Duolingo, but made with a focus on East Asian languages.:iphone:
 - [NativShark](https://nativshark.com/) - All in one Japanese learning platform, combining vocab, grammar, kanji and speaking practice.:moneybag:
 - [NHK 高校講座 / NHK High School Course](https://www.nhk.or.jp/kokokoza/) - Video or audio of high school course made by NHK.Easy to study the basic glossaries of different field.:man:
+- [Drops: Language learning app](https://languagedrops.com/) - Duolingo-like app which offers 5 minutes/day free flashcards-based app separated by categories. :iphone:
 
 ## Hiragana and Katakana
 
@@ -259,6 +260,8 @@ _Alphabet of Japanese language._
   - [imiwa?](http://www.imiwaapp.com/) - iOS Japanese dictionary app.:iphone:
   - [Tagaini Jisho](https://www.tagaini.net/) - Open-source Japanese dictionary and kanji lookup tool for Windows, MacOS X and Linux.
   - [Jiten](https://play.google.com/store/apps/details?id=dev.obfusk.jiten) - Android Japanese dictionary and kanji lookup app, also has web version.:iphone:
+  - [Japanese](https://www.japaneseapp.com/) - Dictionary, stroke order and flashcards for iOS :iphone:
+  - [Midori (Japanese Dictionary)](https://apps.apple.com/it/app/midori-japanese-dictionary/id385231773) - Dictionary, stroke order and flashcards for iOS :iphone::computer:
 
 ## Software
 
@@ -276,6 +279,9 @@ _Alphabet of Japanese language._
     - [ReadNihon](https://chrome.google.com/webstore/detail/readnihon/gpbdeemekjaigcjldahhmckkfbkmebfd) - ReadNihon generates website Furigana by JLPT level. It also allows you to save known words that are ignored from Furigana conversion.
   - Safari
     - [Safarikai](https://ashchan.github.io/safarikai/) - Rikaichan's Safari extension version.
+
+    - [Toucan - Language Learning](https://jointoucan.com/) - When you visit a website, Toucan automatically translates certain words and phrases on the page into the language you're trying to learn. :iphone:
+
 
 ## Contribute
 
