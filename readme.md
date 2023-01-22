@@ -247,10 +247,10 @@ _Alphabet of Japanese language._
   - [NicoNico](http://www.nicovideo.jp/) - Japanese streamer platform.:iphone:
   - [DaiWEEB](https://www.daiweeb.org/) - Japanese anime with both Japanese and English subtitles.
 - Players
- - [Memento](https://github.com/ripose-jp/Memento) - An mpv-based video player for studying Japanese
- - [animebook](https://github.com/animebook/animebook.github.io) - In-browser video player for learning Japanese with subtitles
+  - [Memento](https://github.com/ripose-jp/Memento) - An mpv-based video player for studying Japanese
+  - [animebook](https://github.com/animebook/animebook.github.io) - In-browser video player for learning Japanese with subtitles
 - Subtitles
- - [kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) - Repository of Japanese subtitles for many series
+  - [kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) - Repository of Japanese subtitles for many series
 
 ## Dictionary
 
