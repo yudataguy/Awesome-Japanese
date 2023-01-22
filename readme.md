@@ -48,6 +48,7 @@ Update: mobile alpha version is now available, [mobile.md](./mobile.md), I'd lik
 - [DJT guide](https://djtguide.neocities.org/guide.html) - A well-written guide.
 - [Japanese Walkthrough](http://japaneselevelup.com/japanese-quest-walkthrough/) - A visual learning guide.
 - [Grammar Guide to Japanese](http://www.guidetojapanese.org/learn/grammar) - By Tae Kim (there also exists the "Complete Guide to Japanese" by Tae Kim, this is a work in progress/not yet complete).
+- [The Moe Way](https://learnjapanese.moe/guide/) - A Japanese guide outlining the fundamentals as well as guides on setting up various language acquisition software tools such as visual novel text hooks.
 
 2. A summary of the guides is basically this: first, learn hiragana and katakana using the links in [Hiragana/Katkana](#hiragana-and-katakana) section further down this page. The Tofugu links is a good starting place.
 
@@ -155,6 +156,7 @@ _Alphabet of Japanese language._
   - [Japanese Core 2000/6000 A](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit) | [B](https://djtguide.neocities.org/anki.html) - :card_index:Popular Anki Japanese Deck Core 2k/6k
   - [Japanese 10K WK Breakdown](https://mega.nz/#!AdRjlZoL!FZoz3f3jq4oFUvwa59-AN3yKuQn-mFuIgNDftHtJ8n0) - :card_index:Core 10K vocabularies, broken down by WaniKani kanji.
 - [Memrise](https://www.memrise.com/) - Popular online/app flashcard platform.:iphone:
+- [jpdbdatamining](https://github.com/0xspringtime/jpdbdatamining) - Repository containing spreadsheet data on media difficulty from jpdb for ~4000 instances of japanese-language media 
 
 ## Grammar
 
@@ -244,6 +246,11 @@ _Alphabet of Japanese language._
   - [FRESH!](https://freshlive.tv/) - Japanese streamer platform.:iphone:
   - [NicoNico](http://www.nicovideo.jp/) - Japanese streamer platform.:iphone:
   - [DaiWEEB](https://www.daiweeb.org/) - Japanese anime with both Japanese and English subtitles.
+- Players
+ - [Memento](https://github.com/ripose-jp/Memento) - An mpv-based video player for studying Japanese
+ - [animebook](https://github.com/animebook/animebook.github.io) - In-browser video player for learning Japanese with subtitles
+- Subtitles
+ - [kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) - Repository of Japanese subtitles for many series
 
 ## Dictionary
 
