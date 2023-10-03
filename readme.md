@@ -161,7 +161,7 @@ _Alphabet of Japanese language._
 
 - [Japanese Grammar Guide](http://www.guidetojapanese.org/learn/grammar) - By Tae Kim. A complete guide to Japanese grammar from knowing nothing to advanced topics. :iphone:
   - [Supplement Grammar List](http://aryailia.blogspot.my/2017/05/supplements-to-tae-kims-guide-to.html) by Araia to the Japanese Grammar Guide. Targeted towards intermediate and advanced learners.
-- [Imabi](http://www.imabi.net/) - A grammar website like Tae Kim, but made by a linguist. Has many great, in-depth explanations, but some may find them almost too in-depth.
+- [Imabi](https://imabi.org/) - A grammar website like Tae Kim, but made by a linguist. Has many great, in-depth explanations, but some may find them almost too in-depth.
 - [Visualize Japanese Grammar](https://www2.gwu.edu/~eall/vjg/vjghomepage/vjghome.htm) - Links to 66 animations of various grammatical structures in Japanese and 12 downloadable appendices.
 - [JGram](http://www.jgram.org/) - The Japanese Grammar Database.
 - [Maggie Sensei](http://maggiesensei.com/) - Conversational Grammar.
