@@ -45,6 +45,7 @@
 
 - [Anki](https://apps.ankiweb.net/) - Japanese vocabulary learning app. :apple: :robot:
 - [Memrise](https://www.memrise.com/) - Community driven Japanese vocabulary learning app. :apple: :robot:
+- [Jidoujisho](https://github.com/lrorpilla/jidoujisho) - A full-featured immersion language learning suite for mobile :robot:
 
 ## Grammar
 
