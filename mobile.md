@@ -1,30 +1,31 @@
-# Awesome Japanese - Mobile [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+**# Awesome Japanese - Mobile [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Alpha version. A curated list of Japanese language learning resources for smartphones. Each category limits 5 website/app.
 
 ## Contents
 
-- [Awesome Japanese Mobile](#awesome-japanese)
-  - [Course](#course)
-  - [Japanese Alphabet: Hiragana & Katakana](#japanese-alphabet)
-  - [Kanji](#kanji)
-  - [Vocabulary](#vocabulary)
-  - [Grammar](#grammar)
-  - [Reading](#reading)
-  - [Listening](#listening)
-  - [Speaking](#speaking)
-  - [Dictionary](#dictionary)
-  - [Language Exchange](#language-exchange)
+- [Contents](#contents)
+- [Indicator Explanation](#indicator-explanation)
+- [Course](#course)
+- [Japanese Alphabet: Hiragana \& Katakana](#japanese-alphabet-hiragana--katakana)
+- [Kanji](#kanji)
+- [Vocabulary](#vocabulary)
+- [Grammar](#grammar)
+- [Reading](#reading)
+- [Listening](#listening)
+- [Speaking](#speaking)
+- [Dictionary](#dictionary)
+- [Language Exchange](#language-exchange)
 
 ## Indicator Explanation
 
-| Indicator   | Description         |
-| ----------- | ------------------- |
-| :apple:     | Apple iOS iPhone    |
-| :robot:     | Android             |
-| :moneybag:  | Paid Feature(s)     |
-| :japan:     | Japan IP restricted |
-| :jp:        | Japanese interface  |
+| Indicator  | Description         |
+| ---------- | ------------------- |
+| :apple:    | Apple iOS iPhone    |
+| :robot:    | Android             |
+| :moneybag: | Paid Feature(s)     |
+| :japan:    | Japan IP restricted |
+| :jp:       | Japanese interface  |
 
 ## Course
 
