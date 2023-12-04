@@ -204,7 +204,7 @@ _Alphabet of Japanese language._
   - [News in Slow Japanese](http://newsinslowjapanese.com/) - Listen to Japanese News in slow speed.:moneybag:
   - [NHK News Podcast](http://www.nhk.or.jp/podcasts/) - Three podcasts available: Japanese news:older_man:, English news, and Easy Japanese.
   - [Bilingual News](http://bilingualnews.libsyn.com/) - Bilingual English and Japanese news podcast. Casual and unedited colloquial language learning experience through a weekly review of relevant news topics.:older_man:
-  - [Nihongo con Teppei](https://open.spotify.com/show/4W4jYoKRmjlURKO1fIfcOK?si=77582672541d4a77) -Japanese podcast for beginners
+  - [Nihongo con Teppei](https://nihongoconteppei.com/) -Japanese podcast for beginners
 
 ## Speaking
 
@@ -219,7 +219,7 @@ _Alphabet of Japanese language._
   - [English-Japanese Language Exchange](https://discord.gg/NJJCYVD) - Highly active English/Japanese discord chat server.
   - [日本語と英語](https://discord.gg/0eIsYvFQul270V1L) - Another popular English/Japanese discord chat server.
   - [Reddit Masterlist](https://www.reddit.com/r/languagelearning/comments/5m5426/discord_language_learning_servers_masterlist/) A list on Reddit of all the language Discord servers. Scroll down to the East Asian Languages section for Japanese servers.
-  - [TheMoeWay](https://discord.gg/nhqjydaR8j) - TheMoeWay discord server
+  - [TheMoeWay](https://discord.gg/nhqjydaR8j) - Highly active discord chat server for an immersion Japanese learner with immersion logs
 - [HelloTalk](https://www.hellotalk.com/) - Popular language exchange app.:iphone:
 
 ## Video
