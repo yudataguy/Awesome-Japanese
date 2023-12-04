@@ -204,7 +204,7 @@ _Alphabet of Japanese language._
   - [News in Slow Japanese](http://newsinslowjapanese.com/) - Listen to Japanese News in slow speed.:moneybag:
   - [NHK News Podcast](http://www.nhk.or.jp/podcasts/) - Three podcasts available: Japanese news:older_man:, English news, and Easy Japanese.
   - [Bilingual News](http://bilingualnews.libsyn.com/) - Bilingual English and Japanese news podcast. Casual and unedited colloquial language learning experience through a weekly review of relevant news topics.:older_man:
-  - [Nihongo con Teppei](https://nihongoconteppei.com/) -Japanese podcast for beginners
+  - [Nihongo con Teppei](https://nihongoconteppei.com/) - Japanese podcast for beginners
 
 ## Speaking
 
