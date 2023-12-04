@@ -11,8 +11,8 @@ Update: mobile alpha version is now available, [mobile.md](./mobile.md), I'd lik
   - [How To Use These Resources](#how-to-use-these-resources)
   - [Beginner Guide](#beginner-guide)
   - [Textbook](#textbook)
-    - [Genki](#genki)
-    - [Tobira](#tobira)
+    - [Genki :baby:](#genki-baby)
+    - [Tobira :older\_man:](#tobira-older_man)
     - [Minna no Nihongo :man:](#minna-no-nihongo-man)
     - [Other textbooks](#other-textbooks)
   - [Course](#course)
@@ -73,7 +73,7 @@ For translation, try to avoid Google Translate. Instead pick another one from th
 
 _Textbooks provide you with structured learning material._
 
-### Genki
+### Genki :baby:
 
 Everyone's favorite Japanese textbook. Recommended for beginners.
 _Description_: The second edition of the most highly regarded teaching textbook on the Japanese language, covering speaking, listening, reading, and writing to cultivate overall language ability. Each lesson in the revised edition features a new section dubbed "Culture Notes", and now includes the audio CD companion which is in mp3 format ready to install on any music player. In Japanese/English.
@@ -87,7 +87,7 @@ _Description_: The second edition of the most highly regarded teaching textbook 
   - [Genki 1 & 2](https://ankiweb.net/shared/info/1132238466) - ALL the vocab from Genki 1 & 2 and more. :warning:Still updating.
 - [Unofficial](https://sethclydesdale.github.io/genki-study-resources/) - Study tool.
 
-### Tobira
+### Tobira :older_man:
 
 The "Tobira" textbook combines the practice of all four language skills (reading, listening, writing, speaking) and is designed for use by students who have **completed a beginner level Japanese textbook, or in terms of classroom time, have taken somewhere between 250 to 300 hours of Japanese study**.
 The primary goals of this textbook are to solidify the grammar, vocabulary and kanji foundation studied during the beginner level and to develop all 4 language skills. What makes this book unique is that you can learn Japanese using multimedia besides the textbook.
