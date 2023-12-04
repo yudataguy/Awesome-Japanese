@@ -71,12 +71,12 @@ For translation, try to avoid Google Translate. Instead pick another one from th
 
 ## Textbook
 
-_Textbooks provide you with structured learning material._
+*Textbooks provide you with structured learning material.*
 
 ### Genki :baby:
 
 Everyone's favorite Japanese textbook. Recommended for beginners.
-_Description_: The second edition of the most highly regarded teaching textbook on the Japanese language, covering speaking, listening, reading, and writing to cultivate overall language ability. Each lesson in the revised edition features a new section dubbed "Culture Notes", and now includes the audio CD companion which is in mp3 format ready to install on any music player. In Japanese/English.
+*Description*: The second edition of the most highly regarded teaching textbook on the Japanese language, covering speaking, listening, reading, and writing to cultivate overall language ability. Each lesson in the revised edition features a new section dubbed "Culture Notes", and now includes the audio CD companion which is in mp3 format ready to install on any music player. In Japanese/English.
 
 - [Official](http://genki.japantimes.co.jp/index_en)
 - Amazon:moneybag:
@@ -122,7 +122,7 @@ Similarly to Tobira, Minna no Nihongo is intended for intermediate-level student
 
 ## Hiragana and Katakana
 
-_Alphabet of Japanese language._
+*Alphabet of Japanese language.*
 
 - Hiragana
   - [Tofugu for Hiragana](https://www.tofugu.com/japanese/learn-hiragana/) - Hiragana lesson.
@@ -212,7 +212,7 @@ _Alphabet of Japanese language._
   - [JapanesePod101](https://www.japanesepod101.com/) - Japanese language learning podcast with multiple levels and web platform.
   - [News in Slow Japanese](http://newsinslowjapanese.com/) - Listen to Japanese News in slow speed. :moneybag:
   - [NHK News Podcast](http://www.nhk.or.jp/podcasts/) - Three podcasts available: Japanese news:older_man:, English news, and Easy Japanese.
-  - [Bilingual News](http://bilingualnews.libsyn.com/) - Bilingual English and Japanese news podcast. Casual and unedited colloquial language learning experience through a weekly review of relevant news topics.👴
+  - [Bilingual News](http://bilingualnews.libsyn.com/) - Bilingual English and Japanese news podcast. Casual and unedited colloquial language learning experience through a weekly review of relevant news topics. :older_man:
   - [Nihongo con Teppei](https://nihongoconteppei.com/) - Japanese podcast for beginners
 
 ## Speaking
@@ -304,7 +304,6 @@ _Alphabet of Japanese language._
     - [Safarikai](https://ashchan.github.io/safarikai/) - Rikaichan's Safari extension version.
 
     - [Toucan - Language Learning](https://jointoucan.com/) - When you visit a website, Toucan automatically translates certain words and phrases on the page into the language you're trying to learn. :iphone:
-
 
 ## Contribute
 
