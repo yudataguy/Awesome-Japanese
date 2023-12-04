@@ -6,20 +6,29 @@ Update: mobile alpha version is now available, [mobile.md](./mobile.md), I'd lik
 
 ## Contents
 
-- [Awesome Japanese](#awesome-japanese)
+- [Awesome Japanese ](#awesome-japanese-)
+  - [Contents](#contents)
+  - [How To Use These Resources](#how-to-use-these-resources)
   - [Beginner Guide](#beginner-guide)
   - [Textbook](#textbook)
+    - [Genki](#genki)
+    - [Tobira](#tobira)
+    - [Minna no Nihongo :man:](#minna-no-nihongo-man)
+    - [Other textbooks](#other-textbooks)
   - [Course](#course)
-  - [Hiragana & Katakana](#hiragana-and-katakana)
+  - [Hiragana and Katakana](#hiragana-and-katakana)
   - [Kanji](#kanji)
   - [Vocabulary](#vocabulary)
   - [Grammar](#grammar)
   - [Reading](#reading)
   - [Listening](#listening)
+  - [Speaking](#speaking)
   - [Community](#community)
   - [Video](#video)
   - [Dictionary](#dictionary)
   - [Software](#software)
+  - [Contribute](#contribute)
+  - [License](#license)
 
 ## How To Use These Resources
 
@@ -64,7 +73,7 @@ For translation, try to avoid Google Translate. Instead pick another one from th
 
 _Textbooks provide you with structured learning material._
 
-### Genki:baby:
+### Genki
 
 Everyone's favorite Japanese textbook. Recommended for beginners.
 _Description_: The second edition of the most highly regarded teaching textbook on the Japanese language, covering speaking, listening, reading, and writing to cultivate overall language ability. Each lesson in the revised edition features a new section dubbed "Culture Notes", and now includes the audio CD companion which is in mp3 format ready to install on any music player. In Japanese/English.
@@ -78,7 +87,7 @@ _Description_: The second edition of the most highly regarded teaching textbook 
   - [Genki 1 & 2](https://ankiweb.net/shared/info/1132238466) - ALL the vocab from Genki 1 & 2 and more. :warning:Still updating.
 - [Unofficial](https://sethclydesdale.github.io/genki-study-resources/) - Study tool.
 
-### Tobira:man:
+### Tobira
 
 The "Tobira" textbook combines the practice of all four language skills (reading, listening, writing, speaking) and is designed for use by students who have **completed a beginner level Japanese textbook, or in terms of classroom time, have taken somewhere between 250 to 300 hours of Japanese study**.
 The primary goals of this textbook are to solidify the grammar, vocabulary and kanji foundation studied during the beginner level and to develop all 4 language skills. What makes this book unique is that you can learn Japanese using multimedia besides the textbook.
@@ -89,7 +98,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
   - [Tobira: Power Up Your Kanji](http://amzn.to/2sX31nV) - With it, students can study a total of 800 kanji-the 297 kanji generally introduced in beginning-level textbooks and an additional 503 kanji introduced in Tobira.
   - [Tobira: Grammar Power](http://amzn.to/2ugA22i) - Japanese grammar skill build up book.
 
-### Minna no Nihongo:man:
+### Minna no Nihongo :man:
 
 Similarly to Tobira, Minna no Nihongo is intended for intermediate-level students.
 
@@ -103,12 +112,12 @@ Similarly to Tobira, Minna no Nihongo is intended for intermediate-level student
 
 ## Course
 
-- [Easy Japanese](https://www.nhk.or.jp/lesson/english/index.html) - Made by NHK in multiple languages:baby:
+- [Easy Japanese](https://www.nhk.or.jp/lesson/english/index.html) - Made by NHK in multiple languages :baby:
 
-- [Erin's Challenge](https://www.erin.ne.jp/en/) - Video based Japanese lessons:man:
-- [LingoDeer](https://www.lingodeer.com/) - Japanese course on a new learning app similar to Duolingo, but made with a focus on East Asian languages.:iphone:
-- [NativShark](https://nativshark.com/) - All in one Japanese learning platform, combining vocab, grammar, kanji and speaking practice.:moneybag:
-- [NHK 高校講座 / NHK High School Course](https://www.nhk.or.jp/kokokoza/) - Video or audio of high school course made by NHK.Easy to study the basic glossaries of different field.:man:
+- [Erin's Challenge](https://www.erin.ne.jp/en/) - Video based Japanese lessons :man:
+- [LingoDeer](https://www.lingodeer.com/) - Japanese course on a new learning app similar to Duolingo, but made with a focus on East Asian languages. :iphone:
+- [NativShark](https://nativshark.com/) - All in one Japanese learning platform, combining vocab, grammar, kanji and speaking practice. :moneybag:
+- [NHK 高校講座 / NHK High School Course](https://www.nhk.or.jp/kokokoza/) - Video or audio of high school course made by NHK.Easy to study the basic glossaries of different field. :man:
 - [Drops: Language learning app](https://languagedrops.com/) - Duolingo-like app which offers 5 minutes/day free flashcards-based app separated by categories. :iphone:
 
 ## Hiragana and Katakana
@@ -126,9 +135,9 @@ _Alphabet of Japanese language._
   - [Listening Game for Katakana](http://www.digitaldialects.com/Japanese/Katakana.htm) - Flash based Katakana game.
   - [Katakana Practice Sheet](http://japanese-lesson.com/resources/pdf/characters/katakana_writing_practice_sheets.pdf) - Print and practice.
 - App
-  - [Hiragana and Katakana](https://itunes.apple.com/us/app/hiragana-and-katakana-complete-basics-of-japanese/id385817288?mt=8) - iOS Hiragana and Katakana learning app:iphone:
-  - [Kakugo](https://play.google.com/store/apps/details?id=org.kaqui) - Android hiragana, katakana and kanji learning app:iphone:
-  - [Kanji Dojo](https://play.google.com/store/apps/details?id=ua.syt0r.kanji) - Android application for practicing writing Japanese characters:iphone:
+  - [Hiragana and Katakana](https://itunes.apple.com/us/app/hiragana-and-katakana-complete-basics-of-japanese/id385817288?mt=8) - iOS Hiragana and Katakana learning app :iphone:
+  - [Kakugo](https://play.google.com/store/apps/details?id=org.kaqui) - Android hiragana, katakana and kanji learning app :iphone:
+  - [Kanji Dojo](https://play.google.com/store/apps/details?id=ua.syt0r.kanji) - Android application for practicing writing Japanese characters :iphone:
 - Anki Deck
   - [Hiragana + Katakana w/ Audio & Stroke Order](https://ankiweb.net/shared/info/1632090287) - :card_index:
 
@@ -137,7 +146,7 @@ _Alphabet of Japanese language._
 - [Hacking Kanji](https://nihongoshark.com/learn-kanji/) - Guide: 2,200 Kanji in 97 Days.
 - [Kanji Koohii](https://kanji.koohii.com/) - Help you complete the kanji learning method called Remembering the Kanji.
 - [Kanji Damage](http://www.kanjidamage.com/introduction) - A Kanji learning method.
-- [Wanikani](https://www.wanikani.com/) - Kanji learning platform.:moneybag:
+- [Wanikani](https://www.wanikani.com/) - Kanji learning platform. :moneybag:
 - Anki Deck
   - [DJT Anki Guide](https://djtguide.neocities.org/anki.html) - A guide for downloading/customizing Anki with a link to the popular 6k/2k deck
   - [Kodansha kanji learner's course with vocabulary](https://ankiweb.net/shared/info/779483253) - :card_index:This deck is meant to be used together with the Kodansha Kanji Learner's Course book (KLC).
@@ -150,13 +159,13 @@ _Alphabet of Japanese language._
 
 ## Vocabulary
 
-- [Anki](https://apps.ankiweb.net/) - Popular flashcard based software.:iphone::computer:
+- [Anki](https://apps.ankiweb.net/) - Popular flashcard based software. :iphone: :computer:
   - [Anki User Manual](https://apps.ankiweb.net/docs/manual.html)
   - [How to use Anki to Learn Japanese](https://youtu.be/dPVpsX9ZPWE) - Anki video tutorial.
-  - [Nayr's Core 5000](https://www.reddit.com/r/LearnJapanese/comments/4itr0d/updated_nayrs_core_5k_anki_deck/) - :card_index:Designed around an i+1 approach where learners are exposed to more than they know.
-  - [Japanese Core 2000/6000 A](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit) | [B](https://djtguide.neocities.org/anki.html) - :card_index:Popular Anki Japanese Deck Core 2k/6k
+  - [Nayr's Core 5000](https://www.reddit.com/r/LearnJapanese/comments/4itr0d/updated_nayrs_core_5k_anki_deck/) - :card_index: Designed around an i+1 approach where learners are exposed to more than they know.
+  - [Japanese Core 2000/6000 A](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit) | [B](https://djtguide.neocities.org/anki.html) - :card_index: Popular Anki Japanese Deck Core 2k/6k
   - [Japanese 10K WK Breakdown](https://mega.nz/#!AdRjlZoL!FZoz3f3jq4oFUvwa59-AN3yKuQn-mFuIgNDftHtJ8n0) - :card_index:Core 10K vocabularies, broken down by WaniKani kanji.
-- [Memrise](https://www.memrise.com/) - Popular online/app flashcard platform.:iphone:
+- [Memrise](https://www.memrise.com/) - Popular online/app flashcard platform. :iphone:
 - [jpdb](https://jpdb.io/)) - jpdb is a powerful Japanese dictionary and all-in-one learning system for kanji and vocabulary.
 
 ## Grammar
@@ -168,7 +177,7 @@ _Alphabet of Japanese language._
 - [JGram](http://www.jgram.org/) - The Japanese Grammar Database.
 - [Maggie Sensei](http://maggiesensei.com/) - Conversational Grammar.
 - :book:Amazon:moneybag:
-  - [A Dictionary of Basic Japanese Grammar](http://a.co/fMGHlG2) - Popular Japanese grammar dictionary series.:baby:
+  - [A Dictionary of Basic Japanese Grammar](http://a.co/fMGHlG2) - Popular Japanese grammar dictionary series. :baby:
   - [A Dictionary of Intermediate Japanese Grammar](http://amzn.to/2txGg9H) - :man:
   - [A Dictionary of Advanced Japanese Grammar](http://amzn.to/2u1pLVg) - :older_man:
 - [Dictionary of Japanese Grammar](https://dojgdeck.neocities.org/) - :card_index:The DoJG deck allows you to review the contents of the Dictionary of Japanese Grammar through Anki.
@@ -178,19 +187,19 @@ _Alphabet of Japanese language._
 ## Reading
 
 - [NHK Easy News](http://www3.nhk.or.jp/news/easy/) - News for elementary, middle school, and foreigners with audio and video.:baby:
-- [読み物いっぱい](http://www17408ui.sakura.ne.jp/tatsum/project/Yomimono/Yomimono-ippai/index.html) - Reading materials for elementary learners.👶
-- [Tadoku](https://tadoku.org/japanese/en/free-books-en/) - Illustrated books for elementary learners. Some books require purchase. 👶 :moneybag:
-- [青空文庫](https://www.aozora.gr.jp) - A Japanese digital library encompasses several thousands of works of Japanese-language fiction and non-fiction.👴
-- [Japanese Folktales](http://www.e-hon.jp/ehon_jp/index1.htm) - Japanese folktales with drawings and audio.:jp:
+- [読み物いっぱい](http://www17408ui.sakura.ne.jp/tatsum/project/Yomimono/Yomimono-ippai/index.html) - Reading materials for elementary learners. :baby:
+- [Tadoku](https://tadoku.org/japanese/en/free-books-en/) - Illustrated books for elementary learners. Some books require purchase. :baby: :moneybag:
+- [青空文庫](https://www.aozora.gr.jp) - A Japanese digital library encompasses several thousands of works of Japanese-language fiction and non-fiction. :older_man:
+- [Japanese Folktales](http://www.e-hon.jp/ehon_jp/index1.htm) - Japanese folktales with drawings and audio. :jp:
 - [Hukumusume Fairy Tale Collection](http://hukumusume.com/douwa/) - A website where you can read and hear traditional folk tales, legends and fairy tales - from Japan and all around the world - read aloud for you in Japanese.:jp:
-- [Kyoko Shinbun](http://kyoko-np.net/index.html) - Fake Japanese News(similar to The Onion), podcast available.:iphone::jp::older_man:
-- [用例.jp](http://yourei.jp/) - Search engine for Japanese sample sentences.:jp:
+- [Kyoko Shinbun](http://kyoko-np.net/index.html) - Fake Japanese News(similar to The Onion), podcast available. :iphone: :jp: :older_man:
+- [用例.jp](http://yourei.jp/) - Search engine for Japanese sample sentences. :jp:
 - [Japanese in Anime & Manga](http://anime-manga.jp/) - Learn Japanese from anime and manga.
-- [Satori Reader](https://www.satorireader.com/) - Japanese reading and listening practice, first two chapters of each article is free.:moneybag:
+- [Satori Reader](https://www.satorireader.com/) - Japanese reading and listening practice, first two chapters of each article is free. :moneybag:
 - [Keio University Reading Materials Bank](http://language.tiu.ac.jp/materials/jpn/index.html) - The site is mostly in Japanese, but follow the 1-stars for the easiest reading materials. It's great because there is an English glossary integrated into the articles.
-- [Japanese IO](https://www.japanese.io) - Learn Japanese through fun and easy reading practice. 👴
-- [PressReader](https://www.pressreader.com/) - This website/app offers [毎日新聞　 Mainichi Shinbun](https://mainichi.jp/) digital daily newspaper and other Japanese language publications for free with many American libraries, please check local library to see whether it is available. See [detail](https://care.pressreader.com/hc/en-us/articles/211272703-Library-Card-Sign-In). Otherwise paid plan available. 👴 :moneybag:
-- [ImaWakatta](https://imawakatta.com/) - You can start reading real Japanese today, regardless of your level. ImaWakatta has stories with audio that include native speakers and professional voice overs. Every story has dynamic highlighting so you can follow the audio line by line. Includes 4 free stories. 👶💰
+- [Japanese IO](https://www.japanese.io) - Learn Japanese through fun and easy reading practice. :older_man:
+- [PressReader](https://www.pressreader.com/) - This website/app offers [毎日新聞　 Mainichi Shinbun](https://mainichi.jp/) digital daily newspaper and other Japanese language publications for free with many American libraries, please check local library to see whether it is available. See [detail](https://care.pressreader.com/hc/en-us/articles/211272703-Library-Card-Sign-In). Otherwise paid plan available. :older_man: :moneybag:
+- [ImaWakatta](https://imawakatta.com/) - You can start reading real Japanese today, regardless of your level. ImaWakatta has stories with audio that include native speakers and professional voice overs. Every story has dynamic highlighting so you can follow the audio line by line. Includes 4 free stories. :baby: :moneybag:
 
 ## Listening
 
@@ -201,9 +210,9 @@ _Alphabet of Japanese language._
   - [Podcast Ranking](https://podcastranking.jp/) - Japanese Podcast ranking website, discover Japanese language podcasts.
   - [Learn Japanese Pod](https://learnjapanesepod.com/) - Japanese language learning podcast.
   - [JapanesePod101](https://www.japanesepod101.com/) - Japanese language learning podcast with multiple levels and web platform.
-  - [News in Slow Japanese](http://newsinslowjapanese.com/) - Listen to Japanese News in slow speed.:moneybag:
+  - [News in Slow Japanese](http://newsinslowjapanese.com/) - Listen to Japanese News in slow speed. :moneybag:
   - [NHK News Podcast](http://www.nhk.or.jp/podcasts/) - Three podcasts available: Japanese news:older_man:, English news, and Easy Japanese.
-  - [Bilingual News](http://bilingualnews.libsyn.com/) - Bilingual English and Japanese news podcast. Casual and unedited colloquial language learning experience through a weekly review of relevant news topics.:older_man:
+  - [Bilingual News](http://bilingualnews.libsyn.com/) - Bilingual English and Japanese news podcast. Casual and unedited colloquial language learning experience through a weekly review of relevant news topics.👴
   - [Nihongo con Teppei](https://nihongoconteppei.com/) - Japanese podcast for beginners
 
 ## Speaking
@@ -214,20 +223,20 @@ _Alphabet of Japanese language._
 
 - [/r/learnjapanese](https://www.reddit.com/r/LearnJapanese/) - Learn Japanese subreddit.:iphone:
 - [Kanji Koohii Forum](https://forum.koohii.com/) - Forum which covers all aspects of Japanese learning.
-- [Lang-8](http://lang-8.com/) - A language learning platform where native speakers correct what you write.:iphone:
-- [Discord](https://discordapp.com/) - Popular chatroom platform.:iphone::computer:
+- [Lang-8](http://lang-8.com/) - A language learning platform where native speakers correct what you write. :iphone:
+- [Discord](https://discordapp.com/) - Popular chatroom platform. :iphone: :computer:
   - [English-Japanese Language Exchange](https://discord.gg/NJJCYVD) - Highly active English/Japanese discord chat server.
   - [日本語と英語](https://discord.gg/0eIsYvFQul270V1L) - Another popular English/Japanese discord chat server.
   - [Reddit Masterlist](https://www.reddit.com/r/languagelearning/comments/5m5426/discord_language_learning_servers_masterlist/) A list on Reddit of all the language Discord servers. Scroll down to the East Asian Languages section for Japanese servers.
   - [TheMoeWay](https://discord.gg/nhqjydaR8j) - Highly active discord chat server for an immersion Japanese learner with immersion logs
-- [HelloTalk](https://www.hellotalk.com/) - Popular language exchange app.:iphone:
+- [HelloTalk](https://www.hellotalk.com/) - Popular language exchange app. :iphone:
 
 ## Video
 
 - YouTube
   - [Nihongo no Mori](https://www.youtube.com/channel/UCVx6RFaEAg46xfAsD2zz16w) - JLPT test-oriented YouTube channel.
   - [Dogen](https://www.youtube.com/channel/UCSX0NhNdBA-ZnEFkYFzdw4A) - Japanese phonetic lessons YouTube channel.
-    - [Dogen's Patreon Lessons](https://www.patreon.com/dogen/overview) - A course that covers many different aspects of Japanese phonetics, like pitch accent and vowel placement.:moneybag:
+    - [Dogen's Patreon Lessons](https://www.patreon.com/dogen/overview) - A course that covers many different aspects of Japanese phonetics, like pitch accent and vowel placement. :moneybag:
   - [Game Grammar](https://www.youtube.com/channel/UC8UqIZlupjIQ3vxcAOEoNug) - Teach you Japanese by playing video games YouTube channel.
   - [JapanesePod101](https://www.youtube.com/channel/UC0ox9NuTHYeRys63yZpBFuA) - Popular Japanese podcast's YouTube channel.
   - [Japanese Ammo with Misa](https://www.youtube.com/c/JapaneseAmmowithMisa) - Grammar & vocabulary lessons YouTube channel.
@@ -243,11 +252,11 @@ _Alphabet of Japanese language._
   - [Yomiuri News](https://www.youtube.com/user/YomiuriShimbun) - Yomiuri News Youtube channel.
 - Stream
   - [QVC Japan](http://qvc.jp/cont/live/Main?sc_initcmp=icpc_TOP_Left-Menu_005) - QVC Japan Shopping Channel Live stream.
-  - [Keylabo](http://www.keylabo.com/watch-tv-online-for-free/) - Free Japanese TV Live stream listing.:warning:Some channels may not work, and 3rd party streaming service.
-  - [Abema TV](https://abema.tv/) - Live Japanese TV stream.:iphone::japan:
-  - [GYAO!](https://gyao.yahoo.co.jp/) - Japanese TV programs on demand.:iphone::japan:
-  - [FRESH!](https://freshlive.tv/) - Japanese streamer platform.:iphone:
-  - [NicoNico](http://www.nicovideo.jp/) - Japanese streamer platform.:iphone:
+  - [Keylabo](http://www.keylabo.com/watch-tv-online-for-free/) - Free Japanese TV Live stream listing. :warning: Some channels may not work, and 3rd party streaming service.
+  - [Abema TV](https://abema.tv/) - Live Japanese TV stream. :iphone: :japan:
+  - [GYAO!](https://gyao.yahoo.co.jp/) - Japanese TV programs on demand. :iphone: :japan:
+  - [FRESH!](https://freshlive.tv/) - Japanese streamer platform. :iphone:
+  - [NicoNico](http://www.nicovideo.jp/) - Japanese streamer platform. :iphone:
   - [DaiWEEB](https://www.daiweeb.org/) - Japanese anime with both Japanese and English subtitles.
 - Players
   - [Memento](https://github.com/ripose-jp/Memento) - An mpv-based video player for studying Japanese
@@ -263,25 +272,25 @@ _Alphabet of Japanese language._
   - [Jisho](http://jisho.org/) - Gold standard online Japanese dictionary platform.
   - [Jotoba](https://jotoba.de/) - Great alternative to jisho.org with improved radical search and more.
   - [Tangorin Japanese Dictionary](http://tangorin.com/) - Tangorin is an online Japanese-English dictionary with example sentences and many features to help you learn the Japanese language.
-  - [Weblio](http://www.weblio.jp/) - Japan popular dictionary website without en<->jp, jp<->jp, and more.:jp:
-  - [Google Translate](https://translate.google.com/) - Supports voice and image translation, mobile app supports offline translation.:iphone:
-  - [語源由来辞典 / Gogen Yurai jiten](http://gogen-allguide.com/) - Etymology of Japanese.:man:
-  - [Goo 辞書 / Goo Dictionary](https://dictionary.goo.ne.jp/) - Online Japanese dictionry.:jp:
+  - [Weblio](http://www.weblio.jp/) - Japan popular dictionary website without en<->jp, jp<->jp, and more. :jp:
+  - [Google Translate](https://translate.google.com/) - Supports voice and image translation, mobile app supports offline translation. :iphone:
+  - [語源由来辞典 / Gogen Yurai jiten](http://gogen-allguide.com/) - Etymology of Japanese. :man:
+  - [Goo 辞書 / Goo Dictionary](https://dictionary.goo.ne.jp/) - Online Japanese dictionry. :jp:
 
 - Software
   - [Houhou](http://houhou-srs.com/) - The dictionary doubles as a learning tool.:computer:
-  - [Takoboto](https://play.google.com/store/apps/details?id=jp.takoboto) - Android Japanese dictionary app, also has web and computer based version.:iphone::computer:
-  - [imiwa?](http://www.imiwaapp.com/) - iOS Japanese dictionary app.:iphone:
+  - [Takoboto](https://play.google.com/store/apps/details?id=jp.takoboto) - Android Japanese dictionary app, also has web and computer based version. :iphone: :computer:
+  - [imiwa?](http://www.imiwaapp.com/) - iOS Japanese dictionary app. :iphone:
   - [Tagaini Jisho](https://www.tagaini.net/) - Open-source Japanese dictionary and kanji lookup tool for Windows, MacOS X and Linux.
-  - [Jiten](https://play.google.com/store/apps/details?id=dev.obfusk.jiten) - Android Japanese dictionary and kanji lookup app, also has web version.:iphone:
+  - [Jiten](https://play.google.com/store/apps/details?id=dev.obfusk.jiten) - Android Japanese dictionary and kanji lookup app, also has web version. :iphone:
   - [Japanese](https://www.japaneseapp.com/) - Dictionary, stroke order and flashcards for iOS :iphone:
-  - [Midori (Japanese Dictionary)](https://apps.apple.com/it/app/midori-japanese-dictionary/id385231773) - Dictionary, stroke order and flashcards for iOS :iphone::computer:
+  - [Midori (Japanese Dictionary)](https://apps.apple.com/it/app/midori-japanese-dictionary/id385231773) - Dictionary, stroke order and flashcards for iOS :iphone: :computer:
 
 ## Software
 
 - Computer
-  - [Human Japanese](http://www.humanjapanese.com) - Popular Japanese learning program.:iphone::computer::moneybag:
-  - [Google Japanese Input](https://www.google.co.jp/ime/) - Google Japanese Input, available on Windows, Mac, and Android.:computer::iphone:
+  - [Human Japanese](http://www.humanjapanese.com) - Popular Japanese learning program. :iphone: :computer: :moneybag:
+  - [Google Japanese Input](https://www.google.co.jp/ime/) - Google Japanese Input, available on Windows, Mac, and Android. :computer: :iphone:
   - [How to Install Japanese Keyboard on Everything](https://www.tofugu.com/japanese/how-to-install-japanese-keyboard/) - Guide by Tofugu.
 - Browser Extension:satellite:
   - Firefox
