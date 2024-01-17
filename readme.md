@@ -299,7 +299,7 @@ Similarly to Tobira, Minna no Nihongo is intended for intermediate-level student
   - Firefox
     - [Rikaichamp](https://addons.mozilla.org/en-US/firefox/addon/rikaichamp/) - Japanese to English/German/French/Russian dictionary. Just hover the mouse on top of a word, and a popup appears. This add-on is more compatible with latest Firefox version and comes with dictionaries files.
   - Chrome
-    - [Yomichan](https://chrome.google.com/webstore/detail/yomichan/ogmnaimimemjmbakcfefmnahgdfhfami) - Yomichan turns your browser into a tool for building Japanese language literacy by helping you to decipher texts which would be otherwise too difficult to tackle.
+    - [Yomitan](https://chromewebstore.google.com/detail/yomitan/likgccmbimhjbgkjambclfkhldnlhbnn) - Yomitan turns your browser into a tool for building Japanese language literacy by helping you to decipher texts which would be otherwise too difficult to tackle.
     - [rikaigu](https://chrome.google.com/webstore/detail/rikaigu/gmgccdlimakdipjjogccblkaoipdklcb) - Rikaikun enhanced. Translate Japanese by hovering over words.
     - [IPA furigana](https://chrome.google.com/webstore/detail/ipa-furigana/jnnbgnfnncobhklficfkdnclohaklifi) - Looks up the readings for kanji words and inserts them as Furigana.
     - [ReadNihon](https://chrome.google.com/webstore/detail/readnihon/gpbdeemekjaigcjldahhmckkfbkmebfd) - ReadNihon generates website Furigana by JLPT level. It also allows you to save known words that are ignored from Furigana conversion.
