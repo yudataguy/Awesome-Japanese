@@ -168,6 +168,7 @@ Similarly to Tobira, Minna no Nihongo is intended for intermediate-level student
 - [Memrise](https://www.memrise.com/) - Popular online/app flashcard platform. :iphone:
 - [jpdb](https://jpdb.io/)) - jpdb is a powerful Japanese dictionary and all-in-one learning system for kanji and vocabulary.
 - [japanese number converter](https://japanesenumberconverter.com) - japanese number converter (Kanji - Hiragana - Romanji)
+- [SakeSaySo](https://sakesayso.com/) - Japanese-English dictionary and SRS flashcards with example sentences, daily translated news, for sentence-based learning with vocabulary inspector. Supports offline use, free and without ads and trackers. :iphone: 
 
 ## Grammar
 
@@ -202,6 +203,7 @@ Similarly to Tobira, Minna no Nihongo is intended for intermediate-level student
 - [PressReader](https://www.pressreader.com/) - This website/app offers [毎日新聞　 Mainichi Shinbun](https://mainichi.jp/) digital daily newspaper and other Japanese language publications for free with many American libraries, please check local library to see whether it is available. See [detail](https://care.pressreader.com/hc/en-us/articles/211272703-Library-Card-Sign-In). Otherwise paid plan available. :older_man: :moneybag:
 - [ImaWakatta](https://imawakatta.com/) - You can start reading real Japanese today, regardless of your level. ImaWakatta has stories with audio that include native speakers and professional voice overs. Every story has dynamic highlighting so you can follow the audio line by line. Includes 4 free stories. :baby: :moneybag:
 - [LearnNatively](https://learnnatively.com) - The Natively community grades each book, movie or TV show to an approximate language proficiency level. This helps you find content that's appropriate for you.
+- [SakeSaySo](https://sakesayso.com/) - Practice reading through daily news JA->EN and EN->JA alongside user-contributed stories. Enables sentence-based learning with dictionary for word lookup and flashcard creation, including for sentences and phrases. Content can be saved for offline access, ad-free. :iphone:
 
 ## Listening
 
