@@ -265,7 +265,7 @@ Similarly to Tobira, Minna no Nihongo is intended for intermediate-level student
   - [Memento](https://github.com/ripose-jp/Memento) - An mpv-based video player for studying Japanese
   - [animebook](https://github.com/animebook/animebook.github.io) - In-browser video player for learning Japanese with subtitles
   - [asbplayer](https://killergerbah.github.io/asbplayer/) - Browser-based media player and Chrome extension for subtitle sentence mining
-  - [miteiru](https://github.com/hockyy/miteiru) - Miteiru is an open source Electron video player to learn Chinese, Cantonese, and Japanese
+  - [miteiru](https://github.com/hockyy/miteiru) - Miteiru is an open source Electron video player to learn Japanese and other languages 👴
 - Subtitles
   - [kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) - Repository of Japanese subtitles for many series
 
