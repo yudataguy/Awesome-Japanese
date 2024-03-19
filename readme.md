@@ -224,7 +224,7 @@ Similarly to Tobira, Minna no Nihongo is intended for intermediate-level student
 
 ## Community
 
-- [/r/learnjapanese](https://www.reddit.com/r/LearnJapanese/) - Learn Japanese subreddit.:iphone:
+- [/r/learnjapanese](https://www.reddit.com/r/LearnJapanese/) - Learn Japanese subreddit. :iphone:
 - [Kanji Koohii Forum](https://forum.koohii.com/) - Forum which covers all aspects of Japanese learning.
 - [Lang-8](http://lang-8.com/) - A language learning platform where native speakers correct what you write. :iphone:
 - [Discord](https://discordapp.com/) - Popular chatroom platform. :iphone: :computer:
