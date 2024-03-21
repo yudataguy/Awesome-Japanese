@@ -1,25 +1,43 @@
 # Contribution Guidelines
 
-Please note that this project is released with a
-[Contributor Code of Conduct](code-of-conduct.md). By participating in this
-project you agree to abide by its terms.
+Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
 
----
+Thank you for your interest in contributing to the Awesome Japanese List! We're excited to collaborate with you. This list thrives on the valuable contributions from the community like yours. Here’s how you can help make the Awesome List even more awesome.
 
-Ensure your pull request adheres to the following guidelines:
+## How to Contribute
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+### Suggesting New Resources
 
-Thank you for your suggestions!
+1. **Check for duplicates**: Before adding a new resource, please ensure it hasn't already been suggested or added.
+2. **Create a new issue**: Use the issue template to suggest your resource. Please include the name, link, and a brief description of why it's a valuable addition.
+3. **Pull request**: Once your suggestion has been acknowledged, you can submit a pull request. Please see the section below on how to do this properly.
 
+### Improving Existing Resources
 
-## Updating your PR
+- If you notice a resource that could be improved or updated, please open an issue detailing your proposed changes.
 
-A lot of times, making a PR adhere to the standards above can be difficult.
-If the maintainers notice anything that we'd like changed, we'll ask you to
-edit your PR before we merge it. There's no need to open a new PR, just edit
-the existing one. If you're not sure how to do that,
-[here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md)
-on the different ways you can update your PR so that we can merge it.
+### Documentation and Miscellaneous
+
+- Suggestions for improving the documentation or any other non-code aspects of the project are welcome. Please open an issue to discuss your ideas.
+
+## Submitting a Pull Request
+
+1. Fork the repository.
+2. Create a new branch for your contribution (`git checkout -b new-resource`).
+3. Add your resource or make your changes in the relevant section.
+4. Commit your changes with a clear and descriptive message (`git commit -m "Added [Resource Name]"`).
+5. Push the branch to your fork (`git push origin new-resource`).
+6. Open a pull request from your fork to the original repository.
+
+## Guidelines
+
+- Ensure your contribution is in line with the project's theme and quality standards.
+- Provide a clear and concise description for each contribution.
+- Check your spelling and grammar.
+- Please add disclaimer if you are the resource owner for transparency.
+
+## Questions?
+
+If you have any questions or need further clarification on how to contribute, please don't hesitate to open an issue or contact the maintainers directly.
+
+Thank you for your contributions, and let's make this Awesome List even better together!
