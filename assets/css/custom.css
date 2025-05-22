@@ -1,0 +1,22 @@
+/* Custom styles for navigation */
+header nav ul {
+  list-style-type: none; /* Remove bullet points */
+  padding-left: 0; /* Remove default padding */
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+header nav ul li {
+  display: inline-block; /* Arrange links horizontally */
+  margin-right: 15px; /* Add some space between links */
+}
+
+header nav ul li a {
+  text-decoration: none; /* Remove underline from links */
+  font-weight: bold;
+}
+
+/* Add a bit of spacing below the header */
+header {
+  margin-bottom: 20px;
+}

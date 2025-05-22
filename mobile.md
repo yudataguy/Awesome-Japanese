@@ -1,3 +1,7 @@
+---
+layout: default
+title: Mobile Resources
+---
 # Awesome Japanese - Mobile [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Alpha version. A curated list of Japanese language learning resources for smartphones. Each category is limited to 5 websites/apps.
