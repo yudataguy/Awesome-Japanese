@@ -157,6 +157,7 @@ Similarly to Tobira, Minna no Nihongo is intended for intermediate-level student
 - [Kanjipedia](https://www.kanjipedia.jp/) - Kanji search site operated by the Japan Kanji Aptitude Testing Foundation. :jp:
 - [Kakijun](https://kakijun.jp/) - Help you find the stroke order of a kanji. :jp:
 - [Kanji Explorer](https://kanjiexplorer.com) - Navigate kanji using radicals
+- [The Kanji Map](https://thekanjimap.com) - Explore kanji decomposition as an interactive graph
 
 ## Vocabulary
 
