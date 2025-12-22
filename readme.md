@@ -223,6 +223,7 @@ Similarly to Tobira, Minna no Nihongo is intended for intermediate-level student
 ## Speaking
 
 - [Online Japanese Accent Dictionary](http://www.gavo.t.u-tokyo.ac.jp/ojad/) - Learn the correct accent to properly pronounce Japanese words. Lists of words are categorized by textbook.
+- [TabiTalk](https://tabitalk.com) - Mobile app that turns the phrases you translate / ask about into short real-life conversation drills.
 
 ## Community
 
@@ -293,6 +294,7 @@ Similarly to Tobira, Minna no Nihongo is intended for intermediate-level student
   - [Jiten](https://play.google.com/store/apps/details?id=dev.obfusk.jiten) - Android Japanese dictionary and kanji lookup app, also has web version. :robot:
   - [Japanese](https://www.japaneseapp.com/) - Dictionary, stroke order and flashcards for iOS :iphone:
   - [Midori (Japanese Dictionary)](https://apps.apple.com/it/app/midori-japanese-dictionary/id385231773) - Dictionary, stroke order and flashcards for iOS :iphone: :computer:
+  - [TabiTalk](https://tabitalk.com) - Insert a sentence, and get token by token lookup. Includes translations and practice.
 
 ## Software
 
