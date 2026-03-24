@@ -219,6 +219,7 @@ Similarly to Tobira, Minna no Nihongo is intended for intermediate-level student
   - [NHK News Podcast](https://www.nhk.or.jp/podcasts/) - Three podcasts available: Japanese news :older_man:, English news, and Easy Japanese.
   - [Bilingual News](http://bilingualnews.libsyn.com/) - Bilingual English and Japanese news podcast. Casual and unedited colloquial language learning experience through a weekly review of relevant news topics. :older_man:
   - [Nihongo con Teppei](https://nihongoconteppei.com/) - Japanese podcast for beginners
+  - [After Hours｜アフターアワーズ](https://open.spotify.com/show/796e85RinDEQPfm0YAwbfQ) - Two Japanese friends discuss real life topics in natural, unscripted Japanese. Great for immersion practice. :man:
 
 ## Speaking
 
