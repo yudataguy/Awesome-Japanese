@@ -170,7 +170,8 @@ Similarly to Tobira, Minna no Nihongo is intended for intermediate-level student
 - [Memrise](https://www.memrise.com/) - Popular online/app flashcard platform. :iphone:
 - [jpdb](https://jpdb.io/) - jpdb is a powerful Japanese dictionary and all-in-one learning system for kanji and vocabulary.
 - [Japanese Number Converter](https://japanesenumberconverter.com) - Japanese number converter (Kanji - Hiragana - Romaji)
-- [SakeSaySo](https://sakesayso.com/) - A Japanese-English dictionary app featuring SRS flashcards, daily news translations for sentence-based learning, vocabulary inspection, and example sentences. Supports offline use. :iphone: 
+- [SakeSaySo](https://sakesayso.com/) - A Japanese-English dictionary app featuring SRS flashcards, daily news translations for sentence-based learning, vocabulary inspection, and example sentences. Supports offline use. :iphone:
+- [Japanese Drop](https://japanesedrop.com/learn) - Free reference guides covering greetings, phrases, numbers, honorifics, particles, and more, with word breakdowns, cultural context, and audio. Also offers a free daily Japanese lesson newsletter. :baby: 
 
 ## Grammar
 
