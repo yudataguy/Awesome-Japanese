@@ -213,6 +213,7 @@ Similarly to Tobira, Minna no Nihongo is intended for intermediate-level student
 - [SuperNative](https://supernative.tv/) - Trains you to hear, read, and speak Japanese using over 10,000 bite-sized clips from TV and movies. :warning: Only Chrome browser supports voice recognition practice.
 - [Delvin](https://delvinlanguage.com) - Practice Japanese listening and reading with authentic Japanese video.
 - [mykikitori](https://www.mykikitori.com/) - Practice your Japanese listening skills.
+- [Mimikaki](https://mimikaki.online) - Web-based Japanese audio/video transcription tool with clickable timestamps, dictionary lookups, and Anki export.
 - [Tsunahiro](https://tsunagarujp.bunka.go.jp) - Website for Foreign Nationals as Residents to Learn Japanese Language
 - Podcast
   - [Podcast Ranking](https://podcastranking.jp/) - Japanese Podcast ranking website, discover Japanese language podcasts.
