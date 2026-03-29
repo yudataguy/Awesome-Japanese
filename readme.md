@@ -307,11 +307,13 @@ Similarly to Tobira, Minna no Nihongo is intended for intermediate-level student
 - Browser Extension:satellite:
   - Firefox
     - [Rikaichamp](https://addons.mozilla.org/en-US/firefox/addon/rikaichamp/) - Japanese to English/German/French/Russian dictionary. Just hover the mouse on top of a word, and a popup appears. This add-on is more compatible with the latest Firefox version and comes with dictionary files.
+    - [jp343](https://addons.mozilla.org/en-US/firefox/addon/jp343/) - Tracks Japanese immersion time on YouTube, Netflix, Crunchyroll, Prime Video, and Disney+. Auto-detects Japanese audio and subtitles.
   - Chrome
     - [Yomitan](https://chromewebstore.google.com/detail/yomitan/likgccmbimhjbgkjambclfkhldnlhbnn) - Yomitan turns your browser into a tool for building Japanese language literacy by helping you to decipher texts which would be otherwise too difficult to tackle.
     - [rikaigu](https://chrome.google.com/webstore/detail/rikaigu/gmgccdlimakdipjjogccblkaoipdklcb) - Rikaikun enhanced. Translate Japanese by hovering over words.
     - [IPA furigana](https://chrome.google.com/webstore/detail/ipa-furigana/jnnbgnfnncobhklficfkdnclohaklifi) - Looks up the readings for kanji words and inserts them as Furigana.
     - [ReadNihon](https://chrome.google.com/webstore/detail/readnihon/gpbdeemekjaigcjldahhmckkfbkmebfd) - ReadNihon generates website Furigana by JLPT level. It also allows you to save known words that are ignored from Furigana conversion.
+    - [jp343](https://chromewebstore.google.com/detail/jp343/ogjnhhmcfdkpmllikfmjdlhjepadeigl) - Tracks Japanese immersion time on YouTube, Netflix, Crunchyroll, Prime Video, and Disney+. Auto-detects Japanese audio and subtitles.
   - Safari
     - [Safarikai](https://ashchan.github.io/safarikai/) - Rikaichan's Safari extension version.
     - [Toucan - Language Learning](https://jointoucan.com/) - When you visit a website, Toucan automatically translates certain words and phrases on the page into the language you're trying to learn. :iphone:
