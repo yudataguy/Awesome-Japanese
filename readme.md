@@ -312,6 +312,7 @@ Similarly to Tobira, Minna no Nihongo is intended for intermediate-level student
     - [rikaigu](https://chrome.google.com/webstore/detail/rikaigu/gmgccdlimakdipjjogccblkaoipdklcb) - Rikaikun enhanced. Translate Japanese by hovering over words.
     - [IPA furigana](https://chrome.google.com/webstore/detail/ipa-furigana/jnnbgnfnncobhklficfkdnclohaklifi) - Looks up the readings for kanji words and inserts them as Furigana.
     - [ReadNihon](https://chrome.google.com/webstore/detail/readnihon/gpbdeemekjaigcjldahhmckkfbkmebfd) - ReadNihon generates website Furigana by JLPT level. It also allows you to save known words that are ignored from Furigana conversion.
+    - [jp343 Tracker](https://github.com/mh-343/jp343-tracker) - Tracks Japanese immersion time on YouTube, Netflix, Crunchyroll, Spotify and more.
   - Safari
     - [Safarikai](https://ashchan.github.io/safarikai/) - Rikaichan's Safari extension version.
     - [Toucan - Language Learning](https://jointoucan.com/) - When you visit a website, Toucan automatically translates certain words and phrases on the page into the language you're trying to learn. :iphone:
