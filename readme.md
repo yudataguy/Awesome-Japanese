@@ -197,6 +197,7 @@ The natural successor to beginner textbooks like Genki, Quartet develops all fou
 - [Sakubi](https://sakubi.neocities.org/) - Basic grammar primer that doesn't try to drill you :baby:.
 - [Japanese Grammar Notes](https://jpnotes.dev/) - Bilingual JLPT N5–N2 grammar notes with furigana, TTS audio, and Anki decks.
 - [Nihongo to Japan](https://www.nihongotojapan.com/en) - JLPT N5–N1 grammar guides, 10,000+ practice questions, level-check test and conjugation trainer.
+- [Constructing Language Japanese Grammar Guides](https://constructinglanguage.com/guides) - Free beginner guides for Japanese sentence structure, particles, verb conjugation, te-form, and JLPT N5 grammar, with linked exercises and browser games :baby: :computer:.
 
 ## Reading
 
