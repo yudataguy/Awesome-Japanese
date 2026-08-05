@@ -320,6 +320,7 @@ The natural successor to beginner textbooks like Genki, Quartet develops all fou
   - [Google Japanese Input](https://www.google.co.jp/ime/) - Japanese IME available on Windows, Mac, and Android :computer: :iphone:.
   - [How to Install Japanese Keyboard on Everything](https://www.tofugu.com/japanese/how-to-install-japanese-keyboard/) - Guide by Tofugu.
   - [meikipop](https://github.com/rtr46/meikipop) - OCR based popup dictionary. Can be used to perform lookups with games, manga and hardsubs :computer:.
+  - [Origa](https://github.com/yurvon-screamo/origa) - Open source Japanese learning app — dictionaries, kanji, grammar, phrases. FSRS. RU+EN. Offline. :computer: :iphone:.
 - Browser Extension :satellite:
   - Firefox
     - [10ten Reader (formerly Rikaichamp)](https://10ten.life/en/) - Japanese to English/German/French/Russian popup dictionary; hover a word for a definition.
