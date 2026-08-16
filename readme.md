@@ -331,6 +331,7 @@ The natural successor to beginner textbooks like Genki, Quartet develops all fou
     - [IPA furigana](https://chrome.google.com/webstore/detail/ipa-furigana/jnnbgnfnncobhklficfkdnclohaklifi) - Looks up the readings for kanji words and inserts them as Furigana.
     - [ReadNihon](https://chrome.google.com/webstore/detail/readnihon/gpbdeemekjaigcjldahhmckkfbkmebfd) - Adds furigana to web pages by JLPT level; save known words to skip them.
     - [jp343 Tracker](https://github.com/mh-343/jp343-tracker) - Tracks Japanese immersion time on YouTube, Netflix, Crunchyroll, Spotify and more.
+    - [Linglass](https://chromewebstore.google.com/detail/nhncklckpmkkhjcijjgfcgclfpbbkcba) - Dual subtitles on YouTube and Netflix with click-to-lookup and a JLPT-graded video catalog :moneybag: :robot:.
   - Safari
     - [Safarikai](https://ashchan.github.io/safarikai/) - Rikaichan's Safari extension version.
     - [Toucan - Language Learning](https://jointoucan.com/) - Auto-translates select words and phrases on web pages into your target language :iphone:.
