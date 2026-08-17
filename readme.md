@@ -290,6 +290,7 @@ The natural successor to beginner textbooks like Genki, Quartet develops all fou
   - [mLearn](https://mlearn.kikan.net) - Language immersion app with interactive subtitles, OCR, sentence mining, and SRS :computer: :robot:.
   - [miteiru](https://github.com/hockyy/miteiru) - Open-source Electron video player to learn Japanese and other languages :older_man:.
   - [mirumoji](https://github.com/svdC1/mirumoji) - Self-hosted, open-source video player with Japanese subtitle tokenization, JMDict, and Anki export :older_man:.
+  - [tanku Anime](https://github.com/DanielDcool/tankuanime) - Self-hosted player that hides subtitles until you pause; JMdict lookup, AI breakdown, Anki export :computer: :jp: :robot:.
 - Subtitles
   - [kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) - Repository of Japanese subtitles for many series.
 - [Japanese TV Channels](https://japantv.app) - Browse Japanese TV networks on YouTube (live and latest) with an interactive player.
