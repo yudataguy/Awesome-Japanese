@@ -180,7 +180,8 @@ The natural successor to beginner textbooks like Genki, Quartet develops all fou
 - [Pokelingo](https://pokelingo.io/en/riddle/?lang=ja) - Daily puzzle: read a Pokédex entry in Japanese and guess the Pokémon; all 1,025 names in katakana :iphone: :baby:.
 - [KaChiKa JA](https://kachika.app/) - AI photo-to-vocabulary app with example sentences and FSRS review; images stored on-device :iphone: :moneybag: :robot:.
 - [WordMeadow](https://wordmeadow.app/learn/japanese/from/english/themes) - Visual Japanese vocabulary theme cards grouped by everyday topics :computer: :baby:.
-
+- [Ayatoki](https://ayatokigame.com/en/) - Daily Wordle-style vocabulary puzzle in rōmaji; shows kanji and meaning, JLPT N4–N1 :computer:.
+  
 ## Grammar
 
 - [Japanese Grammar Guide](https://www.guidetojapanese.org/learn/grammar) - By Tae Kim. A complete guide to Japanese grammar from knowing nothing to advanced topics.
