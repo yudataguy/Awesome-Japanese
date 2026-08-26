@@ -182,7 +182,8 @@ The natural successor to beginner textbooks like Genki, Quartet develops all fou
 - [WordMeadow](https://wordmeadow.app/learn/japanese/from/english/themes) - Visual Japanese vocabulary theme cards grouped by everyday topics :computer: :baby:.
 - [Onomanabi](https://onomanabi.take-lab.com/) - Onomatopoeia trainer with an animation for every word, native notes, and similar-word maps :iphone: :moneybag: :robot:.
 - [WaseiGo](https://waseigo.take-lab.com/) - 1,000+ wasei-eigo words that look like English but mean something else, with illustrated dialogues :iphone: :moneybag: :robot:.
-
+- [Ayatoki](https://ayatokigame.com/en/) - Daily Wordle-style vocabulary puzzle in rōmaji; shows kanji and meaning, JLPT N4–N1 :computer:.
+  
 ## Grammar
 
 - [Japanese Grammar Guide](https://www.guidetojapanese.org/learn/grammar) - By Tae Kim. A complete guide to Japanese grammar from knowing nothing to advanced topics.
@@ -218,6 +219,7 @@ The natural successor to beginner textbooks like Genki, Quartet develops all fou
 - [Manabi Reader](https://reader.manabi.io) - Web/RSS/EPUB reader with word lookup, vocab and kanji tracking, Anki export, and curated reading :iphone: :computer:.
 - [Nekonbini](https://nekonbini.com) - JLPT-graded stories with furigana that auto-hides as you learn, instant lookups, and built-in SRS :computer: :moneybag:.
 - [Meika Sensei's Easy Japanese Blog](https://meikasensei.com) - Short multiple-level articles by a Japanese teacher, on current Japanese trends and seasons :baby: :man:.
+- [EZFurigana](https://www.ezfurigana.com/) - Add furigana to Japanese text, images, PDFs, DOCX, EPUBs, and webpages by JLPT level. :computer:
 
 ## Listening
 
