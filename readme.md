@@ -228,6 +228,7 @@ The natural successor to beginner textbooks like Genki, Quartet develops all fou
 - [mykikitori](https://www.mykikitori.com/) - Practice your Japanese listening skills.
 - [Tsunahiro](https://tsunagarujp.mext.go.jp/) - Website for Foreign Nationals as Residents to Learn Japanese Language.
 - [ListenRadio (リスラジ)](https://listenradio.jp/) - Live streams from community FM stations across Japan :jp: :japan: :iphone:.
+- [Japan Local Radio](https://radio.japantv.app) - Browse 338 community FM and NHK stations by prefecture or map :japan: :robot:.
 - Podcast
   - [Podcast Ranking](https://podcastranking.jp/) - Japanese Podcast ranking website, discover Japanese language podcasts.
   - [Learn Japanese Pod](https://learnjapanesepod.com/) - Japanese language learning podcast.
