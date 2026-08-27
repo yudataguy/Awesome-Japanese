@@ -10,7 +10,9 @@ import { marked } from "marked";
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, "..");
 
-const SITE_URL = "https://yudataguy.github.io/awesome-japanese/";
+// The one place the public origin is written down: template.html, sitemap.xml and
+// robots.txt all derive from it, so a domain move is a one-line change here.
+const SITE_URL = "https://awesome-japanese.japantv.app/";
 
 // GitHub emoji shortcodes used in the readme -> real emoji (so the page matches GitHub).
 const EMOJI = {
@@ -76,11 +78,18 @@ function sitemap() {
   );
 }
 
+function robots() {
+  return `User-agent: *\nAllow: /\n\nSitemap: ${SITE_URL}sitemap.xml\n`;
+}
+
 const readme = await readFile(join(ROOT, "readme.md"), "utf8");
 const template = await readFile(join(__dirname, "template.html"), "utf8");
 
 const { html, tocHtml } = buildContent(readme);
-const page = template.replace("{{TOC}}", tocHtml).replace("{{CONTENT}}", html);
+const page = template
+  .replaceAll("{{SITE_URL}}", SITE_URL)
+  .replace("{{TOC}}", tocHtml)
+  .replace("{{CONTENT}}", html);
 
 await mkdir(join(ROOT, "assets"), { recursive: true });
 await copyFile(join(__dirname, "home.css"), join(ROOT, "assets", "home.css"));
@@ -88,5 +97,6 @@ await copyFile(join(__dirname, "share.js"), join(ROOT, "assets", "share.js"));
 await copyFile(join(__dirname, "social-preview.png"), join(ROOT, "assets", "social-preview.png"));
 await writeFile(join(ROOT, "index.html"), page);
 await writeFile(join(ROOT, "sitemap.xml"), sitemap());
+await writeFile(join(ROOT, "robots.txt"), robots());
 
-console.log("Built index.html, assets/home.css, sitemap.xml");
+console.log("Built index.html, assets/home.css, sitemap.xml, robots.txt");
