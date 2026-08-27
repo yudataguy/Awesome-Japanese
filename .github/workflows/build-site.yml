@@ -2,7 +2,8 @@ name: Deploy site
 
 # Builds the themed homepage from main's readme.md using the theme + build
 # tooling that lives on the `homepage` branch, then deploys it to GitHub Pages
-# via the official artifact flow. main stays clean (learning material only);
+# via the official artifact flow, served at https://awesome-japanese.japantv.app.
+# main stays clean (learning material only);
 # all website code lives on `homepage`. The TV app now lives in its own repo
 # (japantvapp -> https://japantv.app).
 # Requires: repo Settings -> Pages -> Source = "GitHub Actions".
@@ -37,7 +38,7 @@ jobs:
           path: .homepage
       - name: Stage website tooling from the homepage branch
         run: |
-          cp -r .homepage/site .homepage/package.json .homepage/package-lock.json .homepage/robots.txt .homepage/.nojekyll .
+          cp -r .homepage/site .homepage/package.json .homepage/package-lock.json .homepage/.nojekyll .
       - uses: actions/setup-node@v6
         with:
           node-version: "24"
@@ -47,6 +48,9 @@ jobs:
         run: |
           mkdir -p _site
           cp -r index.html assets sitemap.xml robots.txt .nojekyll _site/
+          # Artifact deploys publish only what is in _site, so the custom domain
+          # has to be re-stated on every run or Pages drops back to github.io.
+          echo "awesome-japanese.japantv.app" > _site/CNAME
           for f in readme.md mobile.md; do [ -f "$f" ] && cp "$f" _site/; done
       - uses: actions/configure-pages@v6
       - uses: actions/upload-pages-artifact@v5
