@@ -183,6 +183,7 @@ The natural successor to beginner textbooks like Genki, Quartet develops all fou
 - [Onomanabi](https://onomanabi.take-lab.com/) - Onomatopoeia trainer with an animation for every word, native notes, and similar-word maps :iphone: :moneybag: :robot:.
 - [WaseiGo](https://waseigo.take-lab.com/) - 1,000+ wasei-eigo words that look like English but mean something else, with illustrated dialogues :iphone: :moneybag: :robot:.
 - [Ayatoki](https://ayatokigame.com/en/) - Daily Wordle-style vocabulary puzzle in rōmaji; shows kanji and meaning, JLPT N4–N1 :computer:.
+- [Moji - Learn Japanese Daily](https://moji.study/) - Curated vocab and kanji deck in frequency order, kana to N1, with FSRS-6 scheduling and mnemonics :iphone: :moneybag: :robot:.
   
 ## Grammar
 
