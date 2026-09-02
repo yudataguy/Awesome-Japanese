@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="206" height="20" role="img" aria-label="Featured on: Awesome Japanese">
+  <title>Featured on Awesome Japanese</title>
+  <linearGradient id="sheen" x2="0" y2="100%">
+    <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <clipPath id="round"><rect width="206" height="20" rx="3" fill="#fff"/></clipPath>
+  <g clip-path="url(#round)">
+    <rect width="80" height="20" fill="#3a352c"/>
+    <rect x="80" width="126" height="20" fill="#284a6b"/>
+    <rect width="206" height="20" fill="url(#sheen)"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="110" text-rendering="geometricPrecision" transform="scale(.1)">
+    <text x="400" y="150" fill="#000" fill-opacity=".25">Featured on</text>
+    <text x="400" y="140">Featured on</text>
+    <text x="1430" y="150" fill="#000" fill-opacity=".25">Awesome Japanese</text>
+    <text x="1430" y="140">Awesome Japanese</text>
+  </g>
+</svg>
