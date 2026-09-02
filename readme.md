@@ -23,6 +23,7 @@
 - [Video](#video)
 - [Dictionary](#dictionary)
 - [Software](#software)
+- [Featured on This List](#featured-on-this-list)
 
 ## How To Use These Resources
 
@@ -219,7 +220,7 @@ The natural successor to beginner textbooks like Genki, Quartet develops all fou
 - [Manabi Reader](https://reader.manabi.io) - Web/RSS/EPUB reader with word lookup, vocab and kanji tracking, Anki export, and curated reading :iphone: :computer:.
 - [Nekonbini](https://nekonbini.com) - JLPT-graded stories with furigana that auto-hides as you learn, instant lookups, and built-in SRS :computer: :moneybag:.
 - [Meika Sensei's Easy Japanese Blog](https://meikasensei.com) - Short multiple-level articles by a Japanese teacher, on current Japanese trends and seasons :baby: :man:.
-- [EZFurigana](https://www.ezfurigana.com/) - Add furigana to Japanese text, images, PDFs, DOCX, EPUBs, and webpages by JLPT level. :computer:
+- [EZFurigana](https://www.ezfurigana.com/) - Add furigana to Japanese text, images, PDFs, DOCX, EPUBs, and webpages by JLPT level :computer:.
 
 ## Listening
 
@@ -345,7 +346,7 @@ The natural successor to beginner textbooks like Genki, Quartet develops all fou
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
-## Featured on This List?
+## Featured on This List
 
 If your resource is listed here, you are welcome to display this badge:
 
