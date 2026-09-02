@@ -51,7 +51,7 @@ jobs:
           # Artifact deploys publish only what is in _site, so the custom domain
           # has to be re-stated on every run or Pages drops back to github.io.
           echo "awesome-japanese.japantv.app" > _site/CNAME
-          for f in readme.md mobile.md; do [ -f "$f" ] && cp "$f" _site/; done
+          cp readme.md _site/
       - uses: actions/configure-pages@v6
       - uses: actions/upload-pages-artifact@v5
         with:

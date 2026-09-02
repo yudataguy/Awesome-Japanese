@@ -344,3 +344,23 @@ The natural successor to beginner textbooks like Genki, Quartet develops all fou
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+## Featured on This List?
+
+If your resource is listed here, you are welcome to display this badge:
+
+[![Featured on Awesome Japanese](https://awesome-japanese.japantv.app/assets/badge.svg)](https://awesome-japanese.japantv.app/?utm_source=badge)
+
+Markdown:
+
+```markdown
+[![Featured on Awesome Japanese](https://awesome-japanese.japantv.app/assets/badge.svg)](https://awesome-japanese.japantv.app/?utm_source=badge)
+```
+
+HTML:
+
+```html
+<a href="https://awesome-japanese.japantv.app/?utm_source=badge"><img src="https://awesome-japanese.japantv.app/assets/badge.svg" alt="Featured on Awesome Japanese" height="20"></a>
+```
+
+The badge is optional. Inclusion on this list is editorial and never depends on linking back.

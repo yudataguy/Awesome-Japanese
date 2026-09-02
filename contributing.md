@@ -55,7 +55,25 @@ Add each item as a single list line in the form:
 - Provide a clear and concise description for each contribution.
 - Check your spelling and grammar.
 - Please disclose any affiliation if you own or are connected to the resource, so we can note it for transparency (see *Nominating Your Own App or Resource* above).
-- Don't add affiliate or referral links to resources you're submitting.
+- Read **Editorial Independence** below before submitting an item you're connected to.
+
+## Editorial Independence
+
+Inclusion on this list is editorial. Items are chosen on merit alone, and being listed is never conditional on anything given in return:
+
+- **No link exchange.** You don't need to link back to this list, and offering to won't help your submission.
+- **No paid placement.** Listings are not for sale. Nobody has paid to appear here.
+- **No affiliate or referral links.** Don't add tracking or referral parameters to a resource you're submitting.
+
+Please don't offer, request, or arrange a reciprocal link, payment, or other consideration in exchange for a listing. Pull requests that do will be closed.
+
+### The "Featured on Awesome Japanese" Badge
+
+If your resource is already listed, you're welcome to display this badge on your own site or README:
+
+[![Featured on Awesome Japanese](https://awesome-japanese.japantv.app/assets/badge.svg)](https://awesome-japanese.japantv.app/?utm_source=badge)
+
+Copy-paste Markdown and HTML snippets are in the [readme](readme.md#featured-on-this-list). The badge is entirely optional. Displaying it earns no preferential treatment, and taking it down will never get an item removed.
 
 ## Questions?
 

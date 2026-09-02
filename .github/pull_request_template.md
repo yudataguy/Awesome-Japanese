@@ -5,6 +5,7 @@
 <!-- If this PR resolves an open issue, write "Closes #<number>" here so the issue is linked and closes with this PR. -->
 <!-- Pricing: do NOT use the word "free" — items without `:moneybag:` are already considered free. If the item has freemium tiers, in-app purchases, or paid plans, add the `:moneybag:` emoji. -->
 <!-- Generative AI: add the `:robot:` emoji if the item uses generative AI in the product, or if AI did most (>50%) of building it — see the AI Assistance survey below. -->
+<!-- Editorial independence: listings are not for sale and never depend on linking back. If this item is merged you're welcome to display the "Featured on Awesome Japanese" badge, but it is entirely optional — see contributing.md. -->
 
 ## Type of change
 <!-- Put an `x` in all the boxes that apply -->
@@ -26,6 +27,7 @@
 - [ ] I have added the item to the appropriate category
 - [ ] If this PR resolves an issue, I linked it with `Closes #<number>` in the description above
 - [ ] I understand this PR may be automatically closed after 90 days if there is no follow-up after a requested change, and that closing it will also close any issue it is linked to
+- [ ] I have not offered, requested, or arranged a reciprocal link, payment, or other consideration in exchange for this item being listed
 
 ## Your Role
 <!-- Please choose one option that applies to you -->
