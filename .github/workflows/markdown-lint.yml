@@ -1,10 +1,26 @@
 name: Markdown lint
 
-# Checks Markdown formatting on pull requests. The homepage is generated from
-# readme.md, so well-formed Markdown keeps the build correct.
+# Checks Markdown formatting. The homepage is generated from readme.md, so
+# well-formed Markdown keeps the build correct.
+#
+# Two independent checks run here:
+#
+# - markdownlint enforces this repo's own house style (.markdownlint.jsonc plus
+#   the custom 100-char description rule).
+# - awesome-lint enforces the sindresorhus/awesome submission rules, which are a
+#   DIFFERENT and partly stricter set: no trailing punctuation in headings, a
+#   Contents entry for every h2, descriptions ending in punctuation. Markdown can
+#   pass markdownlint cleanly and still fail awesome-lint, so both are needed.
+#
+# Runs on pushes to main as well as pull requests, because maintenance changes
+# are sometimes merged straight to main and would otherwise skip the check.
 
 on:
   pull_request:
+    paths:
+      - "**/*.md"
+  push:
+    branches: [main]
     paths:
       - "**/*.md"
   workflow_dispatch:
@@ -22,3 +38,18 @@ jobs:
           node-version: "20"
       - name: Lint Markdown
         run: npx -y markdownlint-cli2@0.22.1 "**/*.md" "!node_modules"
+
+  awesome-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Lint as an awesome list
+        # awesome-lint reads a lowercase `github_token` -- the conventional
+        # GITHUB_TOKEN name is ignored. Without it the repo-age and repo-metadata
+        # rules silently skip rather than fail, so this is for coverage.
+        env:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+        run: npx -y awesome-lint@2.3.0
