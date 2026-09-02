@@ -1,0 +1,115 @@
+name: Offer badge on merge
+
+# When a contributor who is affiliated with the item they added gets their PR
+# merged, leave a one-time comment offering the "Featured on Awesome Japanese"
+# badge. This is the only place the badge is ever offered to someone directly:
+# it goes to people who opted in by submitting their own item, at the moment
+# they have just received something, and it is never sent unsolicited. See the
+# Editorial Independence section of contributing.md -- displaying the badge is
+# optional and has no bearing on inclusion.
+#
+# Uses pull_request_target so the workflow has a write token even for PRs from
+# forks (the default for outside contributors). This is safe because the job
+# only reads the PR body from the event payload -- it never checks out or runs
+# the PR's code.
+
+on:
+  pull_request_target:
+    types: [closed]
+
+permissions:
+  contents: read
+  pull-requests: write
+  issues: write
+
+jobs:
+  offer-badge:
+    # Closing a PR without merging it should stay silent.
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    steps:
+      - name: Offer the badge to affiliated contributors
+        uses: actions/github-script@60a0d83039c74a4aee543508d2ffcb1c3799cdea # v7
+        with:
+          script: |
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+            const pr = context.payload.pull_request;
+            const number = pr.number;
+
+            const MARKER = "<!-- badge-offer -->";
+            const SITE = "https://awesome-japanese.japantv.app";
+
+            const lines = (pr.body || "").split("\n");
+            const ticked = (re) => lines.some((l) => new RegExp(`^\\s*- \\[(x|X)\\].*${re}`).test(l));
+
+            // Only offer to people who said the item is theirs, and only for
+            // actual list additions -- not doc fixes or removals.
+            const isAffiliated = ticked("affiliated with this item");
+            const isAddition = ticked("New addition to the list");
+            if (!isAffiliated || !isAddition) {
+              core.info(
+                `Skipping: affiliated=${isAffiliated}, addition=${isAddition}. ` +
+                  "The badge is only offered for merged additions by an affiliated contributor."
+              );
+              return;
+            }
+
+            // Offering the badge to the maintainer's own submissions is noise.
+            if (pr.user.login.toLowerCase() === owner.toLowerCase()) {
+              core.info("Skipping: PR authored by the repository owner.");
+              return;
+            }
+
+            // One offer per PR, even if this ever re-runs.
+            const comments = await github.paginate(github.rest.issues.listComments, {
+              owner,
+              repo,
+              issue_number: number,
+              per_page: 100,
+            });
+            if (comments.some((c) => c.body && c.body.includes(MARKER))) {
+              core.info("Badge already offered on this PR; nothing to do.");
+              return;
+            }
+
+            const md = `[![Featured on Awesome Japanese](${SITE}/assets/badge.svg)](${SITE}/?utm_source=badge)`;
+            const html = `<a href="${SITE}/?utm_source=badge"><img src="${SITE}/assets/badge.svg" alt="Featured on Awesome Japanese" height="20"></a>`;
+
+            const body = [
+              MARKER,
+              `🌸 Thanks for the contribution, @${pr.user.login} — it's merged and now live on [the list](${SITE}/).`,
+              "",
+              "Since you built this, you're welcome to display the badge on your own README or site:",
+              "",
+              md,
+              "",
+              "<details><summary>Copy-paste snippets</summary>",
+              "",
+              "Markdown:",
+              "",
+              "```markdown",
+              md,
+              "```",
+              "",
+              "HTML:",
+              "",
+              "```html",
+              html,
+              "```",
+              "",
+              "</details>",
+              "",
+              "Entirely optional, and there's nothing to do if you'd rather not — " +
+                "your item stays listed either way. Inclusion here is editorial and never " +
+                "depends on linking back.",
+            ].join("\n");
+
+            await github.rest.issues.createComment({
+              owner,
+              repo,
+              issue_number: number,
+              body,
+            });
+
+            core.info(`Offered the badge on PR #${number}.`);
