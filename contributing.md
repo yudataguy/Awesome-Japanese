@@ -16,6 +16,20 @@ Thank you for your interest in contributing to the Awesome Japanese List! We're 
 
 Self-nominations are welcome — if you built an app, site, or resource that fits the list, you're encouraged to submit it. We only ask that you're up front about it: in your pull request, tick **"I'm affiliated with this item"** under *Your Role* so we can note the affiliation for transparency. Submissions are judged on the same quality bar as any other, regardless of who submits them.
 
+#### Eligibility for Self-Nominated Items
+
+Awesome Japanese is a curated list of genuinely useful Japanese-language content and tools. It is **not** a place for marketing or self-promotion, and a listing is not a launch announcement. To keep self-nominations to resources with a proven track record, an item you nominate yourself must meet **both** of the following:
+
+1. **At least 6 months old.** The item must have been publicly available for at least six months before the pull request is opened. Betas and soft launches count from the date the public could actually use it.
+2. **At least 100 users, if it's paid.** If the item has paid plans, in-app purchases, or freemium tiers (i.e. it carries the `:moneybag:` emoji), it must have at least 100 users (registered accounts, active subscribers, or paying customers — any honest measure is fine).
+
+**Proof is required.** Tick the boxes under *Self-Nomination Eligibility* in the pull request template and attach evidence. Either kind is accepted:
+
+- **Public records** — for example a dated launch post, changelog, blog announcement, App Store or Google Play listing showing the release date, Wayback Machine snapshot, public download or review counts, or a press mention.
+- **Private records** — for example a screenshot of your analytics, store console, or billing dashboard. Don't post private records on the public pull request; instead say in the PR that you'll provide proof privately, and a maintainer will reach out to arrange it. Private records are used only to verify eligibility and are never published.
+
+Self-nominated pull requests that don't meet these requirements, or that lack proof, will be closed. You're welcome to resubmit once the item qualifies. These requirements apply only to self-nominations — a resource nominated by an unaffiliated third party is not subject to them.
+
 ### Improving Existing Resources
 
 - If you notice a resource that could be improved or updated, please open an issue detailing your proposed changes.
@@ -55,6 +69,7 @@ Add each item as a single list line in the form:
 - Provide a clear and concise description for each contribution.
 - Check your spelling and grammar.
 - Please disclose any affiliation if you own or are connected to the resource, so we can note it for transparency (see *Nominating Your Own App or Resource* above).
+- Self-nominated items must be at least 6 months old and, if paid, have at least 100 users, with proof (see *Eligibility for Self-Nominated Items* above).
 - Read **Editorial Independence** below before submitting an item you're connected to.
 
 ## Editorial Independence

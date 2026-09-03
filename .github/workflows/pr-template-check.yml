@@ -49,8 +49,9 @@ jobs:
             // - "Type of change" / "Your Role" are pick-one  -> min: 1
             // - "Checklist" items are all mandatory affirmations -> requireAll
             // To relax a section later, change `min` or drop `requireAll`.
-            // "Survey: AI Assistance (Optional)" is handled separately below --
-            // it is only enforced when the submitter is affiliated with the item.
+            // "Survey: AI Assistance (Optional)" and "Self-Nomination Eligibility"
+            // are handled separately below -- they are only enforced when the
+            // submitter is affiliated with the item.
             const SECTION_RULES = [
               { header: "Type of change", min: 1 },
               { header: "Checklist", requireAll: true },
@@ -105,6 +106,21 @@ jobs:
               .split("\n")
               .some((l) => /^\s*- \[(x|X)\].*affiliated with this item/.test(l));
             if (isAffiliated) {
+              // Self-nominated items must be >= 6 months old and, if paid,
+              // have >= 100 users, with proof (see contributing.md). All
+              // eligibility boxes are required for affiliated submitters.
+              const ELIGIBILITY = "Self-Nomination Eligibility";
+              const elig = sections[ELIGIBILITY];
+              if (!elig || elig.total === 0) {
+                problems.push(
+                  `The **${ELIGIBILITY}** section is missing. Please don't delete parts of the template — fill it in instead.`
+                );
+              } else if (elig.ticked < elig.total) {
+                problems.push(
+                  `**${ELIGIBILITY}**: since you're affiliated with this item, please confirm all ${elig.total} eligibility requirements (currently ${elig.ticked}/${elig.total}) and attach proof — see [contributing.md](https://github.com/${owner}/${repo}/blob/main/contributing.md#eligibility-for-self-nominated-items).`
+                );
+              }
+
               const SURVEY = "Survey: AI Assistance (Optional)";
               const survey = sections[SURVEY];
               if (!survey || survey.total === 0) {
