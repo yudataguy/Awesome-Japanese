@@ -5,6 +5,7 @@
 <!-- If this PR resolves an open issue, write "Closes #<number>" here so the issue is linked and closes with this PR. -->
 <!-- Pricing: do NOT use the word "free" — items without `:moneybag:` are already considered free. If the item has freemium tiers, in-app purchases, or paid plans, add the `:moneybag:` emoji. -->
 <!-- Generative AI: add the `:robot:` emoji if the item uses generative AI in the product, or if AI did most (>50%) of building it — see the AI Assistance survey below. -->
+<!-- Self-nominations: this list is not a marketing channel. If you built this item, it must be at least 6 months old and, if paid, have at least 100 users — fill in the Self-Nomination Eligibility section below. -->
 <!-- Editorial independence: listings are not for sale and never depend on linking back. If this item is merged you're welcome to display the "Featured on Awesome Japanese" badge, but it is entirely optional — see contributing.md. -->
 
 ## Type of change
@@ -33,6 +34,16 @@
 <!-- Please choose one option that applies to you -->
 - [ ] I'm affiliated with this item
 - [ ] I'm nominating this item
+
+## Self-Nomination Eligibility
+<!-- Only required if you ticked "I'm affiliated with this item" above — otherwise leave this section as is. See "Eligibility for Self-Nominated Items" in contributing.md. -->
+- [ ] The item has been publicly available for at least 6 months
+- [ ] The item has no paid plans, in-app purchases, or freemium tiers — OR it does and has at least 100 users
+- [ ] I have provided proof below (public records), or stated below that I will provide it privately to a maintainer
+
+### Proof of eligibility
+<!-- Public records: paste links here (launch post, changelog, app store listing with release date, Wayback Machine snapshot, public download/review counts, etc.). -->
+<!-- Private records (analytics, store console, billing dashboard): do NOT post them here — write "Will provide privately" and a maintainer will reach out. -->
 
 ## Survey: AI Assistance (Optional)
 <!-- Optional survey, only asked if you're affiliated with this item (you ticked "I'm affiliated with this item" above). Roughly how much AI was involved in finding/writing this contribution? Pick one — any honest answer is welcome. -->
